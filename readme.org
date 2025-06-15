@@ -1,12 +1,12 @@
-/episodes
-	/episodes/{code}
-		/episodes/{code}/characters
-		/episodes/{code}/characters&episode_info=true
-		/episodes/{code}/quotes
-		/episodes/{code}/quotes&episode_info=true
-/characters
-	/characters/{id}
-		/characters/{id}/quotes
-		/characters/{id}/quotes&character_info=true
-/quotes
-	/quotes/{id}
+*** /episodes
+**** /episodes/{code}
+***** /episodes/{code}/characters
+****** /episodes/{code}/characters&episode_info=true
+***** /episodes/{code}/quotes
+****** /episodes/{code}/quotes&episode_info=true
+*** /characters
+**** /characters/{id}
+***** /characters/{id}/quotes
+****** /characters/{id}/quotes&character_info=true
+*** /quotes
+**** /quotes/{id}
