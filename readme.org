@@ -1,3 +1,268 @@
+*** Data
+
+This is our initial database.
+
+Here is our initial query for TMDB. We should make this a REST call within this document.
+
+#+begin_src rjsx
+  const episodes = [];
+  const characters = [];
+  // const query = async () => {
+  //   let season = 1;
+  //   let episode = 1;
+  //   while (season <= 5) {
+  //     while (episode <= 13) {
+  //       const response = await fetch(`https:api.themoviedb.org/3/tv/64432/season/${season}/episode/${episode}?append_to_response=credits&language=en-US&api_key=674dad8247e14701798e010191bbb885`);
+  //       const data = await response.json();
+  //       episode++;
+  //     }
+
+  //     season++;
+  //   }
+  // }
+
+  const query = async () => {
+    const response = await fetch(`https:api.themoviedb.org/3/tv/64432/season/1/episode/1?append_to_response=credits&language=en-US&api_key=674dad8247e14701798e010191bbb885`);
+    const data = await response.json();
+    console.log(data);
+  }
+
+  query();
+
+  const episode = {
+    air_date: '2015-12-16',
+    episode_code: 1,
+    episode_type: 'standard',
+    guest_stars: [
+      {
+	character: 'James',
+	credit_id: '5a10486992514138f902bd08',
+	order: 505,
+	adult: false,
+	gender: 2,
+	id: 56556,
+	known_for_department: 'Acting',
+	name: 'Michael Cassidy',
+	original_name: 'Michael Cassidy',
+	popularity: 1.1459,
+	profile_path: '/fZCDSWnHabiv2eP05cvpahYejCb.jpg'
+      },
+      {
+	character: 'Professor Van Der Weghe',
+	credit_id: '5a1048b6c3a3686280030502',
+	order: 506,
+	adult: false,
+	gender: 2,
+	id: 31528,
+	known_for_department: 'Acting',
+	name: 'Wayne Pére',
+	original_name: 'Wayne Pére',
+	popularity: 0.9796,
+	profile_path: '/lwXHBf6Iy627B7wLgzIy43NKzRi.jpg'
+      },
+      {
+	character: 'Dr. Jennifer London',
+	credit_id: '5a1048e7c3a368628602f3b4',
+	order: 507,
+	adult: false,
+	gender: 1,
+	id: 51699,
+	known_for_department: 'Acting',
+	name: 'Tembi Locke',
+	original_name: 'Tembi Locke',
+	popularity: 0.5608,
+	profile_path: '/oe9bXpFmv9udogSzy6Lk6HlwplJ.jpg'
+      },
+      {
+	character: 'Female Professor',
+	credit_id: '5a10493392514138f602cf3c',
+	order: 508,
+	adult: false,
+	gender: 1,
+	id: 42279,
+	known_for_department: 'Acting',
+	name: 'Laura Fraser',
+	original_name: 'Laura Fraser',
+	popularity: 1.5576,
+	profile_path: '/4aD3xDLA22CIf6jdK0IAs75h8pp.jpg'
+      },
+      {
+	character: 'Eliza',
+	credit_id: '5a10496bc3a368628302e8bb',
+	order: 509,
+	adult: false,
+	gender: 1,
+	id: 1014921,
+	known_for_department: 'Acting',
+	name: 'Esmé Bianco',
+	original_name: 'Esmé Bianco',
+	popularity: 1.1013,
+	profile_path: '/3SV97kbZMdUmm6PvSGokM4pvLd4.jpg'
+      },
+      {
+	character: 'Jane Chatwin',
+	credit_id: '5a1049e492514138f302e5b9',
+	order: 510,
+	adult: false,
+	gender: 1,
+	id: 1925680,
+	known_for_department: 'Acting',
+	name: 'Rose Liston',
+	original_name: 'Rose Liston',
+	popularity: 0.0352,
+	profile_path: '/3764tBTejvMkHOcdcMjJzXPxmdr.jpg'
+      },
+      {
+	character: 'Martin Chatwin',
+	credit_id: '5a104a19c3a368627d0320fa',
+	order: 511,
+	adult: false,
+	gender: 2,
+	id: 1181558,
+	known_for_department: 'Acting',
+	name: 'Seth Meriwether',
+	original_name: 'Seth Meriwether',
+	popularity: 0.2356,
+	profile_path: '/c2SlCLZWrw91tE1ZGuswx2W1Byj.jpg'
+      },
+      {
+	character: 'Rupert Chatwin',
+	credit_id: '5a104a5c92514138f602d1fc',
+	order: 512,
+	adult: false,
+	gender: 0,
+	id: 1925681,
+	known_for_department: 'Acting',
+	name: 'Brian Beckman',
+	original_name: 'Brian Beckman',
+	popularity: 0.0579,
+	profile_path: null
+      },
+      {
+	character: 'The Beast',
+	credit_id: '5a104a9992514138ed02daa7',
+	order: 513,
+	adult: false,
+	gender: 2,
+	id: 1585264,
+	known_for_department: 'Acting',
+	name: 'Anthony Marble',
+	original_name: 'Anthony Marble',
+	popularity: 0.3558,
+	profile_path: '/1dkH6gSICsz2NBiQ14ghGbTBkj6.jpg'
+      },
+      {
+	character: 'Pete',
+	credit_id: '5a10484292514138f902bcbc',
+	order: 700,
+	adult: false,
+	gender: 2,
+	id: 118076,
+	known_for_department: 'Acting',
+	name: 'David Call',
+	original_name: 'David Call',
+	popularity: 0.8535,
+	profile_path: '/lcfAlaiVRjpmb5OXtrso0eH8br.jpg'
+      },
+      {
+	character: 'Psychic Girl #2',
+	credit_id: '65e60939006b010163a242c0',
+	order: 720,
+	adult: false,
+	gender: 1,
+	id: 932107,
+	known_for_department: 'Acting',
+	name: 'Misty Ormiston',
+	original_name: 'Misty Ormiston',
+	popularity: 0.1246,
+	profile_path: null
+      },
+      {
+	character: 'Psychic Girl #1',
+	credit_id: '65e60a1e006b010163a2432c',
+	order: 721,
+	adult: false,
+	gender: 1,
+	id: 932103,
+	known_for_department: 'Acting',
+	name: 'Kim Ormiston',
+	original_name: 'Kim Ormiston',
+	popularity: 0.2036,
+	profile_path: '/hTY8SqulWwea7zGtSnoVpvAvM11.jpg'
+      },
+      {
+	character: 'Rainbow Girl',
+	credit_id: '65e60a76a672540185ae061b',
+	order: 722,
+	adult: false,
+	gender: 1,
+	id: 1748192,
+	known_for_department: 'Acting',
+	name: 'Alexandra Lucchesi',
+	original_name: 'Alexandra Lucchesi',
+	popularity: 0.1261,
+	profile_path: '/26X02HYpYte0NIm5ocOPzssPG6n.jpg'
+      },
+      {
+	character: 'Physical Kid',
+	credit_id: '65e60ab6be7f35017cb343c3',
+	order: 723,
+	adult: false,
+	gender: 1,
+	id: 2483949,
+	known_for_department: 'Acting',
+	name: 'Krystal Tomlin',
+	original_name: 'Krystal Tomlin',
+	popularity: 0.1498,
+	profile_path: '/iC7Dfy6R9EcO5SBvTSwiOaX2ylB.jpg'
+      },
+      {
+	character: 'The Beast (voice) (uncredited)',
+	credit_id: '65e9c05c7c6de3014907c78c',
+	order: 732,
+	adult: false,
+	gender: 2,
+	id: 180359,
+	known_for_department: 'Acting',
+	name: 'Charles Mesure',
+	original_name: 'Charles Mesure',
+	popularity: 0.573,
+	profile_path: '/W8bCZfLDHaI3ptn75WeVLYVtdk.jpg'
+      }
+    ],
+    name: 'Unauthorized Magic',
+    overview: 'A group of twentysomethings studying magic in New York discover a real-life fantasy world that poses a great threat to humanity in this drama adapted from Lev Grossman’s book series.',
+    id: 1136939,
+    production_code: '',
+    runtime: 52,
+    season_number: 1,
+    still_path: '/w2CcAiftwM24VchlGgR8RIgSKrD.jpg',
+    vote_average: 7.4,
+    vote_count: 26,
+    credits: {
+      cast: [
+	[Object], [Object],
+	[Object], [Object],
+	[Object], [Object],
+	[Object], [Object],
+	[Object]
+      ],
+      crew: [ [Object], [Object], [Object] ],
+      guest_stars: [
+	[Object], [Object],
+	[Object], [Object],
+	[Object], [Object],
+	[Object], [Object],
+	[Object], [Object],
+	[Object], [Object],
+	[Object], [Object],
+	[Object]
+      ]
+    }
+  }
+
+#+end_src
+
 *** /episodes
 Return an array of episodes. See =/episodes/{code}= for an example episode object.
 **** /episodes/{code}
