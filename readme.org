@@ -1,12 +1,19 @@
 *** /episodes
+Return an array of episodes. See =/episodes/{code}= for an example episode object.
 **** /episodes/{code}
+Returns the episode with the corresponding code. The code is in the format s{season_number}e{episode_number}, e.g. ="s01e01"= for the first episode of the first season and ="s05e13"= for the 13th episode of the 5th season.
+
+Example episode data:
+
+#+begin_src js-json
+#+end_src
 ***** /episodes/{code}/characters
-****** /episodes/{code}/characters&episode_info=true
+****** /episodes/{code}/characters&episode-info=true
 ***** /episodes/{code}/quotes
-****** /episodes/{code}/quotes&episode_info=true
+****** /episodes/{code}/quotes&episode-info=true
 *** /characters
 **** /characters/{id}
 ***** /characters/{id}/quotes
-****** /characters/{id}/quotes&character_info=true
+****** /characters/{id}/quotes&character-info=true
 *** /quotes
 **** /quotes/{id}
