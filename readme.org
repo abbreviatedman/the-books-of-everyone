@@ -268,17 +268,37 @@ Here is our initial query for TMDB. We should make this a REST call within this 
 This is the shape we want for our episodes:
 
 #+begin_src js-json
+    {
+      "title": "Unauthorized Magic",
+      "description": "A group of twentysomethings studying magic in New York discover a real-life fantasy world that poses a great threat to humanity in this drama adapted from Lev Grossman’s book series.",
+      "code": "s01e01",
+      "airDate": "2015-12-16",
+      "runtime": 52,
+      "characters":  [
+	{
+	  "name": "Alice Quinn",
+	  "id": "013912390",
+	},
+	{
+	  "name": "Quentin Coldwater",
+	  "id": "013912391",
+	},
+      ],
+      "quotes": []
+    }
+#+end_src
+
+*** Character Shape
+
+This is the shape we want for our characters:
+
+#+begin_src js-json
   {
-    "title": "Unauthorized Magic",
-    "overview": "A group of twentysomethings studying magic in New York discover a real-life fantasy world that poses a great threat to humanity in this drama adapted from Lev Grossman’s book series.",
-    "imdbId": 1136939,
-    "episodeCode": "s01e01",
-    "airDate": "2015-12-16",
-    "runtime": 52,
-    "characters": [],
+    "name": "Alice Quinn",
+    "actor": "Olivia Taylor Dudley",
+    "episodes": ["Unauthorized Magic", "The Source of Magic", "Consequences of Advanced Spellcasting"],
     "quotes": []
   }
-#+end_src
 
 *** /episodes
 Return an array of episodes. See =/episodes/{code}= for an example episode object.
