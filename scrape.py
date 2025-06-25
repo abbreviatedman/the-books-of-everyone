@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 from bson import ObjectId
-import requests
+from requests import get
 from sys import exit
 from time import sleep
 from json import dump
@@ -15,7 +15,7 @@ def handle_error(url, code):
     exit(1)
 
 def handle_episode(href, season_num, episode_num):
-    response = requests.get(f"{base_url}/{href}", headers={"User-Agent": "Mozilla/5.0"})
+    response = get(f"{base_url}/{href}", headers={"User-Agent": "Mozilla/5.0"})
     if response.status_code != 200:
         handle_error(response.url, response.status_code)
 
@@ -48,7 +48,7 @@ def handle_episode(href, season_num, episode_num):
     episode_code = f"e0{episode_num}" if episode_num < 10 else f"e{episode_num}"
     episode["code"] = season_code + episode_code
 
-    response = requests.get(f"{base_url}/{href}/fullcredits", headers={"User-Agent": "Mozilla/5.0"})
+    response = get(f"{base_url}/{href}/fullcredits", headers={"User-Agent": "Mozilla/5.0"})
     if response.status_code != 200:
         handle_error(response.url, response.status_code)
 
@@ -80,7 +80,7 @@ for season_num in range(1, 6):
     print(season_num)
     episode_num = 1
     episode_list_url = f"{base_url}/title/tt4254242/episodes/?season={season_num}"
-    response = requests.get(episode_list_url, headers={"User-Agent": "Mozilla/5.0"})
+    response = get(episode_list_url, headers={"User-Agent": "Mozilla/5.0"})
     if not response.ok:
         handle_error(response.url, response.status_code)
 
