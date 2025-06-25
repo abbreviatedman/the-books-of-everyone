@@ -1,64 +1,97 @@
 from bs4 import BeautifulSoup
+from bson import ObjectId
 import requests
-import sys
-from datetime import datetime
+from sys import exit
+from time import sleep
+from json import dump
 
+base_url = "https://www.imdb.com"
 characters = {}
-episode = {}
-episode_url = "https://www.imdb.com/title/tt4917582"
-cast_url = "https://www.imdb.com/title/tt4917582/fullcredits"
-response = requests.get(episode_url, headers={"User-Agent": "Mozilla/5.0"})
-if response.status_code != 200:
-    print("An error occurred.")
-    print(response.status_code)
-    sys.exit(1)
+episodes = []
 
-document = BeautifulSoup(response.content, "html.parser")
-episode["quotes"] = []
-episode["characters"] = []
-episode["title"] = document.find("span", {"data-testid": "hero__primary-text"}).get_text()
-episode["description"] = document.find("span", {"data-testid": "plot-xl"}).get_text()
-episode["code"] = "s01e01"
-date = (
-    document
-        .find("li", {"data-testid": "title-details-releasedate"})
-        .find("div")
-        .find("a")
-        .get_text()
-)
+def handle_error(url, code):
+    print(f"An error occurred accessing {url}.")
+    print(code)
+    exit(1)
 
-episode["airDate"] = datetime.strptime(date.strip(" (United States)"), "%B %d, %Y")
-episode["runtime"] = int(
-    document
-        .find("li", {"data-testid": "title-techspec_runtime"})
-        .find("div")
-        .get_text()
-        .split()[0]
-)
+def handle_episode(href, season_num, episode_num):
+    response = requests.get(f"{base_url}/{href}", headers={"User-Agent": "Mozilla/5.0"})
+    if response.status_code != 200:
+        handle_error(response.url, response.status_code)
 
-response = requests.get(cast_url, headers={"User-Agent": "Mozilla/5.0"})
-if response.status_code != 200:
-    print("An error occurred.")
-    print(response.status_code)
-    sys.exit(1)
+    document = BeautifulSoup(response.content, "html.parser")
+    episode = {}
+    episode["quotes"] = []
+    episode["characters"] = []
+    episode["title"] = document.find("span", {"data-testid": "hero__primary-text"}).get_text()
+    episode["description"] = document.find("span", {"data-testid": "plot-xl"}).get_text()
+    season_code = f"s0{season_num}" if season_num < 10 else f"s{season_num}"
+    episode_code = f"e0{episode_num}" if episode_num < 10 else f"e{episode_num}"
+    episode["code"] = season_code + episode_code
+    episode["airDate"] = (
+        document
+            .find("li", {"data-testid": "title-details-releasedate"})
+            .find("div")
+            .find("a")
+            .get_text()
+    )
 
-document = BeautifulSoup(response.content, "html.parser")
-cast_listings = document.find("div", {"data-testid": "sub-section-cast"}).find_all("li", {"data-testid": "name-credits-list-item"})
-extras_listings = document.find("div", {"data-testid": "second-sub-section-cast"}).find_all("li", {"data-testid": "name-credits-list-item"})
+    episode["runtime"] = int(
+        document
+            .find("li", {"data-testid": "title-techspec_runtime"})
+            .find("div")
+            .get_text()
+            .split()[0] # Get the first word, which is the number of minutes
+    )
 
-for listing in cast_listings + extras_listings:
-    listing_parts = [item.get_text() for item in listing.find_all("a")]
-    if len(listing_parts) == 4:
-        _, actor, _, name = listing_parts
-        if name + "-" + actor in characters:
-            characters[name + "-" + actor]["episodes"].append(episode["title"])
-        else:
-            characters[name + "-" + actor] = {
-                "actor": actor,
-                "episodes": [episode["title"]],
-                "quotes": [],
-            }
+    response = requests.get(f"{base_url}/{href}/fullcredits", headers={"User-Agent": "Mozilla/5.0"})
+    if response.status_code != 200:
+        handle_error(response.url, response.status_code)
 
+    document = BeautifulSoup(response.content, "html.parser")
+    cast_listings = []
+    extras_listings = []
+    if cast_section :=  document.find("div", {"data-testid": "sub-section-cast"}):
+        cast_listings = cast_section.find_all("li", {"data-testid": "name-credits-list-item"})
+    if extras_section := document.find("div", {"data-testid": "second-sub-section-cast"}):
+        extras_listings = extras_section.find_all("li", {"data-testid": "name-credits-list-item"})
 
-print(episode)
-print(characters)
+    for listing in cast_listings + extras_listings:
+        listing_parts = [item.get_text() for item in listing.find_all("a")]
+        if len(listing_parts) >= 4: # Less than this means no character name.
+            _, actor, _, *names = listing_parts # every element from index 3 on is a character name
+            character_key = "/".join(names) + "-" + actor # using character-actor key until I clean the data
+            if character_key in characters:
+                characters[character_key]["episodes"].append(episode["title"])
+            else:
+                characters[character_key] = {
+                    "actor": actor,
+                    "episodes": [episode["title"]],
+                    "quotes": [],
+                }
+
+    episodes.append(episode)
+
+for season_num in range(1, 6):
+    print(season_num)
+    episode_num = 1
+    episode_list_url = f"{base_url}/title/tt4254242/episodes/?season={season_num}"
+    response = requests.get(episode_list_url, headers={"User-Agent": "Mozilla/5.0"})
+    if not response.ok:
+        handle_error(response.url, response.status_code)
+
+    document = BeautifulSoup(response.content, "html.parser")
+    # lot of hairy url parsing here, could be room to clean it up
+    episode_hrefs = [link.find("a")["href"].split("?")[0][1:].rstrip("/") for link in document.find_all("h4")]
+    for href in episode_hrefs:
+        print(episode_num)
+        handle_episode(href, season_num, episode_num)
+        episode_num += 1
+        sleep(2)
+
+with open("characters.json", "w") as f:
+    dump(characters, f, indent=2, ensure_ascii=False)
+
+with open("episodes.json", "w") as f:
+    dump(episodes, f, indent=2, ensure_ascii=False)
+
