@@ -4,6 +4,8 @@ from requests import get
 from sys import exit
 from time import sleep
 from json import dump
+from datetime import datetime
+from re import sub
 
 base_url = "https://www.imdb.com"
 characters = {}
@@ -26,24 +28,25 @@ def handle_episode(href, season_num, episode_num):
         "characters": [],
         "title": document.find("span", {"data-testid": "hero__primary-text"}).get_text(),
         "description": document.find("span", {"data-testid": "plot-xl"}).get_text(),
-        "airDate": (
-            document
-                .find("li", {"data-testid": "title-details-releasedate"})
-                .find("div")
-                .find("a")
-                .get_text()
-                # remove (United States) and format date
-        ),
-
         "runtime": int(
             document
                 .find("li", {"data-testid": "title-techspec_runtime"})
                 .find("div")
                 .get_text()
                 .split()[0] # Get the first word, which is the number of minutes
-        )
+        ),
     }
 
+    date = (
+        document
+            .find("li", {"data-testid": "title-details-releasedate"})
+            .find("div")
+            .find("a")
+            .get_text()
+    )
+
+    cleaned_date = sub(r"\s*\(.*\)", "", date) # remove " (United States)" from the end
+    episode["airDate"] = {"$date": datetime.strptime(cleaned_date, "%B %d, %Y").isoformat + "Z"}
     season_code = f"s0{season_num}" if season_num < 10 else f"s{season_num}"
     episode_code = f"e0{episode_num}" if episode_num < 10 else f"e{episode_num}"
     episode["code"] = season_code + episode_code
