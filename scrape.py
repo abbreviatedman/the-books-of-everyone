@@ -68,21 +68,23 @@ def handle_episode(href, season_num, episode_num):
         if len(listing_parts) >= 4: # Less than this means no character name.
             _, actor, _, *names = listing_parts # every element from index 3 on is a character name
             for name in names:
-                episode["characters"].append({"_id": {"$oid": str(ObjectId())}, "name": name})
                 if character := next((character for character in characters if character["name"] == name), None):
                     character["episodes"].append({"title": episode["title"], "id": episode["_id"]})
+                    episode["characters"].append({"name": name, "id": character["_id"]})
                     if actor not in character["actors"]:
                         character["actors"].append(actor)
                 else:
-                    characters.append({
+                    character = {
                         "_id": {"$oid": str(ObjectId())},
                         "name": name,
                         "actors": [actor],
                         "quotes": [],
                         "episodes": [{"title": episode["title"], "id": episode["_id"]}],
-                    })
+                    }
 
     episodes.append(episode)
+                    characters.append(character)
+                    episode["characters"].append(character)
 
 for season_num in range(1, 6):
     print(season_num)
