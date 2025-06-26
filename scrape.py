@@ -105,7 +105,7 @@ for season_num in range(1, 6):
         print(episode_num)
         handle_episode(href, season_num, episode_num)
         episode_num += 1
-        sleep(2)
+        sleep(1)
 
 with open("characters.json", "w") as f:
     dump(characters, f, indent=2, ensure_ascii=False)
