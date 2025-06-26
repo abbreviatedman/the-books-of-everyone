@@ -8,7 +8,7 @@ from datetime import datetime
 from re import sub
 
 base_url = "https://www.imdb.com"
-characters = {}
+characters = []
 episodes = []
 
 def handle_error(url, code):
