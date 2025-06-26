@@ -75,4 +75,4 @@ def handle_episode(href, season_num, episode_num):
                     }
 
                     characters.append(character)
-                    episode["characters"].append(character)
+                    episode["characters"].append({"id": character["_id"], "name": name})
