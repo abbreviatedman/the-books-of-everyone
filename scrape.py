@@ -21,7 +21,7 @@ def handle_episode(href, season_num, episode_num):
 
     document = BeautifulSoup(response.content, "html.parser")
     episode = {
-        "id": ObjectId()
+        "_id": ObjectId(),
         "quotes": [],
         "characters": [],
         "title": document.find("span", {"data-testid": "hero__primary-text"}).get_text(),
