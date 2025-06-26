@@ -46,7 +46,7 @@ def handle_episode(href, season_num, episode_num):
     )
 
     cleaned_date = sub(r"\s*\(.*\)", "", date) # remove " (United States)" from the end
-    episode["airDate"] = {"$date": datetime.strptime(cleaned_date, "%B %d, %Y").isoformat + "Z"}
+    episode["airDate"] = {"$date": datetime.strptime(cleaned_date, "%B %d, %Y").isoformat() + "Z"}
     season_code = f"s0{season_num}" if season_num < 10 else f"s{season_num}"
     episode_code = f"e0{episode_num}" if episode_num < 10 else f"e{episode_num}"
     episode["code"] = season_code + episode_code
