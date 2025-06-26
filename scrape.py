@@ -50,6 +50,7 @@ def handle_episode(href, season_num, episode_num):
     season_code = f"s0{season_num}" if season_num < 10 else f"s{season_num}"
     episode_code = f"e0{episode_num}" if episode_num < 10 else f"e{episode_num}"
     episode["code"] = season_code + episode_code
+    episodes.append(episode)
 
     response = get(f"{base_url}/{href}/fullcredits", headers={"User-Agent": "Mozilla/5.0"})
     if response.status_code != 200:
@@ -82,7 +83,6 @@ def handle_episode(href, season_num, episode_num):
                         "episodes": [{"title": episode["title"], "id": episode["_id"]}],
                     }
 
-    episodes.append(episode)
                     characters.append(character)
                     episode["characters"].append(character)
 
