@@ -67,26 +67,21 @@ def handle_episode(href, season_num, episode_num):
         listing_parts = [item.get_text() for item in listing.find_all("a")]
         if len(listing_parts) >= 4: # Less than this means no character name.
             _, actor, _, *names = listing_parts # every element from index 3 on is a character name
-            # for each character name,
-                # add to the current episode's characters array:
-                    # {_id: 230, name: ""}
+            for name in names:
+                episode["characters"].append({"_id": ObjectId(), "name": name})
                 # if we can find a character with that name in the character list:
-                    # append to that character's episode list:
-                        # {name: "", _id: 120}
-                # else:
-                    # append to the characters list:
-                        # {_id: 230, name: "", actors: [""], quotes: [], episodes: [{name: "", _id: 120]}
-                # if actor's name is not in the actor's list,
-                    # append it
-            character_key = "/".join(names) + "-" + actor # using character-actor key until I clean the data
-            if character_key in characters:
-                characters[character_key]["episodes"].append(episode["title"])
-            else:
-                characters[character_key] = {
-                    "actor": actor,
-                    "episodes": [episode["title"]],
-                    "quotes": [],
-                }
+                if character := next((character for character in characters if character["name"] == name), None):
+                    character["episodes"].append({"title": episode["title"], "id": episode["_id"]})
+                    if actor not in character["actors"]:
+                        character["actors"].append(actor)
+                else:
+                    characters.append({
+                        "_id": ObjectId(),
+                        "name": name,
+                        "actors": [actor],
+                        "quotes": [],
+                        "episodes": [{"title": episode["title"], "id": episode["_id"]}],
+                    })
 
     episodes.append(episode)
 
