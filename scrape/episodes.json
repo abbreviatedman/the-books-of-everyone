@@ -87,13 +87,7 @@
         "id": {
           "$oid": "685ddcd8e6e5c844c6b8ee09"
         },
-        "name": "Eliza"
-      },
-      {
-        "id": {
-          "$oid": "685ddcd8e6e5c844c6b8ee0a"
-        },
-        "name": "Jane Chatwin"
+        "name": "Eliza/Jane Chatwin/The Watcherwoman"
       },
       {
         "id": {
@@ -106,12 +100,6 @@
           "$oid": "685ddcd8e6e5c844c6b8ee0c"
         },
         "name": "Rupert Chatwin"
-      },
-      {
-        "id": {
-          "$oid": "685ddcd8e6e5c844c6b8ee0d"
-        },
-        "name": "The Beast"
       },
       {
         "id": {
@@ -174,16 +162,10 @@
         }
       },
       {
-        "name": "The Beast",
-        "id": {
-          "$oid": "685ddcd8e6e5c844c6b8ee0d"
-        }
-      },
-      {
         "id": {
           "$oid": "685ddcd8e6e5c844c6b8ee17"
         },
-        "name": "Brakesbill College Professor, Healer"
+        "name": "Brakebills College Professor, Healer"
       },
       {
         "id": {
@@ -285,7 +267,7 @@
         }
       },
       {
-        "name": "Eliza",
+        "name": "Eliza/Jane Chatwin/The Watcherwoman",
         "id": {
           "$oid": "685ddcd8e6e5c844c6b8ee09"
         }
@@ -295,12 +277,6 @@
           "$oid": "685ddcdce6e5c844c6b8ee1d"
         },
         "name": "Dev Fleischman"
-      },
-      {
-        "name": "The Beast",
-        "id": {
-          "$oid": "685ddcd8e6e5c844c6b8ee0d"
-        }
       },
       {
         "id": {
@@ -325,18 +301,6 @@
           "$oid": "685ddcdce6e5c844c6b8ee21"
         },
         "name": "Eugenio"
-      },
-      {
-        "name": "Jane Chatwin",
-        "id": {
-          "$oid": "685ddcd8e6e5c844c6b8ee0a"
-        }
-      },
-      {
-        "name": "The Beast",
-        "id": {
-          "$oid": "685ddcd8e6e5c844c6b8ee0d"
-        }
       }
     ],
     "title": "The Source of Magic",
@@ -561,9 +525,9 @@
         "name": "Ted Coldwater"
       },
       {
-        "name": "Jane Chatwin",
+        "name": "Eliza/Jane Chatwin/The Watcherwoman",
         "id": {
-          "$oid": "685ddcd8e6e5c844c6b8ee0a"
+          "$oid": "685ddcd8e6e5c844c6b8ee09"
         }
       },
       {
@@ -720,12 +684,6 @@
         "name": "Stanley"
       },
       {
-        "name": "The Beast",
-        "id": {
-          "$oid": "685ddcd8e6e5c844c6b8ee0d"
-        }
-      },
-      {
         "id": {
           "$oid": "685ddceae6e5c844c6b8ee36"
         },
@@ -766,12 +724,6 @@
           "$oid": "685ddceae6e5c844c6b8ee3a"
         },
         "name": "Malcolm"
-      },
-      {
-        "name": "The Beast",
-        "id": {
-          "$oid": "685ddcd8e6e5c844c6b8ee0d"
-        }
       },
       {
         "name": "Marina Andrieski",
@@ -1071,15 +1023,9 @@
         "name": "Richard"
       },
       {
-        "name": "Eliza",
+        "name": "Eliza/Jane Chatwin/The Watcherwoman",
         "id": {
           "$oid": "685ddcd8e6e5c844c6b8ee09"
-        }
-      },
-      {
-        "name": "Jane Chatwin",
-        "id": {
-          "$oid": "685ddcd8e6e5c844c6b8ee0a"
         }
       },
       {
@@ -1105,12 +1051,6 @@
           "$oid": "685ddcf7e6e5c844c6b8ee4b"
         },
         "name": "Gretchen"
-      },
-      {
-        "name": "The Beast",
-        "id": {
-          "$oid": "685ddcd8e6e5c844c6b8ee0d"
-        }
       }
     ],
     "title": "The Strangled Heart",
@@ -1188,9 +1128,9 @@
         "name": "Prudence Plover"
       },
       {
-        "name": "Jane Chatwin",
+        "name": "Eliza/Jane Chatwin/The Watcherwoman",
         "id": {
-          "$oid": "685ddcd8e6e5c844c6b8ee0a"
+          "$oid": "685ddcd8e6e5c844c6b8ee09"
         }
       },
       {
@@ -1296,7 +1236,7 @@
         "id": {
           "$oid": "685ddd00e6e5c844c6b8ee57"
         },
-        "name": "The Librarian"
+        "name": "Zelda Schiff"
       },
       {
         "name": "Richard",
@@ -1434,12 +1374,6 @@
         }
       },
       {
-        "name": "The Beast",
-        "id": {
-          "$oid": "685ddcd8e6e5c844c6b8ee0d"
-        }
-      },
-      {
         "name": "Richard",
         "id": {
           "$oid": "685ddcf7e6e5c844c6b8ee4a"
@@ -1569,15 +1503,15 @@
         }
       },
       {
-        "name": "The Librarian",
+        "name": "Zelda Schiff",
         "id": {
           "$oid": "685ddd00e6e5c844c6b8ee57"
         }
       },
       {
-        "name": "Jane Chatwin",
+        "name": "Eliza/Jane Chatwin/The Watcherwoman",
         "id": {
-          "$oid": "685ddcd8e6e5c844c6b8ee0a"
+          "$oid": "685ddcd8e6e5c844c6b8ee09"
         }
       },
       {
@@ -1704,12 +1638,6 @@
         "name": "Reynard the Fox"
       },
       {
-        "name": "The Beast",
-        "id": {
-          "$oid": "685ddcd8e6e5c844c6b8ee0d"
-        }
-      },
-      {
         "name": "Martin Chatwin",
         "id": {
           "$oid": "685ddcd8e6e5c844c6b8ee0b"
@@ -1734,27 +1662,9 @@
         "name": "Ember"
       },
       {
-        "name": "Eliza",
+        "name": "Eliza/Jane Chatwin/The Watcherwoman",
         "id": {
           "$oid": "685ddcd8e6e5c844c6b8ee09"
-        }
-      },
-      {
-        "name": "Jane Chatwin",
-        "id": {
-          "$oid": "685ddcd8e6e5c844c6b8ee0a"
-        }
-      },
-      {
-        "id": {
-          "$oid": "685ddd0ce6e5c844c6b8ee6e"
-        },
-        "name": "The Watcherwoman."
-      },
-      {
-        "name": "Jane Chatwin",
-        "id": {
-          "$oid": "685ddcd8e6e5c844c6b8ee0a"
         }
       },
       {
@@ -1890,12 +1800,6 @@
         "name": "Margo Hanson",
         "id": {
           "$oid": "685ddcd8e6e5c844c6b8ee01"
-        }
-      },
-      {
-        "name": "The Beast",
-        "id": {
-          "$oid": "685ddcd8e6e5c844c6b8ee0d"
         }
       },
       {
@@ -2046,12 +1950,6 @@
         }
       },
       {
-        "name": "The Beast",
-        "id": {
-          "$oid": "685ddcd8e6e5c844c6b8ee0d"
-        }
-      },
-      {
         "name": "Martin Chatwin",
         "id": {
           "$oid": "685ddcd8e6e5c844c6b8ee0b"
@@ -2172,12 +2070,6 @@
         "name": "Margo Hanson",
         "id": {
           "$oid": "685ddcd8e6e5c844c6b8ee01"
-        }
-      },
-      {
-        "name": "The Beast",
-        "id": {
-          "$oid": "685ddcd8e6e5c844c6b8ee0d"
         }
       },
       {
@@ -2862,7 +2754,7 @@
         "name": "Friar Joseph"
       },
       {
-        "name": "The Librarian",
+        "name": "Zelda Schiff",
         "id": {
           "$oid": "685ddd00e6e5c844c6b8ee57"
         }
@@ -3180,7 +3072,7 @@
         "name": "Harriet"
       },
       {
-        "name": "The Librarian",
+        "name": "Zelda Schiff",
         "id": {
           "$oid": "685ddd00e6e5c844c6b8ee57"
         }
@@ -3315,7 +3207,7 @@
         }
       },
       {
-        "name": "The Librarian",
+        "name": "Zelda Schiff",
         "id": {
           "$oid": "685ddd00e6e5c844c6b8ee57"
         }
@@ -3687,7 +3579,7 @@
         }
       },
       {
-        "name": "The Librarian",
+        "name": "Zelda Schiff",
         "id": {
           "$oid": "685ddd00e6e5c844c6b8ee57"
         }
@@ -3870,16 +3762,10 @@
         }
       },
       {
-        "name": "The Librarian",
+        "name": "Zelda Schiff",
         "id": {
           "$oid": "685ddd00e6e5c844c6b8ee57"
         }
-      },
-      {
-        "id": {
-          "$oid": "685ddd46e6e5c844c6b8eed3"
-        },
-        "name": "Zelda Schiff"
       },
       {
         "id": {
@@ -4542,12 +4428,6 @@
         "name": "Stone Queen"
       },
       {
-        "name": "Jane Chatwin",
-        "id": {
-          "$oid": "685ddcd8e6e5c844c6b8ee0a"
-        }
-      },
-      {
         "name": "Our Lady Underground",
         "id": {
           "$oid": "685ddd04e6e5c844c6b8ee64"
@@ -4560,9 +4440,9 @@
         }
       },
       {
-        "name": "Jane Chatwin",
+        "name": "Eliza/Jane Chatwin/The Watcherwoman",
         "id": {
-          "$oid": "685ddcd8e6e5c844c6b8ee0a"
+          "$oid": "685ddcd8e6e5c844c6b8ee09"
         }
       },
       {
@@ -4961,7 +4841,7 @@
       {
         "name": "Zelda Schiff",
         "id": {
-          "$oid": "685ddd46e6e5c844c6b8eed3"
+          "$oid": "685ddd00e6e5c844c6b8ee57"
         }
       },
       {
@@ -5322,7 +5202,7 @@
         }
       },
       {
-        "name": "The Beast",
+        "name": "Quentin 23",
         "id": {
           "$oid": "685ddcd8e6e5c844c6b8ee0d"
         }
@@ -5475,15 +5355,9 @@
         }
       },
       {
-        "name": "The Librarian",
-        "id": {
-          "$oid": "685ddd00e6e5c844c6b8ee57"
-        }
-      },
-      {
         "name": "Zelda Schiff",
         "id": {
-          "$oid": "685ddd46e6e5c844c6b8eed3"
+          "$oid": "685ddd00e6e5c844c6b8ee57"
         }
       },
       {
@@ -5640,15 +5514,9 @@
         }
       },
       {
-        "name": "The Librarian",
-        "id": {
-          "$oid": "685ddd00e6e5c844c6b8ee57"
-        }
-      },
-      {
         "name": "Zelda Schiff",
         "id": {
-          "$oid": "685ddd46e6e5c844c6b8eed3"
+          "$oid": "685ddd00e6e5c844c6b8ee57"
         }
       },
       {
@@ -5824,9 +5692,9 @@
       },
       {
         "id": {
-          "$oid": "685ddd7de6e5c844c6b8ef36"
+          "$oid": "685ddd00e6e5c844c6b8ee57"
         },
-        "name": "Librarian Zelda Schiff"
+        "name": "Zelda Schiff"
       },
       {
         "name": "Ember",
@@ -6060,9 +5928,9 @@
         }
       },
       {
-        "name": "Librarian Zelda Schiff",
+        "name": "Zelda Schiff",
         "id": {
-          "$oid": "685ddd7de6e5c844c6b8ef36"
+          "$oid": "685ddd00e6e5c844c6b8ee57"
         }
       },
       {
@@ -6867,9 +6735,9 @@
         }
       },
       {
-        "name": "Librarian Zelda Schiff",
+        "name": "Zelda Schiff",
         "id": {
-          "$oid": "685ddd7de6e5c844c6b8ef36"
+          "$oid": "685ddd00e6e5c844c6b8ee57"
         }
       },
       {
@@ -7068,9 +6936,9 @@
         }
       },
       {
-        "name": "Librarian Zelda Schiff",
+        "name": "Zelda Schiff",
         "id": {
-          "$oid": "685ddd7de6e5c844c6b8ef36"
+          "$oid": "685ddd00e6e5c844c6b8ee57"
         }
       },
       {
@@ -7227,9 +7095,9 @@
         }
       },
       {
-        "name": "Librarian Zelda Schiff",
+        "name": "Zelda Schiff",
         "id": {
-          "$oid": "685ddd7de6e5c844c6b8ef36"
+          "$oid": "685ddd00e6e5c844c6b8ee57"
         }
       },
       {
@@ -7404,9 +7272,9 @@
         }
       },
       {
-        "name": "Librarian Zelda Schiff",
+        "name": "Zelda Schiff",
         "id": {
-          "$oid": "685ddd7de6e5c844c6b8ef36"
+          "$oid": "685ddd00e6e5c844c6b8ee57"
         }
       },
       {
@@ -7575,9 +7443,9 @@
         }
       },
       {
-        "name": "Librarian Zelda Schiff",
+        "name": "Zelda Schiff",
         "id": {
-          "$oid": "685ddd7de6e5c844c6b8ef36"
+          "$oid": "685ddd00e6e5c844c6b8ee57"
         }
       },
       {
@@ -7716,9 +7584,9 @@
         }
       },
       {
-        "name": "Librarian Zelda Schiff",
+        "name": "Zelda Schiff",
         "id": {
-          "$oid": "685ddd7de6e5c844c6b8ef36"
+          "$oid": "685ddd00e6e5c844c6b8ee57"
         }
       },
       {
@@ -7893,9 +7761,9 @@
         }
       },
       {
-        "name": "Librarian Zelda Schiff",
+        "name": "Zelda Schiff",
         "id": {
-          "$oid": "685ddd7de6e5c844c6b8ef36"
+          "$oid": "685ddd00e6e5c844c6b8ee57"
         }
       },
       {
@@ -8235,9 +8103,9 @@
         }
       },
       {
-        "name": "Jane Chatwin",
+        "name": "Eliza/Jane Chatwin/The Watcherwoman",
         "id": {
-          "$oid": "685ddcd8e6e5c844c6b8ee0a"
+          "$oid": "685ddcd8e6e5c844c6b8ee09"
         }
       },
       {
@@ -8427,9 +8295,9 @@
         }
       },
       {
-        "name": "Librarian Zelda Schiff",
+        "name": "Zelda Schiff",
         "id": {
-          "$oid": "685ddd7de6e5c844c6b8ef36"
+          "$oid": "685ddd00e6e5c844c6b8ee57"
         }
       },
       {
@@ -8606,7 +8474,7 @@
       {
         "name": "Zelda Schiff",
         "id": {
-          "$oid": "685ddd46e6e5c844c6b8eed3"
+          "$oid": "685ddd00e6e5c844c6b8ee57"
         }
       },
       {
@@ -8930,7 +8798,7 @@
       {
         "name": "Physical Kid",
         "id": {
-          "$oid": "685ddcd8e6e5c844c6b8ee0e"
+          "$oid": "685ddcd8e6e5c844c6b8ee0a"
         }
       },
       {
@@ -9152,7 +9020,7 @@
       {
         "name": "Zelda Schiff",
         "id": {
-          "$oid": "685ddd46e6e5c844c6b8eed3"
+          "$oid": "685ddd00e6e5c844c6b8ee57"
         }
       },
       {
@@ -9557,7 +9425,7 @@
       {
         "name": "Zelda Schiff",
         "id": {
-          "$oid": "685ddd46e6e5c844c6b8eed3"
+          "$oid": "685ddd00e6e5c844c6b8ee57"
         }
       },
       {
@@ -9746,13 +9614,13 @@
       {
         "name": "Zelda Schiff",
         "id": {
-          "$oid": "685ddd46e6e5c844c6b8eed3"
+          "$oid": "685ddd00e6e5c844c6b8ee57"
         }
       },
       {
-        "name": "Jane Chatwin",
+        "name": "Eliza/Jane Chatwin/The Watcherwoman",
         "id": {
-          "$oid": "685ddcd8e6e5c844c6b8ee0a"
+          "$oid": "685ddcd8e6e5c844c6b8ee09"
         }
       },
       {

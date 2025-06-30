@@ -4,9 +4,7 @@
       "$oid": "685ddcd8e6e5c844c6b8edfc"
     },
     "name": "Quentin Coldwater",
-    "actors": [
-      "Jason Ralph"
-    ],
+    "actors": ["Jason Ralph"],
     "quotes": [],
     "episodes": [
       {
@@ -322,9 +320,7 @@
       "$oid": "685ddcd8e6e5c844c6b8edfd"
     },
     "name": "Julia Wicker",
-    "actors": [
-      "Stella Maeve"
-    ],
+    "actors": ["Stella Maeve"],
     "quotes": [],
     "episodes": [
       {
@@ -724,9 +720,7 @@
       "$oid": "685ddcd8e6e5c844c6b8edfe"
     },
     "name": "Alice Quinn",
-    "actors": [
-      "Olivia Taylor Dudley"
-    ],
+    "actors": ["Olivia Taylor Dudley"],
     "quotes": [],
     "episodes": [
       {
@@ -1120,9 +1114,7 @@
       "$oid": "685ddcd8e6e5c844c6b8edff"
     },
     "name": "Eliot Waugh",
-    "actors": [
-      "Hale Appleman"
-    ],
+    "actors": ["Hale Appleman"],
     "quotes": [],
     "episodes": [
       {
@@ -1492,9 +1484,7 @@
       "$oid": "685ddcd8e6e5c844c6b8ee00"
     },
     "name": "William 'Penny' Adiyodi",
-    "actors": [
-      "Arjun Gupta"
-    ],
+    "actors": ["Arjun Gupta"],
     "quotes": [],
     "episodes": [
       {
@@ -1732,9 +1722,7 @@
       "$oid": "685ddcd8e6e5c844c6b8ee01"
     },
     "name": "Margo Hanson",
-    "actors": [
-      "Summer Bishil"
-    ],
+    "actors": ["Summer Bishil"],
     "quotes": [],
     "episodes": [
       {
@@ -2134,9 +2122,7 @@
       "$oid": "685ddcd8e6e5c844c6b8ee02"
     },
     "name": "Kady Orloff-Diaz",
-    "actors": [
-      "Jade Tailor"
-    ],
+    "actors": ["Jade Tailor"],
     "quotes": [],
     "episodes": [
       {
@@ -2452,9 +2438,7 @@
       "$oid": "685ddcd8e6e5c844c6b8ee03"
     },
     "name": "Henry Fogg",
-    "actors": [
-      "Rick Worthy"
-    ],
+    "actors": ["Rick Worthy"],
     "quotes": [],
     "episodes": [
       {
@@ -2704,9 +2688,7 @@
       "$oid": "685ddcd8e6e5c844c6b8ee04"
     },
     "name": "Pete",
-    "actors": [
-      "David Call"
-    ],
+    "actors": ["David Call"],
     "quotes": [],
     "episodes": [
       {
@@ -2794,9 +2776,7 @@
       "$oid": "685ddcd8e6e5c844c6b8ee05"
     },
     "name": "James",
-    "actors": [
-      "Michael Cassidy"
-    ],
+    "actors": ["Michael Cassidy"],
     "quotes": [],
     "episodes": [
       {
@@ -2830,9 +2810,7 @@
       "$oid": "685ddcd8e6e5c844c6b8ee06"
     },
     "name": "Professor Van Der Weghe",
-    "actors": [
-      "Wayne Pére"
-    ],
+    "actors": ["Wayne Pére"],
     "quotes": [],
     "episodes": [
       {
@@ -2848,9 +2826,7 @@
       "$oid": "685ddcd8e6e5c844c6b8ee07"
     },
     "name": "Female Professor",
-    "actors": [
-      "Laura Fraser"
-    ],
+    "actors": ["Laura Fraser"],
     "quotes": [],
     "episodes": [
       {
@@ -2866,9 +2842,7 @@
       "$oid": "685ddcd8e6e5c844c6b8ee08"
     },
     "name": "Jennifer London",
-    "actors": [
-      "Tembi Locke"
-    ],
+    "actors": ["Tembi Locke"],
     "quotes": [],
     "episodes": [
       {
@@ -2889,47 +2863,8 @@
     "_id": {
       "$oid": "685ddcd8e6e5c844c6b8ee09"
     },
-    "name": "Eliza",
-    "actors": [
-      "Esmé Bianco"
-    ],
-    "quotes": [],
-    "episodes": [
-      {
-        "title": "Unauthorized Magic",
-        "id": {
-          "$oid": "685ddcd6e6e5c844c6b8edfb"
-        }
-      },
-      {
-        "title": "The Source of Magic",
-        "id": {
-          "$oid": "685ddcdae6e5c844c6b8ee1a"
-        }
-      },
-      {
-        "title": "The Strangled Heart",
-        "id": {
-          "$oid": "685ddcf5e6e5c844c6b8ee49"
-        }
-      },
-      {
-        "title": "Have You Brought Me Little Cakes",
-        "id": {
-          "$oid": "685ddd0ae6e5c844c6b8ee6a"
-        }
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "685ddcd8e6e5c844c6b8ee0a"
-    },
-    "name": "Jane Chatwin",
-    "actors": [
-      "Rose Liston",
-      "Esmé Bianco"
-    ],
+    "name": "Eliza/Jane Chatwin/The Watcherwoman",
+    "actors": ["Esmé Bianco", "Rose Liston"],
     "quotes": [],
     "episodes": [
       {
@@ -2968,22 +2903,11 @@
           "$oid": "685ddd06e6e5c844c6b8ee66"
         }
       },
+      ,
       {
         "title": "Have You Brought Me Little Cakes",
         "id": {
           "$oid": "685ddd0ae6e5c844c6b8ee6a"
-        }
-      },
-      {
-        "title": "Have You Brought Me Little Cakes",
-        "id": {
-          "$oid": "685ddd0ae6e5c844c6b8ee6a"
-        }
-      },
-      {
-        "title": "A Life in the Day",
-        "id": {
-          "$oid": "685ddd53e6e5c844c6b8eefa"
         }
       },
       {
@@ -3010,12 +2934,8 @@
     "_id": {
       "$oid": "685ddcd8e6e5c844c6b8ee0b"
     },
-    "name": "Martin Chatwin",
-    "actors": [
-      "Seth Meriwether",
-      "Nicholas Croucher",
-      "Charles Mesure"
-    ],
+    "name": "Martin Chatwin/The Beast",
+    "actors": ["Seth Meriwether", "Nicholas Croucher", "Charles Mesure"],
     "quotes": [],
     "episodes": [
       {
@@ -3025,15 +2945,33 @@
         }
       },
       {
+        "title": "The Source of Magic",
+        "id": {
+          "$oid": "685ddcdae6e5c844c6b8ee1a"
+        }
+      },
+      {
+        "title": "Mendings, Major and Minor",
+        "id": {
+          "$oid": "685ddce8e6e5c844c6b8ee33"
+        }
+      },
+      {
+        "title": "The Strangled Heart",
+        "id": {
+          "$oid": "685ddcf5e6e5c844c6b8ee49"
+        }
+      },
+      {
         "title": "The Writing Room",
         "id": {
           "$oid": "685ddcf9e6e5c844c6b8ee4c"
         }
       },
       {
-        "title": "Have You Brought Me Little Cakes",
+        "title": "Remedial Battle Magic",
         "id": {
-          "$oid": "685ddd0ae6e5c844c6b8ee6a"
+          "$oid": "685ddd02e6e5c844c6b8ee62"
         }
       },
       {
@@ -3073,11 +3011,7 @@
       "$oid": "685ddcd8e6e5c844c6b8ee0c"
     },
     "name": "Rupert Chatwin",
-    "actors": [
-      "Brian Beckman",
-      "Arthur MacKinnon",
-      "Sean Maguire"
-    ],
+    "actors": ["Brian Beckman", "Arthur MacKinnon", "Sean Maguire"],
     "quotes": [],
     "episodes": [
       {
@@ -3104,96 +3038,14 @@
     "_id": {
       "$oid": "685ddcd8e6e5c844c6b8ee0d"
     },
-    "name": "The Beast",
-    "actors": [
-      "Anthony Marble",
-      "Charles Mesure",
-      "Jason Ralph"
-    ],
+    "name": "Quentin 23",
+    "actors": ["Jason Ralph"],
     "quotes": [],
     "episodes": [
-      {
-        "title": "Unauthorized Magic",
-        "id": {
-          "$oid": "685ddcd6e6e5c844c6b8edfb"
-        }
-      },
-      {
-        "title": "Unauthorized Magic",
-        "id": {
-          "$oid": "685ddcd6e6e5c844c6b8edfb"
-        }
-      },
-      {
-        "title": "The Source of Magic",
-        "id": {
-          "$oid": "685ddcdae6e5c844c6b8ee1a"
-        }
-      },
-      {
-        "title": "The Source of Magic",
-        "id": {
-          "$oid": "685ddcdae6e5c844c6b8ee1a"
-        }
-      },
-      {
-        "title": "Mendings, Major and Minor",
-        "id": {
-          "$oid": "685ddce8e6e5c844c6b8ee33"
-        }
-      },
-      {
-        "title": "Mendings, Major and Minor",
-        "id": {
-          "$oid": "685ddce8e6e5c844c6b8ee33"
-        }
-      },
-      {
-        "title": "The Strangled Heart",
-        "id": {
-          "$oid": "685ddcf5e6e5c844c6b8ee49"
-        }
-      },
-      {
-        "title": "Remedial Battle Magic",
-        "id": {
-          "$oid": "685ddd02e6e5c844c6b8ee62"
-        }
-      },
-      {
-        "title": "Have You Brought Me Little Cakes",
-        "id": {
-          "$oid": "685ddd0ae6e5c844c6b8ee6a"
-        }
-      },
-      {
-        "title": "Knight of Crowns",
-        "id": {
-          "$oid": "685ddd0fe6e5c844c6b8ee75"
-        }
-      },
-      {
-        "title": "Hotel Spa Potions",
-        "id": {
-          "$oid": "685ddd13e6e5c844c6b8ee82"
-        }
-      },
-      {
-        "title": "Divine Elimination",
-        "id": {
-          "$oid": "685ddd17e6e5c844c6b8ee88"
-        }
-      },
       {
         "title": "Twenty-Three",
         "id": {
           "$oid": "685ddd6de6e5c844c6b8ef21"
-        }
-      },
-      {
-        "title": "Fillory and Further",
-        "id": {
-          "$oid": "685ddde0e6e5c844c6b8f016"
         }
       }
     ]
@@ -3202,23 +3054,14 @@
     "_id": {
       "$oid": "685ddcd8e6e5c844c6b8ee0e"
     },
-    "name": "Physical Kid",
-    "actors": [
-      "Krystal Tomlin",
-      "Riley Jade Berglund"
-    ],
+    "name": "Physical Kid #1",
+    "actors": ["Krystal Tomlin"],
     "quotes": [],
     "episodes": [
       {
         "title": "Unauthorized Magic",
         "id": {
           "$oid": "685ddcd6e6e5c844c6b8edfb"
-        }
-      },
-      {
-        "title": "Acting Dean",
-        "id": {
-          "$oid": "685dddcae6e5c844c6b8efeb"
         }
       }
     ]
@@ -3228,9 +3071,7 @@
       "$oid": "685ddcd8e6e5c844c6b8ee0f"
     },
     "name": "Psychic Girl #1",
-    "actors": [
-      "Kim Ormiston"
-    ],
+    "actors": ["Kim Ormiston"],
     "quotes": [],
     "episodes": [
       {
@@ -3246,9 +3087,7 @@
       "$oid": "685ddcd8e6e5c844c6b8ee10"
     },
     "name": "Psychic Girl #2",
-    "actors": [
-      "Misty Ormiston"
-    ],
+    "actors": ["Misty Ormiston"],
     "quotes": [],
     "episodes": [
       {
@@ -3264,9 +3103,7 @@
       "$oid": "685ddcd8e6e5c844c6b8ee11"
     },
     "name": "Rainbow Girl",
-    "actors": [
-      "Alexandra Lucchesi"
-    ],
+    "actors": ["Alexandra Lucchesi"],
     "quotes": [],
     "episodes": [
       {
@@ -3282,9 +3119,7 @@
       "$oid": "685ddcd8e6e5c844c6b8ee12"
     },
     "name": "NYC Businessman",
-    "actors": [
-      "Tony Beard"
-    ],
+    "actors": ["Tony Beard"],
     "quotes": [],
     "episodes": [
       {
@@ -3300,9 +3135,7 @@
       "$oid": "685ddcd8e6e5c844c6b8ee13"
     },
     "name": "Bar Patron",
-    "actors": [
-      "Eric Berris"
-    ],
+    "actors": ["Eric Berris"],
     "quotes": [],
     "episodes": [
       {
@@ -3317,19 +3150,10 @@
     "_id": {
       "$oid": "685ddcd8e6e5c844c6b8ee14"
     },
-    "name": "Healer",
-    "actors": [
-      "Chase McCleery Bouchie",
-      "Julia Holt"
-    ],
+    "name": "Healer #1",
+    "actors": ["Chase McCleery Bouchie"],
     "quotes": [],
     "episodes": [
-      {
-        "title": "Unauthorized Magic",
-        "id": {
-          "$oid": "685ddcd6e6e5c844c6b8edfb"
-        }
-      },
       {
         "title": "Unauthorized Magic",
         "id": {
@@ -3340,12 +3164,27 @@
   },
   {
     "_id": {
+      "$oid": "685ddd0ce6e5c844c6b8ee6e"
+    },
+    "name": "Healer #2",
+    "actors": ["Julia Holt"],
+    "quotes": [],
+    "episodes": [
+      {
+        "title": "Unauthorized Magic",
+        "id": {
+          "$oid": "685ddcd6e6e5c844c6b8edfb"
+        }
+      }
+    ]
+  },
+
+  {
+    "_id": {
       "$oid": "685ddcd8e6e5c844c6b8ee15"
     },
     "name": "Party Girl",
-    "actors": [
-      "Erika Erica"
-    ],
+    "actors": ["Erika Erica"],
     "quotes": [],
     "episodes": [
       {
@@ -3361,9 +3200,7 @@
       "$oid": "685ddcd8e6e5c844c6b8ee16"
     },
     "name": "Driver",
-    "actors": [
-      "Bob Hartnack"
-    ],
+    "actors": ["Bob Hartnack"],
     "quotes": [],
     "episodes": [
       {
@@ -3378,10 +3215,8 @@
     "_id": {
       "$oid": "685ddcd8e6e5c844c6b8ee17"
     },
-    "name": "Brakesbill College Professor, Healer",
-    "actors": [
-      "Gina Montana"
-    ],
+    "name": "Brakebills College Professor, Healer",
+    "actors": ["Gina Montana"],
     "quotes": [],
     "episodes": [
       {
@@ -3397,9 +3232,7 @@
       "$oid": "685ddcd8e6e5c844c6b8ee18"
     },
     "name": "Alumni Recruiter",
-    "actors": [
-      "James Ourso"
-    ],
+    "actors": ["James Ourso"],
     "quotes": [],
     "episodes": [
       {
@@ -3414,13 +3247,8 @@
     "_id": {
       "$oid": "685ddcd8e6e5c844c6b8ee19"
     },
-    "name": "Student",
-    "actors": [
-      "Brigitte Sharai",
-      "Sherry Nelson",
-      "Ricky He",
-      "Patrick Ryan"
-    ],
+    "name": "Student #1",
+    "actors": ["Brigitte Sharai"],
     "quotes": [],
     "episodes": [
       {
@@ -3428,19 +3256,71 @@
         "id": {
           "$oid": "685ddcd6e6e5c844c6b8edfb"
         }
-      },
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "685e96cce6e5c8655527de80"
+    },
+    "name": "Student #2",
+    "actors": ["Sherry Nelson"],
+    "quotes": [],
+    "episodes": [
       {
         "title": "The World in the Walls",
         "id": {
           "$oid": "685ddce3e6e5c844c6b8ee29"
         }
-      },
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "685e96cce6e5c8655527de7f"
+    },
+    "name": "Student #3",
+    "actors": ["Ricky He"],
+    "quotes": [],
+    "episodes": [
       {
         "title": "The Girl Who Told Time",
         "id": {
           "$oid": "685ddd34e6e5c844c6b8eeba"
         }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "685ddddee6e5c844c6b8f00e"
+    },
+    "name": "George Ball",
+    "actors": ["Geoffrey Arend"],
+    "quotes": [],
+    "episodes": [
+      {
+        "title": "Cello Squirrel Daffodil",
+        "id": {
+          "$oid": "685dddd1e6e5c844c6b8effc"
+        }
       },
+      {
+        "title": "The Balls",
+        "id": {
+          "$oid": "685ddddce6e5c844c6b8f009"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "685e96cce6e5c8655527de7e"
+    },
+    "name": "Student #4",
+    "actors": ["Patrick Ryan"],
+    "quotes": [],
+    "episodes": [
       {
         "title": "Cello Squirrel Daffodil",
         "id": {
@@ -3454,9 +3334,7 @@
       "$oid": "685ddcdce6e5c844c6b8ee1b"
     },
     "name": "Pearl Sunderland",
-    "actors": [
-      "Anne Dudek"
-    ],
+    "actors": ["Anne Dudek"],
     "quotes": [],
     "episodes": [
       {
@@ -3496,9 +3374,7 @@
       "$oid": "685ddcdce6e5c844c6b8ee1c"
     },
     "name": "Marina Andrieski",
-    "actors": [
-      "Kacey Rohl"
-    ],
+    "actors": ["Kacey Rohl"],
     "quotes": [],
     "episodes": [
       {
@@ -3598,9 +3474,7 @@
       "$oid": "685ddcdce6e5c844c6b8ee1d"
     },
     "name": "Dev Fleischman",
-    "actors": [
-      "Lev Grossman"
-    ],
+    "actors": ["Lev Grossman"],
     "quotes": [],
     "episodes": [
       {
@@ -3616,9 +3490,7 @@
       "$oid": "685ddcdce6e5c844c6b8ee1e"
     },
     "name": "Professor March",
-    "actors": [
-      "Hiro Kanagawa"
-    ],
+    "actors": ["Hiro Kanagawa"],
     "quotes": [],
     "episodes": [
       {
@@ -3640,9 +3512,7 @@
       "$oid": "685ddcdce6e5c844c6b8ee1f"
     },
     "name": "Healer Faye",
-    "actors": [
-      "Valerie Tian"
-    ],
+    "actors": ["Valerie Tian"],
     "quotes": [],
     "episodes": [
       {
@@ -3682,9 +3552,7 @@
       "$oid": "685ddcdce6e5c844c6b8ee20"
     },
     "name": "Ralphie",
-    "actors": [
-      "Trezzo Mahoro"
-    ],
+    "actors": ["Trezzo Mahoro"],
     "quotes": [],
     "episodes": [
       {
@@ -3712,9 +3580,7 @@
       "$oid": "685ddcdce6e5c844c6b8ee21"
     },
     "name": "Eugenio",
-    "actors": [
-      "Edwin Perez"
-    ],
+    "actors": ["Edwin Perez"],
     "quotes": [],
     "episodes": [
       {
@@ -3742,9 +3608,7 @@
       "$oid": "685ddce1e6e5c844c6b8ee23"
     },
     "name": "Charlie Quinn",
-    "actors": [
-      "Ben Esler"
-    ],
+    "actors": ["Ben Esler"],
     "quotes": [],
     "episodes": [
       {
@@ -3760,9 +3624,7 @@
       "$oid": "685ddce1e6e5c844c6b8ee24"
     },
     "name": "Emily Greenstreet",
-    "actors": [
-      "Abby Miller"
-    ],
+    "actors": ["Abby Miller"],
     "quotes": [],
     "episodes": [
       {
@@ -3790,9 +3652,7 @@
       "$oid": "685ddce1e6e5c844c6b8ee25"
     },
     "name": "Camille",
-    "actors": [
-      "Ingrid Nilson"
-    ],
+    "actors": ["Ingrid Nilson"],
     "quotes": [],
     "episodes": [
       {
@@ -3814,9 +3674,7 @@
       "$oid": "685ddce1e6e5c844c6b8ee26"
     },
     "name": "Surendra",
-    "actors": [
-      "Sachin Sahel"
-    ],
+    "actors": ["Sachin Sahel"],
     "quotes": [],
     "episodes": [
       {
@@ -3838,9 +3696,7 @@
       "$oid": "685ddce1e6e5c844c6b8ee27"
     },
     "name": "Robert",
-    "actors": [
-      "Ryan Beil"
-    ],
+    "actors": ["Ryan Beil"],
     "quotes": [],
     "episodes": [
       {
@@ -3856,9 +3712,7 @@
       "$oid": "685ddce1e6e5c844c6b8ee28"
     },
     "name": "Smith",
-    "actors": [
-      "Jesse Haddock"
-    ],
+    "actors": ["Jesse Haddock"],
     "quotes": [],
     "episodes": [
       {
@@ -3874,9 +3728,7 @@
       "$oid": "685ddce5e6e5c844c6b8ee2a"
     },
     "name": "Ted Coldwater",
-    "actors": [
-      "Spencer Garrett"
-    ],
+    "actors": ["Spencer Garrett"],
     "quotes": [],
     "episodes": [
       {
@@ -3904,9 +3756,7 @@
       "$oid": "685ddce5e6e5c844c6b8ee2b"
     },
     "name": "Ellis Wirth-Downs",
-    "actors": [
-      "Matt Beairsto"
-    ],
+    "actors": ["Matt Beairsto"],
     "quotes": [],
     "episodes": [
       {
@@ -3922,9 +3772,7 @@
       "$oid": "685ddce5e6e5c844c6b8ee2c"
     },
     "name": "Quentin's Roommate",
-    "actors": [
-      "Jagen Johnson"
-    ],
+    "actors": ["Jagen Johnson"],
     "quotes": [],
     "episodes": [
       {
@@ -3939,11 +3787,8 @@
     "_id": {
       "$oid": "685ddce5e6e5c844c6b8ee2d"
     },
-    "name": "Young Professor",
-    "actors": [
-      "Kevin Li",
-      "Behtash Fazlali"
-    ],
+    "name": "Young Professor #1",
+    "actors": ["Kevin Li"],
     "quotes": [],
     "episodes": [
       {
@@ -3951,7 +3796,17 @@
         "id": {
           "$oid": "685ddce3e6e5c844c6b8ee29"
         }
-      },
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "685e96cce6e5c8655527de7c"
+    },
+    "name": "Young Professor #2",
+    "actors": ["Behtash Fazlali"],
+    "quotes": [],
+    "episodes": [
       {
         "title": "Hotel Spa Potions",
         "id": {
@@ -3960,14 +3815,13 @@
       }
     ]
   },
+
   {
     "_id": {
       "$oid": "685ddce5e6e5c844c6b8ee2e"
     },
     "name": "Fraternity Pledge",
-    "actors": [
-      "Liam Raymond Dib"
-    ],
+    "actors": ["Liam Raymond Dib"],
     "quotes": [],
     "episodes": [
       {
@@ -3989,9 +3843,7 @@
       "$oid": "685ddce5e6e5c844c6b8ee2f"
     },
     "name": "Dancing Patient #2",
-    "actors": [
-      "Louise Hradsky"
-    ],
+    "actors": ["Louise Hradsky"],
     "quotes": [],
     "episodes": [
       {
@@ -4007,9 +3859,7 @@
       "$oid": "685ddce5e6e5c844c6b8ee30"
     },
     "name": "Orderly",
-    "actors": [
-      "Vicky Lambert"
-    ],
+    "actors": ["Vicky Lambert"],
     "quotes": [],
     "episodes": [
       {
@@ -4025,9 +3875,7 @@
       "$oid": "685ddce5e6e5c844c6b8ee31"
     },
     "name": "Victoria",
-    "actors": [
-      "Hannah Levien"
-    ],
+    "actors": ["Hannah Levien"],
     "quotes": [],
     "episodes": [
       {
@@ -4079,9 +3927,7 @@
       "$oid": "685ddce5e6e5c844c6b8ee32"
     },
     "name": "Dancing Patient #4",
-    "actors": [
-      "Jeff Mortensen"
-    ],
+    "actors": ["Jeff Mortensen"],
     "quotes": [],
     "episodes": [
       {
@@ -4097,9 +3943,7 @@
       "$oid": "685ddceae6e5c844c6b8ee34"
     },
     "name": "Genji",
-    "actors": [
-      "Denise Crosby"
-    ],
+    "actors": ["Denise Crosby"],
     "quotes": [],
     "episodes": [
       {
@@ -4115,9 +3959,7 @@
       "$oid": "685ddceae6e5c844c6b8ee35"
     },
     "name": "Stanley",
-    "actors": [
-      "M.C. Gainey"
-    ],
+    "actors": ["M.C. Gainey"],
     "quotes": [],
     "episodes": [
       {
@@ -4139,9 +3981,7 @@
       "$oid": "685ddceae6e5c844c6b8ee36"
     },
     "name": "Professor Lipson",
-    "actors": [
-      "Keegan Connor Tracy"
-    ],
+    "actors": ["Keegan Connor Tracy"],
     "quotes": [],
     "episodes": [
       {
@@ -4241,9 +4081,7 @@
       "$oid": "685ddceae6e5c844c6b8ee37"
     },
     "name": "Dr. Meers",
-    "actors": [
-      "Patricia Isaac"
-    ],
+    "actors": ["Patricia Isaac"],
     "quotes": [],
     "episodes": [
       {
@@ -4259,9 +4097,7 @@
       "$oid": "685ddceae6e5c844c6b8ee38"
     },
     "name": "Rick",
-    "actors": [
-      "Amitai Marmorstein"
-    ],
+    "actors": ["Amitai Marmorstein"],
     "quotes": [],
     "episodes": [
       {
@@ -4283,27 +4119,7 @@
       "$oid": "685ddceae6e5c844c6b8ee39"
     },
     "name": "Natural Student",
-    "actors": [
-      "Megan Peta Hill"
-    ],
-    "quotes": [],
-    "episodes": [
-      {
-        "title": "Mendings, Major and Minor",
-        "id": {
-          "$oid": "685ddce8e6e5c844c6b8ee33"
-        }
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "685ddceae6e5c844c6b8ee3a"
-    },
-    "name": "Malcolm",
-    "actors": [
-      "Jeff Goldblum"
-    ],
+    "actors": ["Megan Peta Hill"],
     "quotes": [],
     "episodes": [
       {
@@ -4319,9 +4135,7 @@
       "$oid": "685ddcefe6e5c844c6b8ee3c"
     },
     "name": "Hannah",
-    "actors": [
-      "Amy Pietz"
-    ],
+    "actors": ["Amy Pietz"],
     "quotes": [],
     "episodes": [
       {
@@ -4337,9 +4151,7 @@
       "$oid": "685ddcefe6e5c844c6b8ee3d"
     },
     "name": "Angry Barfly",
-    "actors": [
-      "Rob McEachern"
-    ],
+    "actors": ["Rob McEachern"],
     "quotes": [],
     "episodes": [
       {
@@ -4355,9 +4167,7 @@
       "$oid": "685ddcf3e6e5c844c6b8ee3f"
     },
     "name": "Mike McCormick",
-    "actors": [
-      "Jesse Luken"
-    ],
+    "actors": ["Jesse Luken"],
     "quotes": [],
     "episodes": [
       {
@@ -4379,9 +4189,7 @@
       "$oid": "685ddcf3e6e5c844c6b8ee40"
     },
     "name": "Todd",
-    "actors": [
-      "Adam DiMarco"
-    ],
+    "actors": ["Adam DiMarco"],
     "quotes": [],
     "episodes": [
       {
@@ -4427,12 +4235,6 @@
         }
       },
       {
-        "title": "All That Josh",
-        "id": {
-          "$oid": "685ddd63e6e5c844c6b8ef14"
-        }
-      },
-      {
         "title": "A Flock of Lost Birds",
         "id": {
           "$oid": "685ddd7be6e5c844c6b8ef34"
@@ -4475,9 +4277,7 @@
       "$oid": "685ddcf3e6e5c844c6b8ee41"
     },
     "name": "Mackenzie",
-    "actors": [
-      "Jessica Harmon"
-    ],
+    "actors": ["Jessica Harmon"],
     "quotes": [],
     "episodes": [
       {
@@ -4493,9 +4293,7 @@
       "$oid": "685ddcf3e6e5c844c6b8ee42"
     },
     "name": "Mayakovsky",
-    "actors": [
-      "Brían F. O'Byrne"
-    ],
+    "actors": ["Brían F. O'Byrne"],
     "quotes": [],
     "episodes": [
       {
@@ -4529,9 +4327,7 @@
       "$oid": "685ddcf3e6e5c844c6b8ee43"
     },
     "name": "The Djinn",
-    "actors": [
-      "Lee Majdoub"
-    ],
+    "actors": ["Lee Majdoub"],
     "quotes": [],
     "episodes": [
       {
@@ -4547,9 +4343,7 @@
       "$oid": "685ddcf3e6e5c844c6b8ee44"
     },
     "name": "Homicide Detective",
-    "actors": [
-      "Carmen Moore"
-    ],
+    "actors": ["Carmen Moore"],
     "quotes": [],
     "episodes": [
       {
@@ -4565,9 +4359,7 @@
       "$oid": "685ddcf3e6e5c844c6b8ee45"
     },
     "name": "Young Associate Professor",
-    "actors": [
-      "Daniel Deorksen"
-    ],
+    "actors": ["Daniel Deorksen"],
     "quotes": [],
     "episodes": [
       {
@@ -4583,9 +4375,7 @@
       "$oid": "685ddcf3e6e5c844c6b8ee46"
     },
     "name": "Orgy Girl #1",
-    "actors": [
-      "Fei Ren"
-    ],
+    "actors": ["Fei Ren"],
     "quotes": [],
     "episodes": [
       {
@@ -4601,9 +4391,7 @@
       "$oid": "685ddcf3e6e5c844c6b8ee47"
     },
     "name": "Orgy Girl #2",
-    "actors": [
-      "Keisha Haines"
-    ],
+    "actors": ["Keisha Haines"],
     "quotes": [],
     "episodes": [
       {
@@ -4619,9 +4407,7 @@
       "$oid": "685ddcf3e6e5c844c6b8ee48"
     },
     "name": "Orgy Guy",
-    "actors": [
-      "Zack Lavoie"
-    ],
+    "actors": ["Zack Lavoie"],
     "quotes": [],
     "episodes": [
       {
@@ -4637,9 +4423,7 @@
       "$oid": "685ddcf7e6e5c844c6b8ee4a"
     },
     "name": "Richard",
-    "actors": [
-      "Mackenzie Astin"
-    ],
+    "actors": ["Mackenzie Astin"],
     "quotes": [],
     "episodes": [
       {
@@ -4691,9 +4475,7 @@
       "$oid": "685ddcf7e6e5c844c6b8ee4b"
     },
     "name": "Gretchen",
-    "actors": [
-      "Nesta Cooper"
-    ],
+    "actors": ["Nesta Cooper"],
     "quotes": [],
     "episodes": [
       {
@@ -4709,9 +4491,7 @@
       "$oid": "685ddcfce6e5c844c6b8ee4d"
     },
     "name": "Christopher Plover",
-    "actors": [
-      "Charles Shaughnessy"
-    ],
+    "actors": ["Charles Shaughnessy"],
     "quotes": [],
     "episodes": [
       {
@@ -4757,9 +4537,7 @@
       "$oid": "685ddcfce6e5c844c6b8ee4e"
     },
     "name": "Kira",
-    "actors": [
-      "Yaani King Mondschein"
-    ],
+    "actors": ["Yaani King Mondschein"],
     "quotes": [],
     "episodes": [
       {
@@ -4775,9 +4553,7 @@
       "$oid": "685ddcfce6e5c844c6b8ee4f"
     },
     "name": "Prudence Plover",
-    "actors": [
-      "Rebecca Tilney"
-    ],
+    "actors": ["Rebecca Tilney"],
     "quotes": [],
     "episodes": [
       {
@@ -4793,9 +4569,7 @@
       "$oid": "685ddcfce6e5c844c6b8ee50"
     },
     "name": "Hugh",
-    "actors": [
-      "Oliver Rice"
-    ],
+    "actors": ["Oliver Rice"],
     "quotes": [],
     "episodes": [
       {
@@ -4811,22 +4585,13 @@
       "$oid": "685ddcfce6e5c844c6b8ee51"
     },
     "name": "George",
-    "actors": [
-      "Oliver Bell",
-      "Geoffrey Arend"
-    ],
+    "actors": ["Oliver Bell"],
     "quotes": [],
     "episodes": [
       {
         "title": "The Writing Room",
         "id": {
           "$oid": "685ddcf9e6e5c844c6b8ee4c"
-        }
-      },
-      {
-        "title": "Cello Squirrel Daffodil",
-        "id": {
-          "$oid": "685dddd1e6e5c844c6b8effc"
         }
       }
     ]
@@ -4836,9 +4601,7 @@
       "$oid": "685ddcfce6e5c844c6b8ee52"
     },
     "name": "Beatrix",
-    "actors": [
-      "Sibyl Wulf"
-    ],
+    "actors": ["Sibyl Wulf"],
     "quotes": [],
     "episodes": [
       {
@@ -4854,9 +4617,7 @@
       "$oid": "685ddcfce6e5c844c6b8ee53"
     },
     "name": "Raymond",
-    "actors": [
-      "Kavandeep Hayre"
-    ],
+    "actors": ["Kavandeep Hayre"],
     "quotes": [],
     "episodes": [
       {
@@ -4872,9 +4633,7 @@
       "$oid": "685ddcfce6e5c844c6b8ee54"
     },
     "name": "The Ferret",
-    "actors": [
-      "Eric Tiede"
-    ],
+    "actors": ["Eric Tiede"],
     "quotes": [],
     "episodes": [
       {
@@ -4890,9 +4649,7 @@
       "$oid": "685ddd00e6e5c844c6b8ee56"
     },
     "name": "Margolem",
-    "actors": [
-      "Summer Bishil"
-    ],
+    "actors": ["Summer Bishil"],
     "quotes": [],
     "episodes": [
       {
@@ -4913,10 +4670,8 @@
     "_id": {
       "$oid": "685ddd00e6e5c844c6b8ee57"
     },
-    "name": "The Librarian",
-    "actors": [
-      "Mageina Tovah"
-    ],
+    "name": "Zelda Schiff",
+    "actors": ["Mageina Tovah"],
     "quotes": [],
     "episodes": [
       {
@@ -4962,6 +4717,13 @@
         }
       },
       {
+        "title": "Six Short Stories About Magic",
+        "id": {
+          "$oid": "685ddd5fe6e5c844c6b8ef0e"
+        }
+      },
+
+      {
         "title": "The Fillorian Candidate",
         "id": {
           "$oid": "685ddd71e6e5c844c6b8ef25"
@@ -4972,6 +4734,91 @@
         "id": {
           "$oid": "685ddd76e6e5c844c6b8ef28"
         }
+      },
+      {
+        "title": "A Flock of Lost Birds",
+        "id": {
+          "$oid": "685ddd7be6e5c844c6b8ef34"
+        }
+      },
+      {
+        "title": "Lost, Found, Fucked",
+        "id": {
+          "$oid": "685ddd7fe6e5c844c6b8ef45"
+        }
+      },
+      {
+        "title": "The Side Effect",
+        "id": {
+          "$oid": "685ddd92e6e5c844c6b8ef79"
+        }
+      },
+      {
+        "title": "Home Improvement",
+        "id": {
+          "$oid": "685ddd96e6e5c844c6b8ef89"
+        }
+      },
+      {
+        "title": "The Serpent",
+        "id": {
+          "$oid": "685ddd9ae6e5c844c6b8ef8e"
+        }
+      },
+      {
+        "title": "All That Hard, Glossy Armor",
+        "id": {
+          "$oid": "685ddd9ee6e5c844c6b8ef98"
+        }
+      },
+      {
+        "title": "The 4-1-1",
+        "id": {
+          "$oid": "685ddda2e6e5c844c6b8efa4"
+        }
+      },
+      {
+        "title": "The Secret Sea",
+        "id": {
+          "$oid": "685ddda7e6e5c844c6b8efaa"
+        }
+      },
+      {
+        "title": "No Better to Be Safe Than Sorry",
+        "id": {
+          "$oid": "685dddabe6e5c844c6b8efaf"
+        }
+      },
+      {
+        "title": "Magicians Anonymous",
+        "id": {
+          "$oid": "685dddbde6e5c844c6b8efd0"
+        }
+      },
+
+      {
+        "title": "Apocalypse? Now?!",
+        "id": {
+          "$oid": "685dddc2e6e5c844c6b8efde"
+        }
+      },
+      {
+        "title": "Cello Squirrel Daffodil",
+        "id": {
+          "$oid": "685dddd1e6e5c844c6b8effc"
+        }
+      },
+      {
+        "title": "The Balls",
+        "id": {
+          "$oid": "685ddddce6e5c844c6b8f009"
+        }
+      },
+      {
+        "title": "Fillory and Further",
+        "id": {
+          "$oid": "685ddde0e6e5c844c6b8f016"
+        }
       }
     ]
   },
@@ -4980,9 +4827,7 @@
       "$oid": "685ddd00e6e5c844c6b8ee58"
     },
     "name": "Stephanie Quinn",
-    "actors": [
-      "Judith Hoag"
-    ],
+    "actors": ["Judith Hoag"],
     "quotes": [],
     "episodes": [
       {
@@ -5022,9 +4867,7 @@
       "$oid": "685ddd00e6e5c844c6b8ee59"
     },
     "name": "Daniel Quinn",
-    "actors": [
-      "Tom Amandes"
-    ],
+    "actors": ["Tom Amandes"],
     "quotes": [],
     "episodes": [
       {
@@ -5052,9 +4895,7 @@
       "$oid": "685ddd00e6e5c844c6b8ee5a"
     },
     "name": "Joe",
-    "actors": [
-      "Jonathan Scarfe"
-    ],
+    "actors": ["Jonathan Scarfe"],
     "quotes": [],
     "episodes": [
       {
@@ -5070,9 +4911,7 @@
       "$oid": "685ddd00e6e5c844c6b8ee5b"
     },
     "name": "Eve",
-    "actors": [
-      "Katie Findlay"
-    ],
+    "actors": ["Katie Findlay"],
     "quotes": [],
     "episodes": [
       {
@@ -5100,9 +4939,7 @@
       "$oid": "685ddd00e6e5c844c6b8ee5c"
     },
     "name": "Margo's Ex-Boyfriend",
-    "actors": [
-      "Marco Grazzini"
-    ],
+    "actors": ["Marco Grazzini"],
     "quotes": [],
     "episodes": [
       {
@@ -5118,9 +4955,7 @@
       "$oid": "685ddd00e6e5c844c6b8ee5d"
     },
     "name": "Silver",
-    "actors": [
-      "Bobbi Charlton"
-    ],
+    "actors": ["Bobbi Charlton"],
     "quotes": [],
     "episodes": [
       {
@@ -5160,9 +4995,7 @@
       "$oid": "685ddd00e6e5c844c6b8ee5e"
     },
     "name": "Menolly",
-    "actors": [
-      "Fiona Hogan"
-    ],
+    "actors": ["Fiona Hogan"],
     "quotes": [],
     "episodes": [
       {
@@ -5202,9 +5035,7 @@
       "$oid": "685ddd00e6e5c844c6b8ee5f"
     },
     "name": "Bender",
-    "actors": [
-      "Jesse Reid"
-    ],
+    "actors": ["Jesse Reid"],
     "quotes": [],
     "episodes": [
       {
@@ -5238,9 +5069,7 @@
       "$oid": "685ddd00e6e5c844c6b8ee60"
     },
     "name": "Pizza Guy",
-    "actors": [
-      "Cardi Wong"
-    ],
+    "actors": ["Cardi Wong"],
     "quotes": [],
     "episodes": [
       {
@@ -5256,9 +5085,7 @@
       "$oid": "685ddd00e6e5c844c6b8ee61"
     },
     "name": "Roman Slave",
-    "actors": [
-      "Byron Noble"
-    ],
+    "actors": ["Byron Noble"],
     "quotes": [],
     "episodes": [
       {
@@ -5274,9 +5101,7 @@
       "$oid": "685ddd04e6e5c844c6b8ee63"
     },
     "name": "The Lamia",
-    "actors": [
-      "Amy Pietz"
-    ],
+    "actors": ["Amy Pietz"],
     "quotes": [],
     "episodes": [
       {
@@ -5292,9 +5117,7 @@
       "$oid": "685ddd04e6e5c844c6b8ee64"
     },
     "name": "Our Lady Underground",
-    "actors": [
-      "Garcelle Beauvais"
-    ],
+    "actors": ["Garcelle Beauvais"],
     "quotes": [],
     "episodes": [
       {
@@ -5340,9 +5163,7 @@
       "$oid": "685ddd04e6e5c844c6b8ee65"
     },
     "name": "Bjorn",
-    "actors": [
-      "Colin Cunningham"
-    ],
+    "actors": ["Colin Cunningham"],
     "quotes": [],
     "episodes": [
       {
@@ -5358,9 +5179,7 @@
       "$oid": "685ddd08e6e5c844c6b8ee67"
     },
     "name": "Josh Hoberman",
-    "actors": [
-      "Trevor Einhorn"
-    ],
+    "actors": ["Trevor Einhorn"],
     "quotes": [],
     "episodes": [
       {
@@ -5580,9 +5399,7 @@
       "$oid": "685ddd08e6e5c844c6b8ee68"
     },
     "name": "Servant of Our Lady Underground",
-    "actors": [
-      "Arturo Del Puerto"
-    ],
+    "actors": ["Arturo Del Puerto"],
     "quotes": [],
     "episodes": [
       {
@@ -5598,9 +5415,7 @@
       "$oid": "685ddd08e6e5c844c6b8ee69"
     },
     "name": "Hooded Agent",
-    "actors": [
-      "Tony Giroux"
-    ],
+    "actors": ["Tony Giroux"],
     "quotes": [],
     "episodes": [
       {
@@ -5616,9 +5431,7 @@
       "$oid": "685ddd0ce6e5c844c6b8ee6b"
     },
     "name": "Reynard the Fox",
-    "actors": [
-      "Mackenzie Astin"
-    ],
+    "actors": ["Mackenzie Astin"],
     "quotes": [],
     "episodes": [
       {
@@ -5682,9 +5495,7 @@
       "$oid": "685ddd0ce6e5c844c6b8ee6c"
     },
     "name": "Knifemaker's Son",
-    "actors": [
-      "Ryan Robbins"
-    ],
+    "actors": ["Ryan Robbins"],
     "quotes": [],
     "episodes": [
       {
@@ -5700,9 +5511,7 @@
       "$oid": "685ddd0ce6e5c844c6b8ee6d"
     },
     "name": "Ember",
-    "actors": [
-      "Dominic Burgess"
-    ],
+    "actors": ["Dominic Burgess"],
     "quotes": [],
     "episodes": [
       {
@@ -5739,32 +5548,10 @@
   },
   {
     "_id": {
-      "$oid": "685ddd0ce6e5c844c6b8ee6e"
-    },
-    "name": "The Watcherwoman.",
-    "actors": [
-      "Esmé Bianco"
-    ],
-    "quotes": [],
-    "episodes": [
-      {
-        "title": "Have You Brought Me Little Cakes",
-        "id": {
-          "$oid": "685ddd0ae6e5c844c6b8ee6a"
-        }
-      }
-    ]
-  },
-  {
-    "_id": {
       "$oid": "685ddd0ce6e5c844c6b8ee6f"
     },
     "name": "Fen",
-    "actors": [
-      "Laci J Mailey",
-      "Brittany Curran",
-      "Eliza Norbury"
-    ],
+    "actors": ["Laci J Mailey", "Brittany Curran"],
     "quotes": [],
     "episodes": [
       {
@@ -5966,12 +5753,6 @@
         }
       },
       {
-        "title": "Do Something Crazy",
-        "id": {
-          "$oid": "685dddb0e6e5c844c6b8efb2"
-        }
-      },
-      {
         "title": "The Wrath of the Time Bees",
         "id": {
           "$oid": "685dddb4e6e5c844c6b8efc6"
@@ -6038,27 +5819,7 @@
       "$oid": "685ddd0ce6e5c844c6b8ee70"
     },
     "name": "Dint",
-    "actors": [
-      "Primo Allon"
-    ],
-    "quotes": [],
-    "episodes": [
-      {
-        "title": "Have You Brought Me Little Cakes",
-        "id": {
-          "$oid": "685ddd0ae6e5c844c6b8ee6a"
-        }
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "685ddd0ce6e5c844c6b8ee71"
-    },
-    "name": "Dint the Boy",
-    "actors": [
-      "Arien Boey"
-    ],
+    "actors": ["Primo Allon", "Arien Boey"],
     "quotes": [],
     "episodes": [
       {
@@ -6074,10 +5835,7 @@
       "$oid": "685ddd0ce6e5c844c6b8ee72"
     },
     "name": "Guard #1",
-    "actors": [
-      "Albert Nicholas",
-      "Thabo Ketshabetswe"
-    ],
+    "actors": ["Albert Nicholas", "Thabo Ketshabetswe"],
     "quotes": [],
     "episodes": [
       {
@@ -6099,10 +5857,7 @@
       "$oid": "685ddd0ce6e5c844c6b8ee73"
     },
     "name": "Guard #2",
-    "actors": [
-      "Araz Yaghoubi",
-      "Ardy Ramezani"
-    ],
+    "actors": ["Araz Yaghoubi", "Ardy Ramezani"],
     "quotes": [],
     "episodes": [
       {
@@ -6124,9 +5879,7 @@
       "$oid": "685ddd0ce6e5c844c6b8ee74"
     },
     "name": "Fillorian Mother",
-    "actors": [
-      "Daniella Evangelista"
-    ],
+    "actors": ["Daniella Evangelista"],
     "quotes": [],
     "episodes": [
       {
@@ -6148,9 +5901,7 @@
       "$oid": "685ddd11e6e5c844c6b8ee76"
     },
     "name": "Tick Pickwick",
-    "actors": [
-      "Rizwan Manji"
-    ],
+    "actors": ["Rizwan Manji"],
     "quotes": [],
     "episodes": [
       {
@@ -6304,9 +6055,7 @@
       "$oid": "685ddd11e6e5c844c6b8ee77"
     },
     "name": "Kitchen Witch",
-    "actors": [
-      "Karin Konoval"
-    ],
+    "actors": ["Karin Konoval"],
     "quotes": [],
     "episodes": [
       {
@@ -6322,9 +6071,7 @@
       "$oid": "685ddd11e6e5c844c6b8ee78"
     },
     "name": "River Watcher",
-    "actors": [
-      "J.P. Manoux"
-    ],
+    "actors": ["J.P. Manoux"],
     "quotes": [],
     "episodes": [
       {
@@ -6340,9 +6087,7 @@
       "$oid": "685ddd11e6e5c844c6b8ee79"
     },
     "name": "Knight of Crowns",
-    "actors": [
-      "Kevin McNulty"
-    ],
+    "actors": ["Kevin McNulty"],
     "quotes": [],
     "episodes": [
       {
@@ -6358,9 +6103,7 @@
       "$oid": "685ddd11e6e5c844c6b8ee7a"
     },
     "name": "Uniformed Officer",
-    "actors": [
-      "Demord Dann"
-    ],
+    "actors": ["Demord Dann"],
     "quotes": [],
     "episodes": [
       {
@@ -6376,9 +6119,7 @@
       "$oid": "685ddd11e6e5c844c6b8ee7b"
     },
     "name": "Barbara",
-    "actors": [
-      "Christine Lippa"
-    ],
+    "actors": ["Christine Lippa"],
     "quotes": [],
     "episodes": [
       {
@@ -6394,9 +6135,7 @@
       "$oid": "685ddd11e6e5c844c6b8ee7c"
     },
     "name": "Woman (Laura)",
-    "actors": [
-      "Gwenda Lorenzetti"
-    ],
+    "actors": ["Gwenda Lorenzetti"],
     "quotes": [],
     "episodes": [
       {
@@ -6412,9 +6151,7 @@
       "$oid": "685ddd11e6e5c844c6b8ee7d"
     },
     "name": "Rachel",
-    "actors": [
-      "Zoe Wiesenthal"
-    ],
+    "actors": ["Zoe Wiesenthal"],
     "quotes": [],
     "episodes": [
       {
@@ -6430,9 +6167,7 @@
       "$oid": "685ddd11e6e5c844c6b8ee7e"
     },
     "name": "Handsome Guard",
-    "actors": [
-      "Brad Harder"
-    ],
+    "actors": ["Brad Harder"],
     "quotes": [],
     "episodes": [
       {
@@ -6454,9 +6189,7 @@
       "$oid": "685ddd11e6e5c844c6b8ee7f"
     },
     "name": "Security Guard",
-    "actors": [
-      "Emanuel Fappas"
-    ],
+    "actors": ["Emanuel Fappas"],
     "quotes": [],
     "episodes": [
       {
@@ -6472,9 +6205,7 @@
       "$oid": "685ddd11e6e5c844c6b8ee80"
     },
     "name": "Farmer",
-    "actors": [
-      "Daniel Martin"
-    ],
+    "actors": ["Daniel Martin"],
     "quotes": [],
     "episodes": [
       {
@@ -6496,10 +6227,7 @@
       "$oid": "685ddd11e6e5c844c6b8ee81"
     },
     "name": "Waitress",
-    "actors": [
-      "Doralynn Mui",
-      "Jane Stanton"
-    ],
+    "actors": ["Doralynn Mui", "Jane Stanton"],
     "quotes": [],
     "episodes": [
       {
@@ -6521,9 +6249,7 @@
       "$oid": "685ddd15e6e5c844c6b8ee83"
     },
     "name": "Professor Bigby",
-    "actors": [
-      "Amanda Brooks"
-    ],
+    "actors": ["Amanda Brooks"],
     "quotes": [],
     "episodes": [
       {
@@ -6539,9 +6265,7 @@
       "$oid": "685ddd15e6e5c844c6b8ee84"
     },
     "name": "Silicon Valley Guard",
-    "actors": [
-      "Emanuel Fappas"
-    ],
+    "actors": ["Emanuel Fappas"],
     "quotes": [],
     "episodes": [
       {
@@ -6557,9 +6281,7 @@
       "$oid": "685ddd15e6e5c844c6b8ee85"
     },
     "name": "Arleen",
-    "actors": [
-      "Lauren K. Robek"
-    ],
+    "actors": ["Lauren K. Robek"],
     "quotes": [],
     "episodes": [
       {
@@ -6575,9 +6297,7 @@
       "$oid": "685ddd15e6e5c844c6b8ee86"
     },
     "name": "Asst Professor Li",
-    "actors": [
-      "Kevin Li"
-    ],
+    "actors": ["Kevin Li"],
     "quotes": [],
     "episodes": [
       {
@@ -6593,9 +6313,7 @@
       "$oid": "685ddd15e6e5c844c6b8ee87"
     },
     "name": "First Year Student",
-    "actors": [
-      "Ricky He"
-    ],
+    "actors": ["Ricky He"],
     "quotes": [],
     "episodes": [
       {
@@ -6611,9 +6329,7 @@
       "$oid": "685ddd19e6e5c844c6b8ee89"
     },
     "name": "Benedict Pickwick",
-    "actors": [
-      "Harvey Guillén"
-    ],
+    "actors": ["Harvey Guillén"],
     "quotes": [],
     "episodes": [
       {
@@ -6671,9 +6387,7 @@
       "$oid": "685ddd1de6e5c844c6b8ee8b"
     },
     "name": "The White Lady",
-    "actors": [
-      "Emma Dumont"
-    ],
+    "actors": ["Emma Dumont"],
     "quotes": [],
     "episodes": [
       {
@@ -6689,9 +6403,7 @@
       "$oid": "685ddd1de6e5c844c6b8ee8c"
     },
     "name": "Sawbones",
-    "actors": [
-      "Alessandro Juliani"
-    ],
+    "actors": ["Alessandro Juliani"],
     "quotes": [],
     "episodes": [
       {
@@ -6707,11 +6419,7 @@
       "$oid": "685ddd1de6e5c844c6b8ee8d"
     },
     "name": "Nurse",
-    "actors": [
-      "Bellina Logan",
-      "Nisreen Slim",
-      "Madeleine Kelders"
-    ],
+    "actors": ["Bellina Logan", "Nisreen Slim", "Madeleine Kelders"],
     "quotes": [],
     "episodes": [
       {
@@ -6739,9 +6447,7 @@
       "$oid": "685ddd1de6e5c844c6b8ee8e"
     },
     "name": "Javier",
-    "actors": [
-      "Jai Rodriguez"
-    ],
+    "actors": ["Jai Rodriguez"],
     "quotes": [],
     "episodes": [
       {
@@ -6757,9 +6463,7 @@
       "$oid": "685ddd1de6e5c844c6b8ee8f"
     },
     "name": "Heloise",
-    "actors": [
-      "Miranda Edwards"
-    ],
+    "actors": ["Miranda Edwards"],
     "quotes": [],
     "episodes": [
       {
@@ -6829,9 +6533,7 @@
       "$oid": "685ddd1de6e5c844c6b8ee90"
     },
     "name": "Gillen",
-    "actors": [
-      "Zahf Paroo"
-    ],
+    "actors": ["Zahf Paroo"],
     "quotes": [],
     "episodes": [
       {
@@ -6901,9 +6603,7 @@
       "$oid": "685ddd1de6e5c844c6b8ee91"
     },
     "name": "Rafe",
-    "actors": [
-      "Sergio Osuna"
-    ],
+    "actors": ["Sergio Osuna"],
     "quotes": [],
     "episodes": [
       {
@@ -7009,9 +6709,7 @@
       "$oid": "685ddd22e6e5c844c6b8ee93"
     },
     "name": "Bayler",
-    "actors": [
-      "Rhys Ward"
-    ],
+    "actors": ["Rhys Ward"],
     "quotes": [],
     "episodes": [
       {
@@ -7033,9 +6731,7 @@
       "$oid": "685ddd22e6e5c844c6b8ee94"
     },
     "name": "Dr. Higgins",
-    "actors": [
-      "Michelle Harrison"
-    ],
+    "actors": ["Michelle Harrison"],
     "quotes": [],
     "episodes": [
       {
@@ -7051,9 +6747,7 @@
       "$oid": "685ddd22e6e5c844c6b8ee95"
     },
     "name": "Lia",
-    "actors": [
-      "Sunita Prasad"
-    ],
+    "actors": ["Sunita Prasad"],
     "quotes": [],
     "episodes": [
       {
@@ -7069,9 +6763,7 @@
       "$oid": "685ddd22e6e5c844c6b8ee96"
     },
     "name": "Adrian",
-    "actors": [
-      "Dustin Schwartz"
-    ],
+    "actors": ["Dustin Schwartz"],
     "quotes": [],
     "episodes": [
       {
@@ -7087,9 +6779,7 @@
       "$oid": "685ddd22e6e5c844c6b8ee97"
     },
     "name": "Champagne Boy",
-    "actors": [
-      "Jordan Connor"
-    ],
+    "actors": ["Jordan Connor"],
     "quotes": [],
     "episodes": [
       {
@@ -7105,9 +6795,7 @@
       "$oid": "685ddd26e6e5c844c6b8ee99"
     },
     "name": "Prince Ess",
-    "actors": [
-      "Arlen Escarpeta"
-    ],
+    "actors": ["Arlen Escarpeta"],
     "quotes": [],
     "episodes": [
       {
@@ -7147,9 +6835,7 @@
       "$oid": "685ddd26e6e5c844c6b8ee9a"
     },
     "name": "Dana",
-    "actors": [
-      "Lee Garlington"
-    ],
+    "actors": ["Lee Garlington"],
     "quotes": [],
     "episodes": [
       {
@@ -7165,9 +6851,7 @@
       "$oid": "685ddd26e6e5c844c6b8ee9b"
     },
     "name": "Ilario",
-    "actors": [
-      "Everrett Shea"
-    ],
+    "actors": ["Everrett Shea"],
     "quotes": [],
     "episodes": [
       {
@@ -7201,9 +6885,7 @@
       "$oid": "685ddd26e6e5c844c6b8ee9c"
     },
     "name": "Goldie",
-    "actors": [
-      "Michelle Azar"
-    ],
+    "actors": ["Michelle Azar"],
     "quotes": [],
     "episodes": [
       {
@@ -7219,9 +6901,7 @@
       "$oid": "685ddd26e6e5c844c6b8ee9d"
     },
     "name": "Samuel",
-    "actors": [
-      "Stephen Aberle"
-    ],
+    "actors": ["Stephen Aberle"],
     "quotes": [],
     "episodes": [
       {
@@ -7237,9 +6917,7 @@
       "$oid": "685ddd26e6e5c844c6b8ee9e"
     },
     "name": "Timid Servant",
-    "actors": [
-      "Jeff Gulka"
-    ],
+    "actors": ["Jeff Gulka"],
     "quotes": [],
     "episodes": [
       {
@@ -7261,9 +6939,7 @@
       "$oid": "685ddd26e6e5c844c6b8ee9f"
     },
     "name": "Stephanie's Friend",
-    "actors": [
-      "Desiree Zurowski"
-    ],
+    "actors": ["Desiree Zurowski"],
     "quotes": [],
     "episodes": [
       {
@@ -7279,9 +6955,7 @@
       "$oid": "685ddd26e6e5c844c6b8eea0"
     },
     "name": "Stinkmonster",
-    "actors": [
-      "Jason Burkart"
-    ],
+    "actors": ["Jason Burkart"],
     "quotes": [],
     "episodes": [
       {
@@ -7303,9 +6977,7 @@
       "$oid": "685ddd2ae6e5c844c6b8eea2"
     },
     "name": "The Mudang",
-    "actors": [
-      "Alexandra Bokyun Chun"
-    ],
+    "actors": ["Alexandra Bokyun Chun"],
     "quotes": [],
     "episodes": [
       {
@@ -7321,9 +6993,7 @@
       "$oid": "685ddd2ae6e5c844c6b8eea3"
     },
     "name": "Moon",
-    "actors": [
-      "Tora Kim"
-    ],
+    "actors": ["Tora Kim"],
     "quotes": [],
     "episodes": [
       {
@@ -7345,9 +7015,7 @@
       "$oid": "685ddd2ae6e5c844c6b8eea4"
     },
     "name": "Rhona",
-    "actors": [
-      "Kathleen Duborg"
-    ],
+    "actors": ["Kathleen Duborg"],
     "quotes": [],
     "episodes": [
       {
@@ -7363,9 +7031,7 @@
       "$oid": "685ddd2ae6e5c844c6b8eea5"
     },
     "name": "Becky",
-    "actors": [
-      "Vivian Lanko"
-    ],
+    "actors": ["Vivian Lanko"],
     "quotes": [],
     "episodes": [
       {
@@ -7381,9 +7047,7 @@
       "$oid": "685ddd2ae6e5c844c6b8eea6"
     },
     "name": "Librarian Student",
-    "actors": [
-      "Austin Eckert"
-    ],
+    "actors": ["Austin Eckert"],
     "quotes": [],
     "episodes": [
       {
@@ -7399,9 +7063,7 @@
       "$oid": "685ddd2ae6e5c844c6b8eea7"
     },
     "name": "Adam",
-    "actors": [
-      "Greg Delmage"
-    ],
+    "actors": ["Greg Delmage"],
     "quotes": [],
     "episodes": [
       {
@@ -7417,9 +7079,7 @@
       "$oid": "685ddd2ae6e5c844c6b8eea8"
     },
     "name": "Susie",
-    "actors": [
-      "Alison Wandzura"
-    ],
+    "actors": ["Alison Wandzura"],
     "quotes": [],
     "episodes": [
       {
@@ -7435,9 +7095,7 @@
       "$oid": "685ddd2ae6e5c844c6b8eea9"
     },
     "name": "Jimmy",
-    "actors": [
-      "Romuald Hivert"
-    ],
+    "actors": ["Romuald Hivert"],
     "quotes": [],
     "episodes": [
       {
@@ -7453,10 +7111,7 @@
       "$oid": "685ddd2ae6e5c844c6b8eeaa"
     },
     "name": "Hipster",
-    "actors": [
-      "Neil Webb",
-      "Peter Brown"
-    ],
+    "actors": ["Neil Webb", "Peter Brown"],
     "quotes": [],
     "episodes": [
       {
@@ -7484,9 +7139,7 @@
       "$oid": "685ddd2ee6e5c844c6b8eeac"
     },
     "name": "Dryad",
-    "actors": [
-      "Grey Damon"
-    ],
+    "actors": ["Grey Damon"],
     "quotes": [],
     "episodes": [
       {
@@ -7502,9 +7155,7 @@
       "$oid": "685ddd2ee6e5c844c6b8eead"
     },
     "name": "Friar Joseph",
-    "actors": [
-      "Jamie Harris"
-    ],
+    "actors": ["Jamie Harris"],
     "quotes": [],
     "episodes": [
       {
@@ -7526,9 +7177,7 @@
       "$oid": "685ddd2ee6e5c844c6b8eeae"
     },
     "name": "Healer Tara",
-    "actors": [
-      "Farrah Aviva"
-    ],
+    "actors": ["Farrah Aviva"],
     "quotes": [],
     "episodes": [
       {
@@ -7544,9 +7193,7 @@
       "$oid": "685ddd2ee6e5c844c6b8eeaf"
     },
     "name": "The Anglerbeast",
-    "actors": [
-      "Bracken Hanke"
-    ],
+    "actors": ["Bracken Hanke"],
     "quotes": [],
     "episodes": [
       {
@@ -7562,9 +7209,7 @@
       "$oid": "685ddd2ee6e5c844c6b8eeb0"
     },
     "name": "Irish Taxi Driver",
-    "actors": [
-      "William Samples"
-    ],
+    "actors": ["William Samples"],
     "quotes": [],
     "episodes": [
       {
@@ -7580,9 +7225,7 @@
       "$oid": "685ddd2ee6e5c844c6b8eeb1"
     },
     "name": "Suited Man",
-    "actors": [
-      "Cameron Grierson"
-    ],
+    "actors": ["Cameron Grierson"],
     "quotes": [],
     "episodes": [
       {
@@ -7598,9 +7241,7 @@
       "$oid": "685ddd2ee6e5c844c6b8eeb2"
     },
     "name": "Michelle Walker",
-    "actors": [
-      "Nicole Paris"
-    ],
+    "actors": ["Nicole Paris"],
     "quotes": [],
     "episodes": [
       {
@@ -7616,9 +7257,7 @@
       "$oid": "685ddd31e6e5c844c6b8eeb4"
     },
     "name": "Fairy Ambassador",
-    "actors": [
-      "Samuel Roukin"
-    ],
+    "actors": ["Samuel Roukin"],
     "quotes": [],
     "episodes": [
       {
@@ -7640,9 +7279,7 @@
       "$oid": "685ddd31e6e5c844c6b8eeb5"
     },
     "name": "King Idri of Loria",
-    "actors": [
-      "Leonard Roberts"
-    ],
+    "actors": ["Leonard Roberts"],
     "quotes": [],
     "episodes": [
       {
@@ -7676,9 +7313,7 @@
       "$oid": "685ddd31e6e5c844c6b8eeb6"
     },
     "name": "Senator John Gaines",
-    "actors": [
-      "Christopher Gorham"
-    ],
+    "actors": ["Christopher Gorham"],
     "quotes": [],
     "episodes": [
       {
@@ -7752,9 +7387,7 @@
       "$oid": "685ddd31e6e5c844c6b8eeb8"
     },
     "name": "Crown Bearer",
-    "actors": [
-      "Hugo Lunny"
-    ],
+    "actors": ["Hugo Lunny"],
     "quotes": [],
     "episodes": [
       {
@@ -7770,9 +7403,7 @@
       "$oid": "685ddd31e6e5c844c6b8eeb9"
     },
     "name": "Flag Bearer #2",
-    "actors": [
-      "Kennith Overbey"
-    ],
+    "actors": ["Kennith Overbey"],
     "quotes": [],
     "episodes": [
       {
@@ -7788,9 +7419,7 @@
       "$oid": "685ddd36e6e5c844c6b8eebb"
     },
     "name": "Harriet",
-    "actors": [
-      "Marlee Matlin"
-    ],
+    "actors": ["Marlee Matlin"],
     "quotes": [],
     "episodes": [
       {
@@ -7848,9 +7477,7 @@
       "$oid": "685ddd36e6e5c844c6b8eebc"
     },
     "name": "Shade Julia",
-    "actors": [
-      "Imogen Tear"
-    ],
+    "actors": ["Imogen Tear"],
     "quotes": [],
     "episodes": [
       {
@@ -7878,9 +7505,7 @@
       "$oid": "685ddd36e6e5c844c6b8eebd"
     },
     "name": "Howard",
-    "actors": [
-      "Brendan Taylor"
-    ],
+    "actors": ["Brendan Taylor"],
     "quotes": [],
     "episodes": [
       {
@@ -7902,9 +7527,7 @@
       "$oid": "685ddd36e6e5c844c6b8eebe"
     },
     "name": "Ominous Fairy",
-    "actors": [
-      "Nikolai Witschl"
-    ],
+    "actors": ["Nikolai Witschl"],
     "quotes": [],
     "episodes": [
       {
@@ -7938,9 +7561,7 @@
       "$oid": "685ddd36e6e5c844c6b8eebf"
     },
     "name": "Receptionist",
-    "actors": [
-      "Pippa Mackie"
-    ],
+    "actors": ["Pippa Mackie"],
     "quotes": [],
     "episodes": [
       {
@@ -7956,9 +7577,7 @@
       "$oid": "685ddd36e6e5c844c6b8eec0"
     },
     "name": "Fuzzbeat Employee",
-    "actors": [
-      "Selena Lohan"
-    ],
+    "actors": ["Selena Lohan"],
     "quotes": [],
     "episodes": [
       {
@@ -7974,9 +7593,7 @@
       "$oid": "685ddd39e6e5c844c6b8eec2"
     },
     "name": "Cindy Gaines",
-    "actors": [
-      "Alexie Gilmore"
-    ],
+    "actors": ["Alexie Gilmore"],
     "quotes": [],
     "episodes": [
       {
@@ -7992,9 +7609,7 @@
       "$oid": "685ddd39e6e5c844c6b8eec3"
     },
     "name": "The Concierge",
-    "actors": [
-      "Graeme McComb"
-    ],
+    "actors": ["Graeme McComb"],
     "quotes": [],
     "episodes": [
       {
@@ -8010,9 +7625,7 @@
       "$oid": "685ddd39e6e5c844c6b8eec4"
     },
     "name": "Sylvia",
-    "actors": [
-      "Roan Curtis"
-    ],
+    "actors": ["Roan Curtis"],
     "quotes": [],
     "episodes": [
       {
@@ -8046,9 +7659,7 @@
       "$oid": "685ddd39e6e5c844c6b8eec5"
     },
     "name": "Shade Alice",
-    "actors": [
-      "Ava Telek"
-    ],
+    "actors": ["Ava Telek"],
     "quotes": [],
     "episodes": [
       {
@@ -8070,9 +7681,7 @@
       "$oid": "685ddd39e6e5c844c6b8eec6"
     },
     "name": "Eugene",
-    "actors": [
-      "Liam Hughes"
-    ],
+    "actors": ["Liam Hughes"],
     "quotes": [],
     "episodes": [
       {
@@ -8088,9 +7697,7 @@
       "$oid": "685ddd39e6e5c844c6b8eec7"
     },
     "name": "Cowden",
-    "actors": [
-      "Fred Keating"
-    ],
+    "actors": ["Fred Keating"],
     "quotes": [],
     "episodes": [
       {
@@ -8106,9 +7713,7 @@
       "$oid": "685ddd39e6e5c844c6b8eec8"
     },
     "name": "Shoeless Man",
-    "actors": [
-      "Craig Erickson"
-    ],
+    "actors": ["Craig Erickson"],
     "quotes": [],
     "episodes": [
       {
@@ -8124,9 +7729,7 @@
       "$oid": "685ddd39e6e5c844c6b8eec9"
     },
     "name": "Bellhop",
-    "actors": [
-      "Marc Senior"
-    ],
+    "actors": ["Marc Senior"],
     "quotes": [],
     "episodes": [
       {
@@ -8142,10 +7745,7 @@
       "$oid": "685ddd39e6e5c844c6b8eeca"
     },
     "name": "Narrator",
-    "actors": [
-      "Milo Shandel",
-      "Rowan Schlosberg"
-    ],
+    "actors": ["Milo Shandel", "Rowan Schlosberg"],
     "quotes": [],
     "episodes": [
       {
@@ -8167,9 +7767,7 @@
       "$oid": "685ddd39e6e5c844c6b8eecb"
     },
     "name": "Dragon",
-    "actors": [
-      "Ingrid Oliver"
-    ],
+    "actors": ["Ingrid Oliver"],
     "quotes": [],
     "episodes": [
       {
@@ -8185,9 +7783,7 @@
       "$oid": "685ddd3de6e5c844c6b8eecd"
     },
     "name": "Nigel",
-    "actors": [
-      "Nico Evers-Swindell"
-    ],
+    "actors": ["Nico Evers-Swindell"],
     "quotes": [],
     "episodes": [
       {
@@ -8209,9 +7805,7 @@
       "$oid": "685ddd41e6e5c844c6b8eecf"
     },
     "name": "Umber",
-    "actors": [
-      "Nico Evers-Swindell"
-    ],
+    "actors": ["Nico Evers-Swindell"],
     "quotes": [],
     "episodes": [
       {
@@ -8233,9 +7827,7 @@
       "$oid": "685ddd41e6e5c844c6b8eed0"
     },
     "name": "Fairy Queen",
-    "actors": [
-      "Candis Cayne"
-    ],
+    "actors": ["Candis Cayne"],
     "quotes": [],
     "episodes": [
       {
@@ -8305,9 +7897,7 @@
       "$oid": "685ddd41e6e5c844c6b8eed1"
     },
     "name": "Plumber of the Gods",
-    "actors": [
-      "Kurtis Maguire"
-    ],
+    "actors": ["Kurtis Maguire"],
     "quotes": [],
     "episodes": [
       {
@@ -8318,74 +7908,13 @@
       }
     ]
   },
-  {
-    "_id": {
-      "$oid": "685ddd46e6e5c844c6b8eed3"
-    },
-    "name": "Zelda Schiff",
-    "actors": [
-      "Mageina Tovah"
-    ],
-    "quotes": [],
-    "episodes": [
-      {
-        "title": "The Tales of the Seven Keys",
-        "id": {
-          "$oid": "685ddd44e6e5c844c6b8eed2"
-        }
-      },
-      {
-        "title": "Six Short Stories About Magic",
-        "id": {
-          "$oid": "685ddd5fe6e5c844c6b8ef0e"
-        }
-      },
-      {
-        "title": "The Fillorian Candidate",
-        "id": {
-          "$oid": "685ddd71e6e5c844c6b8ef25"
-        }
-      },
-      {
-        "title": "Will You Play with Me?",
-        "id": {
-          "$oid": "685ddd76e6e5c844c6b8ef28"
-        }
-      },
-      {
-        "title": "Apocalypse? Now?!",
-        "id": {
-          "$oid": "685dddc2e6e5c844c6b8efde"
-        }
-      },
-      {
-        "title": "Cello Squirrel Daffodil",
-        "id": {
-          "$oid": "685dddd1e6e5c844c6b8effc"
-        }
-      },
-      {
-        "title": "The Balls",
-        "id": {
-          "$oid": "685ddddce6e5c844c6b8f009"
-        }
-      },
-      {
-        "title": "Fillory and Further",
-        "id": {
-          "$oid": "685ddde0e6e5c844c6b8f016"
-        }
-      }
-    ]
-  },
+
   {
     "_id": {
       "$oid": "685ddd46e6e5c844c6b8eed4"
     },
     "name": "Irene McAllistair",
-    "actors": [
-      "Jaime Ray Newman"
-    ],
+    "actors": ["Jaime Ray Newman"],
     "quotes": [],
     "episodes": [
       {
@@ -8431,9 +7960,7 @@
       "$oid": "685ddd46e6e5c844c6b8eed5"
     },
     "name": "Man with the Overdue Library Book",
-    "actors": [
-      "Timothy V. Murphy"
-    ],
+    "actors": ["Timothy V. Murphy"],
     "quotes": [],
     "episodes": [
       {
@@ -8449,9 +7976,7 @@
       "$oid": "685ddd46e6e5c844c6b8eed6"
     },
     "name": "The Great Cock of the Darkling Woods",
-    "actors": [
-      "Faran Tahir"
-    ],
+    "actors": ["Faran Tahir"],
     "quotes": [],
     "episodes": [
       {
@@ -8467,9 +7992,7 @@
       "$oid": "685ddd46e6e5c844c6b8eed7"
     },
     "name": "Bacchus",
-    "actors": [
-      "Ryan McDonald"
-    ],
+    "actors": ["Ryan McDonald"],
     "quotes": [],
     "episodes": [
       {
@@ -8497,9 +8020,7 @@
       "$oid": "685ddd46e6e5c844c6b8eed8"
     },
     "name": "Brooklyn Vampire",
-    "actors": [
-      "Sean Owen Roberts"
-    ],
+    "actors": ["Sean Owen Roberts"],
     "quotes": [],
     "episodes": [
       {
@@ -8515,9 +8036,7 @@
       "$oid": "685ddd46e6e5c844c6b8eed9"
     },
     "name": "Palace Guard",
-    "actors": [
-      "Wolsey Brooks"
-    ],
+    "actors": ["Wolsey Brooks"],
     "quotes": [],
     "episodes": [
       {
@@ -8533,9 +8052,7 @@
       "$oid": "685ddd46e6e5c844c6b8eeda"
     },
     "name": "Ordinary Party Guy",
-    "actors": [
-      "Gareth Rees"
-    ],
+    "actors": ["Gareth Rees"],
     "quotes": [],
     "episodes": [
       {
@@ -8551,9 +8068,7 @@
       "$oid": "685ddd46e6e5c844c6b8eedb"
     },
     "name": "Rambo",
-    "actors": [
-      "Aaron Paul Stewart"
-    ],
+    "actors": ["Aaron Paul Stewart"],
     "quotes": [],
     "episodes": [
       {
@@ -8569,9 +8084,7 @@
       "$oid": "685ddd4ae6e5c844c6b8eedd"
     },
     "name": "Eleanor Lipson",
-    "actors": [
-      "Keegan Connor Tracy"
-    ],
+    "actors": ["Keegan Connor Tracy"],
     "quotes": [],
     "episodes": [
       {
@@ -8593,9 +8106,7 @@
       "$oid": "685ddd4ae6e5c844c6b8eede"
     },
     "name": "Fray",
-    "actors": [
-      "Madeleine Arthur"
-    ],
+    "actors": ["Madeleine Arthur"],
     "quotes": [],
     "episodes": [
       {
@@ -8635,9 +8146,7 @@
       "$oid": "685ddd4ae6e5c844c6b8eedf"
     },
     "name": "Admiral Lacker",
-    "actors": [
-      "Roger Cross"
-    ],
+    "actors": ["Roger Cross"],
     "quotes": [],
     "episodes": [
       {
@@ -8659,9 +8168,7 @@
       "$oid": "685ddd4ae6e5c844c6b8eee0"
     },
     "name": "Father Poe",
-    "actors": [
-      "Haig Sutherland"
-    ],
+    "actors": ["Haig Sutherland"],
     "quotes": [],
     "episodes": [
       {
@@ -8677,9 +8184,7 @@
       "$oid": "685ddd4ae6e5c844c6b8eee1"
     },
     "name": "Shara",
-    "actors": [
-      "Alex Duncan"
-    ],
+    "actors": ["Alex Duncan"],
     "quotes": [],
     "episodes": [
       {
@@ -8695,9 +8200,7 @@
       "$oid": "685ddd4ae6e5c844c6b8eee2"
     },
     "name": "Cal",
-    "actors": [
-      "Robert Rozen"
-    ],
+    "actors": ["Robert Rozen"],
     "quotes": [],
     "episodes": [
       {
@@ -8713,9 +8216,7 @@
       "$oid": "685ddd4ae6e5c844c6b8eee3"
     },
     "name": "Cop 1",
-    "actors": [
-      "Bruce Blain"
-    ],
+    "actors": ["Bruce Blain"],
     "quotes": [],
     "episodes": [
       {
@@ -8731,9 +8232,7 @@
       "$oid": "685ddd4ae6e5c844c6b8eee4"
     },
     "name": "Donovan",
-    "actors": [
-      "Andres Joseph"
-    ],
+    "actors": ["Andres Joseph"],
     "quotes": [],
     "episodes": [
       {
@@ -8749,9 +8248,7 @@
       "$oid": "685ddd4ae6e5c844c6b8eee5"
     },
     "name": "Maggie",
-    "actors": [
-      "Celia Reid"
-    ],
+    "actors": ["Celia Reid"],
     "quotes": [],
     "episodes": [
       {
@@ -8767,9 +8264,7 @@
       "$oid": "685ddd4ae6e5c844c6b8eee6"
     },
     "name": "Naru",
-    "actors": [
-      "Mik Byskov"
-    ],
+    "actors": ["Mik Byskov"],
     "quotes": [],
     "episodes": [
       {
@@ -8785,9 +8280,7 @@
       "$oid": "685ddd4ae6e5c844c6b8eee7"
     },
     "name": "Patient",
-    "actors": [
-      "Beckham Skodje"
-    ],
+    "actors": ["Beckham Skodje"],
     "quotes": [],
     "episodes": [
       {
@@ -8803,9 +8296,7 @@
       "$oid": "685ddd4ae6e5c844c6b8eee8"
     },
     "name": "Bingle",
-    "actors": [
-      "Patrick Sabongui"
-    ],
+    "actors": ["Patrick Sabongui"],
     "quotes": [],
     "episodes": [
       {
@@ -8821,9 +8312,7 @@
       "$oid": "685ddd4ae6e5c844c6b8eee9"
     },
     "name": "Construction Worker",
-    "actors": [
-      "Justin Turnbull"
-    ],
+    "actors": ["Justin Turnbull"],
     "quotes": [],
     "episodes": [
       {
@@ -8839,9 +8328,7 @@
       "$oid": "685ddd4ae6e5c844c6b8eeea"
     },
     "name": "Group Member",
-    "actors": [
-      "Tunde Pellicola"
-    ],
+    "actors": ["Tunde Pellicola"],
     "quotes": [],
     "episodes": [
       {
@@ -8857,9 +8344,7 @@
       "$oid": "685ddd4ee6e5c844c6b8eeec"
     },
     "name": "Quentin",
-    "actors": [
-      "Jason Ralph"
-    ],
+    "actors": ["Jason Ralph"],
     "quotes": [],
     "episodes": [
       {
@@ -8875,9 +8360,7 @@
       "$oid": "685ddd4ee6e5c844c6b8eeed"
     },
     "name": "Pirate King",
-    "actors": [
-      "Daniella Alonso"
-    ],
+    "actors": ["Daniella Alonso"],
     "quotes": [],
     "episodes": [
       {
@@ -8893,9 +8376,7 @@
       "$oid": "685ddd4ee6e5c844c6b8eeee"
     },
     "name": "Asteroth",
-    "actors": [
-      "Julian Richings"
-    ],
+    "actors": ["Julian Richings"],
     "quotes": [],
     "episodes": [
       {
@@ -8911,10 +8392,7 @@
       "$oid": "685ddd4ee6e5c844c6b8eeef"
     },
     "name": "Carol",
-    "actors": [
-      "Kate Robbins",
-      "Gabrielle Miller"
-    ],
+    "actors": ["Kate Robbins", "Gabrielle Miller"],
     "quotes": [],
     "episodes": [
       {
@@ -8936,9 +8414,7 @@
       "$oid": "685ddd4ee6e5c844c6b8eef0"
     },
     "name": "Hoop",
-    "actors": [
-      "Jason Simpson"
-    ],
+    "actors": ["Jason Simpson"],
     "quotes": [],
     "episodes": [
       {
@@ -8954,9 +8430,7 @@
       "$oid": "685ddd4ee6e5c844c6b8eef1"
     },
     "name": "Homeless Lady",
-    "actors": [
-      "Elan Ross Gibson"
-    ],
+    "actors": ["Elan Ross Gibson"],
     "quotes": [],
     "episodes": [
       {
@@ -8972,9 +8446,7 @@
       "$oid": "685ddd51e6e5c844c6b8eef3"
     },
     "name": "Hyman Cooper",
-    "actors": [
-      "Dustin Ingram"
-    ],
+    "actors": ["Dustin Ingram"],
     "quotes": [],
     "episodes": [
       {
@@ -9020,9 +8492,7 @@
       "$oid": "685ddd51e6e5c844c6b8eef4"
     },
     "name": "Gavin",
-    "actors": [
-      "Daniel Nemes"
-    ],
+    "actors": ["Daniel Nemes"],
     "quotes": [],
     "episodes": [
       {
@@ -9092,9 +8562,7 @@
       "$oid": "685ddd51e6e5c844c6b8eef5"
     },
     "name": "Lance Morrison",
-    "actors": [
-      "Mitch Ainley"
-    ],
+    "actors": ["Mitch Ainley"],
     "quotes": [],
     "episodes": [
       {
@@ -9110,9 +8578,7 @@
       "$oid": "685ddd51e6e5c844c6b8eef6"
     },
     "name": "Emmett Morrison",
-    "actors": [
-      "Michael Kopsa"
-    ],
+    "actors": ["Michael Kopsa"],
     "quotes": [],
     "episodes": [
       {
@@ -9128,9 +8594,7 @@
       "$oid": "685ddd51e6e5c844c6b8eef7"
     },
     "name": "Eliot's Father",
-    "actors": [
-      "Michael Ryan"
-    ],
+    "actors": ["Michael Ryan"],
     "quotes": [],
     "episodes": [
       {
@@ -9146,9 +8610,7 @@
       "$oid": "685ddd51e6e5c844c6b8eef8"
     },
     "name": "Bodi",
-    "actors": [
-      "Matt Afonso"
-    ],
+    "actors": ["Matt Afonso"],
     "quotes": [],
     "episodes": [
       {
@@ -9164,9 +8626,7 @@
       "$oid": "685ddd51e6e5c844c6b8eef9"
     },
     "name": "Shep",
-    "actors": [
-      "Jason Vaisvila"
-    ],
+    "actors": ["Jason Vaisvila"],
     "quotes": [],
     "episodes": [
       {
@@ -9182,9 +8642,7 @@
       "$oid": "685ddd55e6e5c844c6b8eefb"
     },
     "name": "Stone Queen",
-    "actors": [
-      "Dina Meyer"
-    ],
+    "actors": ["Dina Meyer"],
     "quotes": [],
     "episodes": [
       {
@@ -9212,9 +8670,7 @@
       "$oid": "685ddd55e6e5c844c6b8eefc"
     },
     "name": "Prince Fomar",
-    "actors": [
-      "Nicholas Coombe"
-    ],
+    "actors": ["Nicholas Coombe"],
     "quotes": [],
     "episodes": [
       {
@@ -9236,9 +8692,7 @@
       "$oid": "685ddd55e6e5c844c6b8eefd"
     },
     "name": "Dr. Walton",
-    "actors": [
-      "David James Lewis"
-    ],
+    "actors": ["David James Lewis"],
     "quotes": [],
     "episodes": [
       {
@@ -9260,9 +8714,7 @@
       "$oid": "685ddd55e6e5c844c6b8eefe"
     },
     "name": "Prince Micah",
-    "actors": [
-      "Markian Tarasiuk"
-    ],
+    "actors": ["Markian Tarasiuk"],
     "quotes": [],
     "episodes": [
       {
@@ -9278,9 +8730,7 @@
       "$oid": "685ddd55e6e5c844c6b8eeff"
     },
     "name": "Arielle",
-    "actors": [
-      "Kylee Bush"
-    ],
+    "actors": ["Kylee Bush"],
     "quotes": [],
     "episodes": [
       {
@@ -9296,9 +8746,7 @@
       "$oid": "685ddd55e6e5c844c6b8ef00"
     },
     "name": "Lunk",
-    "actors": [
-      "Darien Martin"
-    ],
+    "actors": ["Darien Martin"],
     "quotes": [],
     "episodes": [
       {
@@ -9314,9 +8762,7 @@
       "$oid": "685ddd55e6e5c844c6b8ef01"
     },
     "name": "Puzzler",
-    "actors": [
-      "Robert Corness"
-    ],
+    "actors": ["Robert Corness"],
     "quotes": [],
     "episodes": [
       {
@@ -9332,9 +8778,7 @@
       "$oid": "685ddd55e6e5c844c6b8ef02"
     },
     "name": "Handmaid",
-    "actors": [
-      "Latonya Williams"
-    ],
+    "actors": ["Latonya Williams"],
     "quotes": [],
     "episodes": [
       {
@@ -9350,9 +8794,7 @@
       "$oid": "685ddd55e6e5c844c6b8ef03"
     },
     "name": "Rupert - Age 5",
-    "actors": [
-      "Sebastian Billingsley-Rodriguez"
-    ],
+    "actors": ["Sebastian Billingsley-Rodriguez"],
     "quotes": [],
     "episodes": [
       {
@@ -9368,9 +8810,7 @@
       "$oid": "685ddd55e6e5c844c6b8ef04"
     },
     "name": "Rupert - Age 20",
-    "actors": [
-      "Tim Donadt"
-    ],
+    "actors": ["Tim Donadt"],
     "quotes": [],
     "episodes": [
       {
@@ -9386,9 +8826,7 @@
       "$oid": "685ddd55e6e5c844c6b8ef05"
     },
     "name": "Jeffrey",
-    "actors": [
-      "Aason Nadjiwon"
-    ],
+    "actors": ["Aason Nadjiwon"],
     "quotes": [],
     "episodes": [
       {
@@ -9404,9 +8842,7 @@
       "$oid": "685ddd59e6e5c844c6b8ef07"
     },
     "name": "The Incubus",
-    "actors": [
-      "Benjamin Wilkinson"
-    ],
+    "actors": ["Benjamin Wilkinson"],
     "quotes": [],
     "episodes": [
       {
@@ -9422,9 +8858,7 @@
       "$oid": "685ddd59e6e5c844c6b8ef08"
     },
     "name": "Poppy",
-    "actors": [
-      "Felicia Day"
-    ],
+    "actors": ["Felicia Day"],
     "quotes": [],
     "episodes": [
       {
@@ -9458,9 +8892,7 @@
       "$oid": "685ddd59e6e5c844c6b8ef09"
     },
     "name": "Water Dragon",
-    "actors": [
-      "Sera Gamble"
-    ],
+    "actors": ["Sera Gamble"],
     "quotes": [],
     "episodes": [
       {
@@ -9476,9 +8908,7 @@
       "$oid": "685ddd59e6e5c844c6b8ef0a"
     },
     "name": "Zan",
-    "actors": [
-      "Bola Omodara"
-    ],
+    "actors": ["Bola Omodara"],
     "quotes": [],
     "episodes": [
       {
@@ -9494,9 +8924,7 @@
       "$oid": "685ddd5de6e5c844c6b8ef0c"
     },
     "name": "Vince",
-    "actors": [
-      "Birkett Turton"
-    ],
+    "actors": ["Birkett Turton"],
     "quotes": [],
     "episodes": [
       {
@@ -9512,9 +8940,7 @@
       "$oid": "685ddd5de6e5c844c6b8ef0d"
     },
     "name": "Orderly #1",
-    "actors": [
-      "Mackenzie Murdock"
-    ],
+    "actors": ["Mackenzie Murdock"],
     "quotes": [],
     "episodes": [
       {
@@ -9530,9 +8956,7 @@
       "$oid": "685ddd61e6e5c844c6b8ef0f"
     },
     "name": "Cassandra",
-    "actors": [
-      "Olivia Taylor Dudley"
-    ],
+    "actors": ["Olivia Taylor Dudley"],
     "quotes": [],
     "episodes": [
       {
@@ -9548,9 +8972,7 @@
       "$oid": "685ddd61e6e5c844c6b8ef10"
     },
     "name": "Skye",
-    "actors": [
-      "Anja Savcic"
-    ],
+    "actors": ["Anja Savcic"],
     "quotes": [],
     "episodes": [
       {
@@ -9578,10 +9000,7 @@
       "$oid": "685ddd61e6e5c844c6b8ef11"
     },
     "name": "Young Harriet",
-    "actors": [
-      "Stephanie Nogueras",
-      "Winter Obidos"
-    ],
+    "actors": ["Stephanie Nogueras", "Winter Obidos"],
     "quotes": [],
     "episodes": [
       {
@@ -9603,9 +9022,7 @@
       "$oid": "685ddd61e6e5c844c6b8ef12"
     },
     "name": "Underworld Park Ranger",
-    "actors": [
-      "William Vaughan"
-    ],
+    "actors": ["William Vaughan"],
     "quotes": [],
     "episodes": [
       {
@@ -9621,9 +9038,7 @@
       "$oid": "685ddd61e6e5c844c6b8ef13"
     },
     "name": "Maribel",
-    "actors": [
-      "Melanie Chan"
-    ],
+    "actors": ["Melanie Chan"],
     "quotes": [],
     "episodes": [
       {
@@ -9639,9 +9054,7 @@
       "$oid": "685ddd65e6e5c844c6b8ef15"
     },
     "name": "Demon Todd",
-    "actors": [
-      "Chris Britton"
-    ],
+    "actors": ["Chris Britton"],
     "quotes": [],
     "episodes": [
       {
@@ -9657,9 +9070,7 @@
       "$oid": "685ddd65e6e5c844c6b8ef16"
     },
     "name": "Partier #5",
-    "actors": [
-      "Cassandra Naud"
-    ],
+    "actors": ["Cassandra Naud"],
     "quotes": [],
     "episodes": [
       {
@@ -9675,9 +9086,7 @@
       "$oid": "685ddd69e6e5c844c6b8ef18"
     },
     "name": "Hades",
-    "actors": [
-      "Michael Luwoye"
-    ],
+    "actors": ["Michael Luwoye"],
     "quotes": [],
     "episodes": [
       {
@@ -9699,9 +9108,7 @@
       "$oid": "685ddd69e6e5c844c6b8ef19"
     },
     "name": "Uncle Edwin",
-    "actors": [
-      "Michael Hogan"
-    ],
+    "actors": ["Michael Hogan"],
     "quotes": [],
     "episodes": [
       {
@@ -9717,9 +9124,7 @@
       "$oid": "685ddd69e6e5c844c6b8ef1a"
     },
     "name": "Dust",
-    "actors": [
-      "Andrew James Allen"
-    ],
+    "actors": ["Andrew James Allen"],
     "quotes": [],
     "episodes": [
       {
@@ -9735,9 +9140,7 @@
       "$oid": "685ddd69e6e5c844c6b8ef1b"
     },
     "name": "Tristan",
-    "actors": [
-      "Dylan Archambault"
-    ],
+    "actors": ["Dylan Archambault"],
     "quotes": [],
     "episodes": [
       {
@@ -9753,9 +9156,7 @@
       "$oid": "685ddd69e6e5c844c6b8ef1c"
     },
     "name": "Wendell McAllistair",
-    "actors": [
-      "Beau Daniels"
-    ],
+    "actors": ["Beau Daniels"],
     "quotes": [],
     "episodes": [
       {
@@ -9771,9 +9172,7 @@
       "$oid": "685ddd69e6e5c844c6b8ef1d"
     },
     "name": "Vincent McAllistair",
-    "actors": [
-      "Todd Thomson"
-    ],
+    "actors": ["Todd Thomson"],
     "quotes": [],
     "episodes": [
       {
@@ -9789,9 +9188,7 @@
       "$oid": "685ddd69e6e5c844c6b8ef1e"
     },
     "name": "Kathy",
-    "actors": [
-      "Eileen Barrett"
-    ],
+    "actors": ["Eileen Barrett"],
     "quotes": [],
     "episodes": [
       {
@@ -9807,9 +9204,7 @@
       "$oid": "685ddd69e6e5c844c6b8ef1f"
     },
     "name": "Crying Woman",
-    "actors": [
-      "Mariessa Portelance"
-    ],
+    "actors": ["Mariessa Portelance"],
     "quotes": [],
     "episodes": [
       {
@@ -9825,9 +9220,7 @@
       "$oid": "685ddd69e6e5c844c6b8ef20"
     },
     "name": "Timid Fairy",
-    "actors": [
-      "Adam Olgui"
-    ],
+    "actors": ["Adam Olgui"],
     "quotes": [],
     "episodes": [
       {
@@ -9843,9 +9236,7 @@
       "$oid": "685ddd6fe6e5c844c6b8ef22"
     },
     "name": "William 'Penny 23' Adiyodi",
-    "actors": [
-      "Arjun Gupta"
-    ],
+    "actors": ["Arjun Gupta"],
     "quotes": [],
     "episodes": [
       {
@@ -10017,9 +9408,7 @@
       "$oid": "685ddd6fe6e5c844c6b8ef23"
     },
     "name": "Alternate Josh",
-    "actors": [
-      "Trevor Einhorn"
-    ],
+    "actors": ["Trevor Einhorn"],
     "quotes": [],
     "episodes": [
       {
@@ -10035,9 +9424,7 @@
       "$oid": "685ddd6fe6e5c844c6b8ef24"
     },
     "name": "Marina",
-    "actors": [
-      "Kacey Rohl"
-    ],
+    "actors": ["Kacey Rohl"],
     "quotes": [],
     "episodes": [
       {
@@ -10065,9 +9452,7 @@
       "$oid": "685ddd73e6e5c844c6b8ef26"
     },
     "name": "Reynard",
-    "actors": [
-      "Mackenzie Astin"
-    ],
+    "actors": ["Mackenzie Astin"],
     "quotes": [],
     "episodes": [
       {
@@ -10083,9 +9468,7 @@
       "$oid": "685ddd73e6e5c844c6b8ef27"
     },
     "name": "Bunny",
-    "actors": [
-      "Mike Moore"
-    ],
+    "actors": ["Mike Moore"],
     "quotes": [],
     "episodes": [
       {
@@ -10101,10 +9484,7 @@
       "$oid": "685ddd78e6e5c844c6b8ef29"
     },
     "name": "Brian",
-    "actors": [
-      "Jason Ralph",
-      "Tim Carlson"
-    ],
+    "actors": ["Jason Ralph", "Tim Carlson"],
     "quotes": [],
     "episodes": [
       {
@@ -10138,9 +9518,7 @@
       "$oid": "685ddd78e6e5c844c6b8ef2a"
     },
     "name": "Kim",
-    "actors": [
-      "Stella Maeve"
-    ],
+    "actors": ["Stella Maeve"],
     "quotes": [],
     "episodes": [
       {
@@ -10168,10 +9546,7 @@
       "$oid": "685ddd78e6e5c844c6b8ef2b"
     },
     "name": "Nameless",
-    "actors": [
-      "Hale Appleman",
-      "Spencer Daniels"
-    ],
+    "actors": ["Hale Appleman", "Spencer Daniels"],
     "quotes": [],
     "episodes": [
       {
@@ -10265,10 +9640,7 @@
       "$oid": "685ddd78e6e5c844c6b8ef2c"
     },
     "name": "Hansel",
-    "actors": [
-      "Arjun Gupta",
-      "Tarun Keram"
-    ],
+    "actors": ["Arjun Gupta", "Tarun Keram"],
     "quotes": [],
     "episodes": [
       {
@@ -10308,10 +9680,7 @@
       "$oid": "685ddd78e6e5c844c6b8ef2d"
     },
     "name": "Janet",
-    "actors": [
-      "Summer Bishil",
-      "Agam Darshi"
-    ],
+    "actors": ["Summer Bishil", "Agam Darshi"],
     "quotes": [],
     "episodes": [
       {
@@ -10351,9 +9720,7 @@
       "$oid": "685ddd78e6e5c844c6b8ef2e"
     },
     "name": "Sam",
-    "actors": [
-      "Jade Tailor"
-    ],
+    "actors": ["Jade Tailor"],
     "quotes": [],
     "episodes": [
       {
@@ -10381,9 +9748,7 @@
       "$oid": "685ddd78e6e5c844c6b8ef2f"
     },
     "name": "Isaac",
-    "actors": [
-      "Trevor Einhorn"
-    ],
+    "actors": ["Trevor Einhorn"],
     "quotes": [],
     "episodes": [
       {
@@ -10411,9 +9776,7 @@
       "$oid": "685ddd78e6e5c844c6b8ef30"
     },
     "name": "Iris",
-    "actors": [
-      "Madisen Beaty"
-    ],
+    "actors": ["Madisen Beaty"],
     "quotes": [],
     "episodes": [
       {
@@ -10435,9 +9798,7 @@
       "$oid": "685ddd78e6e5c844c6b8ef31"
     },
     "name": "Callie",
-    "actors": [
-      "Michaela McManus"
-    ],
+    "actors": ["Michaela McManus"],
     "quotes": [],
     "episodes": [
       {
@@ -10453,9 +9814,7 @@
       "$oid": "685ddd78e6e5c844c6b8ef32"
     },
     "name": "Ora",
-    "actors": [
-      "Alexandra Metz"
-    ],
+    "actors": ["Alexandra Metz"],
     "quotes": [],
     "episodes": [
       {
@@ -10471,9 +9830,7 @@
       "$oid": "685ddd78e6e5c844c6b8ef33"
     },
     "name": "Prometheus",
-    "actors": [
-      "Georgie Daburas"
-    ],
+    "actors": ["Georgie Daburas"],
     "quotes": [],
     "episodes": [
       {
@@ -10489,87 +9846,13 @@
       "$oid": "685ddd7de6e5c844c6b8ef35"
     },
     "name": "Professor Eleanor Lipson",
-    "actors": [
-      "Keegan Connor Tracy"
-    ],
+    "actors": ["Keegan Connor Tracy"],
     "quotes": [],
     "episodes": [
       {
         "title": "A Flock of Lost Birds",
         "id": {
           "$oid": "685ddd7be6e5c844c6b8ef34"
-        }
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "685ddd7de6e5c844c6b8ef36"
-    },
-    "name": "Librarian Zelda Schiff",
-    "actors": [
-      "Mageina Tovah"
-    ],
-    "quotes": [],
-    "episodes": [
-      {
-        "title": "A Flock of Lost Birds",
-        "id": {
-          "$oid": "685ddd7be6e5c844c6b8ef34"
-        }
-      },
-      {
-        "title": "Lost, Found, Fucked",
-        "id": {
-          "$oid": "685ddd7fe6e5c844c6b8ef45"
-        }
-      },
-      {
-        "title": "The Side Effect",
-        "id": {
-          "$oid": "685ddd92e6e5c844c6b8ef79"
-        }
-      },
-      {
-        "title": "Home Improvement",
-        "id": {
-          "$oid": "685ddd96e6e5c844c6b8ef89"
-        }
-      },
-      {
-        "title": "The Serpent",
-        "id": {
-          "$oid": "685ddd9ae6e5c844c6b8ef8e"
-        }
-      },
-      {
-        "title": "All That Hard, Glossy Armor",
-        "id": {
-          "$oid": "685ddd9ee6e5c844c6b8ef98"
-        }
-      },
-      {
-        "title": "The 4-1-1",
-        "id": {
-          "$oid": "685ddda2e6e5c844c6b8efa4"
-        }
-      },
-      {
-        "title": "The Secret Sea",
-        "id": {
-          "$oid": "685ddda7e6e5c844c6b8efaa"
-        }
-      },
-      {
-        "title": "No Better to Be Safe Than Sorry",
-        "id": {
-          "$oid": "685dddabe6e5c844c6b8efaf"
-        }
-      },
-      {
-        "title": "Magicians Anonymous",
-        "id": {
-          "$oid": "685dddbde6e5c844c6b8efd0"
         }
       }
     ]
@@ -10579,9 +9862,7 @@
       "$oid": "685ddd7de6e5c844c6b8ef37"
     },
     "name": "Santa Claus",
-    "actors": [
-      "Tom Wright"
-    ],
+    "actors": ["Tom Wright"],
     "quotes": [],
     "episodes": [
       {
@@ -10615,9 +9896,7 @@
       "$oid": "685ddd7de6e5c844c6b8ef38"
     },
     "name": "Kimber D'Antoni",
-    "actors": [
-      "Emily Althaus"
-    ],
+    "actors": ["Emily Althaus"],
     "quotes": [],
     "episodes": [
       {
@@ -10639,9 +9918,7 @@
       "$oid": "685ddd7de6e5c844c6b8ef39"
     },
     "name": "Sam Cunningham",
-    "actors": [
-      "Leanne Lapp"
-    ],
+    "actors": ["Leanne Lapp"],
     "quotes": [],
     "episodes": [
       {
@@ -10663,9 +9940,7 @@
       "$oid": "685ddd7de6e5c844c6b8ef3a"
     },
     "name": "Isaac Karamov",
-    "actors": [
-      "Neil Grayston"
-    ],
+    "actors": ["Neil Grayston"],
     "quotes": [],
     "episodes": [
       {
@@ -10687,9 +9962,7 @@
       "$oid": "685ddd7de6e5c844c6b8ef3b"
     },
     "name": "Detective Richter",
-    "actors": [
-      "Ronald Patrick Thompson"
-    ],
+    "actors": ["Ronald Patrick Thompson"],
     "quotes": [],
     "episodes": [
       {
@@ -10705,9 +9978,7 @@
       "$oid": "685ddd7de6e5c844c6b8ef3c"
     },
     "name": "Librarian Bruce",
-    "actors": [
-      "Dion Riley"
-    ],
+    "actors": ["Dion Riley"],
     "quotes": [],
     "episodes": [
       {
@@ -10723,9 +9994,7 @@
       "$oid": "685ddd7de6e5c844c6b8ef3d"
     },
     "name": "Librarian Shayna",
-    "actors": [
-      "Jackie Blackmore"
-    ],
+    "actors": ["Jackie Blackmore"],
     "quotes": [],
     "episodes": [
       {
@@ -10741,9 +10010,7 @@
       "$oid": "685ddd7de6e5c844c6b8ef3e"
     },
     "name": "Lord Fresh",
-    "actors": [
-      "Anthony F. Ingram"
-    ],
+    "actors": ["Anthony F. Ingram"],
     "quotes": [],
     "episodes": [
       {
@@ -10765,9 +10032,7 @@
       "$oid": "685ddd7de6e5c844c6b8ef3f"
     },
     "name": "Mark",
-    "actors": [
-      "Max Montesi"
-    ],
+    "actors": ["Max Montesi"],
     "quotes": [],
     "episodes": [
       {
@@ -10783,9 +10048,7 @@
       "$oid": "685ddd7de6e5c844c6b8ef40"
     },
     "name": "Shop Owner",
-    "actors": [
-      "Patrick Keating"
-    ],
+    "actors": ["Patrick Keating"],
     "quotes": [],
     "episodes": [
       {
@@ -10801,9 +10064,7 @@
       "$oid": "685ddd7de6e5c844c6b8ef41"
     },
     "name": "Sophie",
-    "actors": [
-      "Bethany Brown"
-    ],
+    "actors": ["Bethany Brown"],
     "quotes": [],
     "episodes": [
       {
@@ -10819,9 +10080,7 @@
       "$oid": "685ddd7de6e5c844c6b8ef42"
     },
     "name": "Librarian Rona",
-    "actors": [
-      "Kelly Metzger"
-    ],
+    "actors": ["Kelly Metzger"],
     "quotes": [],
     "episodes": [
       {
@@ -10837,9 +10096,7 @@
       "$oid": "685ddd7de6e5c844c6b8ef43"
     },
     "name": "Ice Cream Vendor",
-    "actors": [
-      "Tyler Cotton"
-    ],
+    "actors": ["Tyler Cotton"],
     "quotes": [],
     "episodes": [
       {
@@ -10855,9 +10112,7 @@
       "$oid": "685ddd7de6e5c844c6b8ef44"
     },
     "name": "Business Man",
-    "actors": [
-      "Ian Hawes"
-    ],
+    "actors": ["Ian Hawes"],
     "quotes": [],
     "episodes": [
       {
@@ -10873,9 +10128,7 @@
       "$oid": "685ddd81e6e5c844c6b8ef46"
     },
     "name": "Etta",
-    "actors": [
-      "Sherilyn Fenn"
-    ],
+    "actors": ["Sherilyn Fenn"],
     "quotes": [],
     "episodes": [
       {
@@ -10891,10 +10144,7 @@
       "$oid": "685ddd81e6e5c844c6b8ef47"
     },
     "name": "Enyalius",
-    "actors": [
-      "Daniel Cudmore",
-      "Gethin Anthony"
-    ],
+    "actors": ["Daniel Cudmore", "Gethin Anthony"],
     "quotes": [],
     "episodes": [
       {
@@ -10922,9 +10172,7 @@
       "$oid": "685ddd81e6e5c844c6b8ef48"
     },
     "name": "Walter",
-    "actors": [
-      "Danny Steele"
-    ],
+    "actors": ["Danny Steele"],
     "quotes": [],
     "episodes": [
       {
@@ -10940,9 +10188,7 @@
       "$oid": "685ddd81e6e5c844c6b8ef49"
     },
     "name": "Marina's Father",
-    "actors": [
-      "Rick McLean"
-    ],
+    "actors": ["Rick McLean"],
     "quotes": [],
     "episodes": [
       {
@@ -10958,9 +10204,7 @@
       "$oid": "685ddd81e6e5c844c6b8ef4a"
     },
     "name": "Ashley the Bookie",
-    "actors": [
-      "Gail Hamilton"
-    ],
+    "actors": ["Gail Hamilton"],
     "quotes": [],
     "episodes": [
       {
@@ -10976,9 +10220,7 @@
       "$oid": "685ddd81e6e5c844c6b8ef4b"
     },
     "name": "Professor Li",
-    "actors": [
-      "Kevin Li"
-    ],
+    "actors": ["Kevin Li"],
     "quotes": [],
     "episodes": [
       {
@@ -10994,9 +10236,7 @@
       "$oid": "685ddd85e6e5c844c6b8ef4d"
     },
     "name": "Shoshana",
-    "actors": [
-      "Jolene Purdy"
-    ],
+    "actors": ["Jolene Purdy"],
     "quotes": [],
     "episodes": [
       {
@@ -11024,9 +10264,7 @@
       "$oid": "685ddd85e6e5c844c6b8ef4e"
     },
     "name": "Frankie Gallo",
-    "actors": [
-      "Zach Cherry"
-    ],
+    "actors": ["Zach Cherry"],
     "quotes": [],
     "episodes": [
       {
@@ -11042,9 +10280,7 @@
       "$oid": "685ddd85e6e5c844c6b8ef4f"
     },
     "name": "Phyllis",
-    "actors": [
-      "Jewel Staite"
-    ],
+    "actors": ["Jewel Staite"],
     "quotes": [],
     "episodes": [
       {
@@ -11060,9 +10296,7 @@
       "$oid": "685ddd85e6e5c844c6b8ef50"
     },
     "name": "Whitley",
-    "actors": [
-      "West Duchovny"
-    ],
+    "actors": ["West Duchovny"],
     "quotes": [],
     "episodes": [
       {
@@ -11090,9 +10324,7 @@
       "$oid": "685ddd85e6e5c844c6b8ef51"
     },
     "name": "Evelyn",
-    "actors": [
-      "Tara Pratt"
-    ],
+    "actors": ["Tara Pratt"],
     "quotes": [],
     "episodes": [
       {
@@ -11108,9 +10340,7 @@
       "$oid": "685ddd85e6e5c844c6b8ef52"
     },
     "name": "Lionel",
-    "actors": [
-      "Ian Butcher"
-    ],
+    "actors": ["Ian Butcher"],
     "quotes": [],
     "episodes": [
       {
@@ -11126,9 +10356,7 @@
       "$oid": "685ddd85e6e5c844c6b8ef53"
     },
     "name": "Beatrice McAllister",
-    "actors": [
-      "Deborah Ramsay"
-    ],
+    "actors": ["Deborah Ramsay"],
     "quotes": [],
     "episodes": [
       {
@@ -11144,9 +10372,7 @@
       "$oid": "685ddd85e6e5c844c6b8ef54"
     },
     "name": "Agent",
-    "actors": [
-      "V.G. Winter"
-    ],
+    "actors": ["V.G. Winter"],
     "quotes": [],
     "episodes": [
       {
@@ -11162,9 +10388,7 @@
       "$oid": "685ddd85e6e5c844c6b8ef55"
     },
     "name": "Jay",
-    "actors": [
-      "Matthew Nelson-Mahood"
-    ],
+    "actors": ["Matthew Nelson-Mahood"],
     "quotes": [],
     "episodes": [
       {
@@ -11186,9 +10410,7 @@
       "$oid": "685ddd85e6e5c844c6b8ef56"
     },
     "name": "TV Crew",
-    "actors": [
-      "Nalani Wakita"
-    ],
+    "actors": ["Nalani Wakita"],
     "quotes": [],
     "episodes": [
       {
@@ -11204,9 +10426,7 @@
       "$oid": "685ddd85e6e5c844c6b8ef57"
     },
     "name": "Roman",
-    "actors": [
-      "Colin Foo"
-    ],
+    "actors": ["Colin Foo"],
     "quotes": [],
     "episodes": [
       {
@@ -11222,11 +10442,7 @@
       "$oid": "685ddd85e6e5c844c6b8ef58"
     },
     "name": "Woman",
-    "actors": [
-      "Sharmaine Yeoh",
-      "Bree Woodill",
-      "Kapila Rego"
-    ],
+    "actors": ["Sharmaine Yeoh", "Bree Woodill", "Kapila Rego"],
     "quotes": [],
     "episodes": [
       {
@@ -11254,9 +10470,7 @@
       "$oid": "685ddd85e6e5c844c6b8ef59"
     },
     "name": "Ice Cream Dude",
-    "actors": [
-      "Colin Cowan"
-    ],
+    "actors": ["Colin Cowan"],
     "quotes": [],
     "episodes": [
       {
@@ -11272,10 +10486,7 @@
       "$oid": "685ddd89e6e5c844c6b8ef5b"
     },
     "name": "Helen",
-    "actors": [
-      "Arden Myrin",
-      "Destiny Millns"
-    ],
+    "actors": ["Arden Myrin", "Destiny Millns"],
     "quotes": [],
     "episodes": [
       {
@@ -11297,9 +10508,7 @@
       "$oid": "685ddd89e6e5c844c6b8ef5c"
     },
     "name": "Quentin's Mother",
-    "actors": [
-      "Joanna Going"
-    ],
+    "actors": ["Joanna Going"],
     "quotes": [],
     "episodes": [
       {
@@ -11315,9 +10524,7 @@
       "$oid": "685ddd89e6e5c844c6b8ef5d"
     },
     "name": "Enid",
-    "actors": [
-      "Kasha Kropinski"
-    ],
+    "actors": ["Kasha Kropinski"],
     "quotes": [],
     "episodes": [
       {
@@ -11333,9 +10540,7 @@
       "$oid": "685ddd89e6e5c844c6b8ef5e"
     },
     "name": "Copy Girl",
-    "actors": [
-      "Georgia Beaty"
-    ],
+    "actors": ["Georgia Beaty"],
     "quotes": [],
     "episodes": [
       {
@@ -11351,10 +10556,7 @@
       "$oid": "685ddd8de6e5c844c6b8ef60"
     },
     "name": "Charlton",
-    "actors": [
-      "Spencer Daniels",
-      "Dustin Ingram"
-    ],
+    "actors": ["Spencer Daniels", "Dustin Ingram"],
     "quotes": [],
     "episodes": [
       {
@@ -11406,9 +10608,7 @@
       "$oid": "685ddd8de6e5c844c6b8ef61"
     },
     "name": "Gym Teacher",
-    "actors": [
-      "Andrew McNee"
-    ],
+    "actors": ["Andrew McNee"],
     "quotes": [],
     "episodes": [
       {
@@ -11424,9 +10624,7 @@
       "$oid": "685ddd8de6e5c844c6b8ef62"
     },
     "name": "Dog Owner",
-    "actors": [
-      "Carmen Dollard"
-    ],
+    "actors": ["Carmen Dollard"],
     "quotes": [],
     "episodes": [
       {
@@ -11442,9 +10640,7 @@
       "$oid": "685ddd8de6e5c844c6b8ef63"
     },
     "name": "14 Year Old Taylor",
-    "actors": [
-      "Zac Siewert"
-    ],
+    "actors": ["Zac Siewert"],
     "quotes": [],
     "episodes": [
       {
@@ -11460,9 +10656,7 @@
       "$oid": "685ddd8de6e5c844c6b8ef64"
     },
     "name": "Carpenter",
-    "actors": [
-      "Tomas Mauro"
-    ],
+    "actors": ["Tomas Mauro"],
     "quotes": [],
     "episodes": [
       {
@@ -11484,9 +10678,7 @@
       "$oid": "685ddd8de6e5c844c6b8ef65"
     },
     "name": "12 Year Old Taylor",
-    "actors": [
-      "Jaedon Siewert"
-    ],
+    "actors": ["Jaedon Siewert"],
     "quotes": [],
     "episodes": [
       {
@@ -11502,9 +10694,7 @@
       "$oid": "685ddd8de6e5c844c6b8ef66"
     },
     "name": "12 Year Old Eliot",
-    "actors": [
-      "Elliot Chandler"
-    ],
+    "actors": ["Elliot Chandler"],
     "quotes": [],
     "episodes": [
       {
@@ -11520,9 +10710,7 @@
       "$oid": "685ddd8de6e5c844c6b8ef67"
     },
     "name": "14 Year Old Eliot",
-    "actors": [
-      "Emrik Lopez"
-    ],
+    "actors": ["Emrik Lopez"],
     "quotes": [],
     "episodes": [
       {
@@ -11538,9 +10726,7 @@
       "$oid": "685ddd8de6e5c844c6b8ef68"
     },
     "name": "Cute Young Man #1",
-    "actors": [
-      "Boden Pothorin"
-    ],
+    "actors": ["Boden Pothorin"],
     "quotes": [],
     "episodes": [
       {
@@ -11556,9 +10742,7 @@
       "$oid": "685ddd8de6e5c844c6b8ef69"
     },
     "name": "Cute Young Man #2",
-    "actors": [
-      "Micah Solis"
-    ],
+    "actors": ["Micah Solis"],
     "quotes": [],
     "episodes": [
       {
@@ -11574,9 +10758,7 @@
       "$oid": "685ddd8de6e5c844c6b8ef6a"
     },
     "name": "New Yorker",
-    "actors": [
-      "Avyen von Waldenburg"
-    ],
+    "actors": ["Avyen von Waldenburg"],
     "quotes": [],
     "episodes": [
       {
@@ -11592,9 +10774,7 @@
       "$oid": "685ddd90e6e5c844c6b8ef6c"
     },
     "name": "William 'Original Penny' Adiyodi",
-    "actors": [
-      "Arjun Gupta"
-    ],
+    "actors": ["Arjun Gupta"],
     "quotes": [],
     "episodes": [
       {
@@ -11616,9 +10796,7 @@
       "$oid": "685ddd90e6e5c844c6b8ef6d"
     },
     "name": "Lady Pike",
-    "actors": [
-      "Miranda Frigon"
-    ],
+    "actors": ["Miranda Frigon"],
     "quotes": [],
     "episodes": [
       {
@@ -11634,9 +10812,7 @@
       "$oid": "685ddd90e6e5c844c6b8ef6e"
     },
     "name": "Daniel Stoppard",
-    "actors": [
-      "Daniel Yang"
-    ],
+    "actors": ["Daniel Yang"],
     "quotes": [],
     "episodes": [
       {
@@ -11658,9 +10834,7 @@
       "$oid": "685ddd90e6e5c844c6b8ef6f"
     },
     "name": "Sheila",
-    "actors": [
-      "Camryn Manheim"
-    ],
+    "actors": ["Camryn Manheim"],
     "quotes": [],
     "episodes": [
       {
@@ -11694,9 +10868,7 @@
       "$oid": "685ddd90e6e5c844c6b8ef70"
     },
     "name": "Dylan",
-    "actors": [
-      "Ben Sullivan"
-    ],
+    "actors": ["Ben Sullivan"],
     "quotes": [],
     "episodes": [
       {
@@ -11712,9 +10884,7 @@
       "$oid": "685ddd90e6e5c844c6b8ef71"
     },
     "name": "Sonia 36",
-    "actors": [
-      "Donna Soares"
-    ],
+    "actors": ["Donna Soares"],
     "quotes": [],
     "episodes": [
       {
@@ -11730,9 +10900,7 @@
       "$oid": "685ddd90e6e5c844c6b8ef72"
     },
     "name": "Librarian Laurel",
-    "actors": [
-      "Camille Legg"
-    ],
+    "actors": ["Camille Legg"],
     "quotes": [],
     "episodes": [
       {
@@ -11748,9 +10916,7 @@
       "$oid": "685ddd90e6e5c844c6b8ef73"
     },
     "name": "Librarian Paul",
-    "actors": [
-      "Michael Smith"
-    ],
+    "actors": ["Michael Smith"],
     "quotes": [],
     "episodes": [
       {
@@ -11766,9 +10932,7 @@
       "$oid": "685ddd90e6e5c844c6b8ef74"
     },
     "name": "Soldier #1 36",
-    "actors": [
-      "Kareem Tristan Alleyne"
-    ],
+    "actors": ["Kareem Tristan Alleyne"],
     "quotes": [],
     "episodes": [
       {
@@ -11784,9 +10948,7 @@
       "$oid": "685ddd90e6e5c844c6b8ef75"
     },
     "name": "Scared Woman 36",
-    "actors": [
-      "Shauna Hansen"
-    ],
+    "actors": ["Shauna Hansen"],
     "quotes": [],
     "episodes": [
       {
@@ -11802,9 +10964,7 @@
       "$oid": "685ddd90e6e5c844c6b8ef76"
     },
     "name": "Minister Grayson",
-    "actors": [
-      "Kwesi Ameyaw"
-    ],
+    "actors": ["Kwesi Ameyaw"],
     "quotes": [],
     "episodes": [
       {
@@ -11820,9 +10980,7 @@
       "$oid": "685ddd90e6e5c844c6b8ef77"
     },
     "name": "Librarian Muhammed",
-    "actors": [
-      "Antonio Cayonne"
-    ],
+    "actors": ["Antonio Cayonne"],
     "quotes": [],
     "episodes": [
       {
@@ -11844,9 +11002,7 @@
       "$oid": "685ddd90e6e5c844c6b8ef78"
     },
     "name": "Mummy",
-    "actors": [
-      "Keith Arbuthnot"
-    ],
+    "actors": ["Keith Arbuthnot"],
     "quotes": [],
     "episodes": [
       {
@@ -11862,9 +11018,7 @@
       "$oid": "685ddd94e6e5c844c6b8ef7a"
     },
     "name": "Librarian Phyllis",
-    "actors": [
-      "Jewel Staite"
-    ],
+    "actors": ["Jewel Staite"],
     "quotes": [],
     "episodes": [
       {
@@ -11892,9 +11046,7 @@
       "$oid": "685ddd94e6e5c844c6b8ef7b"
     },
     "name": "Everett",
-    "actors": [
-      "Brian Markinson"
-    ],
+    "actors": ["Brian Markinson"],
     "quotes": [],
     "episodes": [
       {
@@ -11940,9 +11092,7 @@
       "$oid": "685ddd94e6e5c844c6b8ef7c"
     },
     "name": "Librarian Cyrus",
-    "actors": [
-      "Dean Marshall"
-    ],
+    "actors": ["Dean Marshall"],
     "quotes": [],
     "episodes": [
       {
@@ -11970,9 +11120,7 @@
       "$oid": "685ddd94e6e5c844c6b8ef7d"
     },
     "name": "Gordy",
-    "actors": [
-      "Alex Weed"
-    ],
+    "actors": ["Alex Weed"],
     "quotes": [],
     "episodes": [
       {
@@ -12000,9 +11148,7 @@
       "$oid": "685ddd94e6e5c844c6b8ef7e"
     },
     "name": "Derek",
-    "actors": [
-      "Chris Brochu"
-    ],
+    "actors": ["Chris Brochu"],
     "quotes": [],
     "episodes": [
       {
@@ -12018,9 +11164,7 @@
       "$oid": "685ddd94e6e5c844c6b8ef7f"
     },
     "name": "Baba Yaga",
-    "actors": [
-      "Olivia Norman"
-    ],
+    "actors": ["Olivia Norman"],
     "quotes": [],
     "episodes": [
       {
@@ -12036,9 +11180,7 @@
       "$oid": "685ddd94e6e5c844c6b8ef80"
     },
     "name": "Bailey",
-    "actors": [
-      "Olivia Norman"
-    ],
+    "actors": ["Olivia Norman"],
     "quotes": [],
     "episodes": [
       {
@@ -12054,9 +11196,7 @@
       "$oid": "685ddd94e6e5c844c6b8ef81"
     },
     "name": "Kareem",
-    "actors": [
-      "Synto D. Misati"
-    ],
+    "actors": ["Synto D. Misati"],
     "quotes": [],
     "episodes": [
       {
@@ -12072,9 +11212,7 @@
       "$oid": "685ddd94e6e5c844c6b8ef82"
     },
     "name": "Ryan",
-    "actors": [
-      "Xavier De Salaberry"
-    ],
+    "actors": ["Xavier De Salaberry"],
     "quotes": [],
     "episodes": [
       {
@@ -12090,9 +11228,7 @@
       "$oid": "685ddd94e6e5c844c6b8ef83"
     },
     "name": "Murphy",
-    "actors": [
-      "Paolo Maiolo"
-    ],
+    "actors": ["Paolo Maiolo"],
     "quotes": [],
     "episodes": [
       {
@@ -12108,9 +11244,7 @@
       "$oid": "685ddd94e6e5c844c6b8ef84"
     },
     "name": "Old Woman",
-    "actors": [
-      "Raven Sto"
-    ],
+    "actors": ["Raven Sto"],
     "quotes": [],
     "episodes": [
       {
@@ -12126,9 +11260,7 @@
       "$oid": "685ddd94e6e5c844c6b8ef85"
     },
     "name": "Young Hedge",
-    "actors": [
-      "Tyler Alderman"
-    ],
+    "actors": ["Tyler Alderman"],
     "quotes": [],
     "episodes": [
       {
@@ -12144,9 +11276,7 @@
       "$oid": "685ddd94e6e5c844c6b8ef86"
     },
     "name": "Hedge #1",
-    "actors": [
-      "Anesha Bailey"
-    ],
+    "actors": ["Anesha Bailey"],
     "quotes": [],
     "episodes": [
       {
@@ -12162,9 +11292,7 @@
       "$oid": "685ddd94e6e5c844c6b8ef87"
     },
     "name": "Green Hooded Woman",
-    "actors": [
-      "Trish Everett-Kabut"
-    ],
+    "actors": ["Trish Everett-Kabut"],
     "quotes": [],
     "episodes": [
       {
@@ -12180,9 +11308,7 @@
       "$oid": "685ddd94e6e5c844c6b8ef88"
     },
     "name": "Hedge #2",
-    "actors": [
-      "Marcel Zadé"
-    ],
+    "actors": ["Marcel Zadé"],
     "quotes": [],
     "episodes": [
       {
@@ -12198,9 +11324,7 @@
       "$oid": "685ddd97e6e5c844c6b8ef8a"
     },
     "name": "Harold the Herald",
-    "actors": [
-      "Matthew Kevin Anderson"
-    ],
+    "actors": ["Matthew Kevin Anderson"],
     "quotes": [],
     "episodes": [
       {
@@ -12216,9 +11340,7 @@
       "$oid": "685ddd97e6e5c844c6b8ef8b"
     },
     "name": "Napster",
-    "actors": [
-      "Lynn Andrews"
-    ],
+    "actors": ["Lynn Andrews"],
     "quotes": [],
     "episodes": [
       {
@@ -12234,9 +11356,7 @@
       "$oid": "685ddd97e6e5c844c6b8ef8c"
     },
     "name": "The Prophet",
-    "actors": [
-      "Tara Karsian"
-    ],
+    "actors": ["Tara Karsian"],
     "quotes": [],
     "episodes": [
       {
@@ -12252,9 +11372,7 @@
       "$oid": "685ddd97e6e5c844c6b8ef8d"
     },
     "name": "East River Dragon",
-    "actors": [
-      "Ambyr Childers"
-    ],
+    "actors": ["Ambyr Childers"],
     "quotes": [],
     "episodes": [
       {
@@ -12270,9 +11388,7 @@
       "$oid": "685ddd9ce6e5c844c6b8ef8f"
     },
     "name": "Mirror Alice",
-    "actors": [
-      "Olivia Taylor Dudley"
-    ],
+    "actors": ["Olivia Taylor Dudley"],
     "quotes": [],
     "episodes": [
       {
@@ -12288,9 +11404,7 @@
       "$oid": "685ddd9ce6e5c844c6b8ef90"
     },
     "name": "Ru",
-    "actors": [
-      "Rukiya Bernard"
-    ],
+    "actors": ["Rukiya Bernard"],
     "quotes": [],
     "episodes": [
       {
@@ -12306,9 +11420,7 @@
       "$oid": "685ddd9ce6e5c844c6b8ef91"
     },
     "name": "Masked Man",
-    "actors": [
-      "Raresh DiMofte"
-    ],
+    "actors": ["Raresh DiMofte"],
     "quotes": [],
     "episodes": [
       {
@@ -12324,9 +11436,7 @@
       "$oid": "685ddd9ce6e5c844c6b8ef92"
     },
     "name": "Hedge Patient",
-    "actors": [
-      "Orin McRey"
-    ],
+    "actors": ["Orin McRey"],
     "quotes": [],
     "episodes": [
       {
@@ -12342,9 +11452,7 @@
       "$oid": "685ddd9ce6e5c844c6b8ef93"
     },
     "name": "Librarian Doctor",
-    "actors": [
-      "Mo Saïd"
-    ],
+    "actors": ["Mo Saïd"],
     "quotes": [],
     "episodes": [
       {
@@ -12360,9 +11468,7 @@
       "$oid": "685ddd9ce6e5c844c6b8ef94"
     },
     "name": "Hedge Man",
-    "actors": [
-      "Marcio Moreno"
-    ],
+    "actors": ["Marcio Moreno"],
     "quotes": [],
     "episodes": [
       {
@@ -12378,9 +11484,7 @@
       "$oid": "685ddd9ce6e5c844c6b8ef95"
     },
     "name": "Librarian",
-    "actors": [
-      "Marcio Moreno"
-    ],
+    "actors": ["Marcio Moreno"],
     "quotes": [],
     "episodes": [
       {
@@ -12396,9 +11500,7 @@
       "$oid": "685ddd9ce6e5c844c6b8ef96"
     },
     "name": "Allan",
-    "actors": [
-      "John Shaw"
-    ],
+    "actors": ["John Shaw"],
     "quotes": [],
     "episodes": [
       {
@@ -12414,9 +11516,7 @@
       "$oid": "685ddd9ce6e5c844c6b8ef97"
     },
     "name": "Bound Woman",
-    "actors": [
-      "Seraphina White"
-    ],
+    "actors": ["Seraphina White"],
     "quotes": [],
     "episodes": [
       {
@@ -12432,9 +11532,7 @@
       "$oid": "685ddda0e6e5c844c6b8ef99"
     },
     "name": "Penny 23",
-    "actors": [
-      "Arjun Gupta"
-    ],
+    "actors": ["Arjun Gupta"],
     "quotes": [],
     "episodes": [
       {
@@ -12450,9 +11548,7 @@
       "$oid": "685ddda0e6e5c844c6b8ef9a"
     },
     "name": "Aengus",
-    "actors": [
-      "Gethin Anthony"
-    ],
+    "actors": ["Gethin Anthony"],
     "quotes": [],
     "episodes": [
       {
@@ -12468,9 +11564,7 @@
       "$oid": "685ddda0e6e5c844c6b8ef9b"
     },
     "name": "The Foremost",
-    "actors": [
-      "Devan Chandler Long"
-    ],
+    "actors": ["Devan Chandler Long"],
     "quotes": [],
     "episodes": [
       {
@@ -12486,9 +11580,7 @@
       "$oid": "685ddda0e6e5c844c6b8ef9c"
     },
     "name": "Woman from the Bar",
-    "actors": [
-      "Magda Apanowicz"
-    ],
+    "actors": ["Magda Apanowicz"],
     "quotes": [],
     "episodes": [
       {
@@ -12510,9 +11602,7 @@
       "$oid": "685ddda0e6e5c844c6b8ef9d"
     },
     "name": "Berry",
-    "actors": [
-      "Elyse Maloway"
-    ],
+    "actors": ["Elyse Maloway"],
     "quotes": [],
     "episodes": [
       {
@@ -12528,9 +11618,7 @@
       "$oid": "685ddda0e6e5c844c6b8ef9e"
     },
     "name": "The Foremost Woman",
-    "actors": [
-      "Clare Carey"
-    ],
+    "actors": ["Clare Carey"],
     "quotes": [],
     "episodes": [
       {
@@ -12546,9 +11634,7 @@
       "$oid": "685ddda0e6e5c844c6b8ef9f"
     },
     "name": "Zal",
-    "actors": [
-      "Raylene Harewood"
-    ],
+    "actors": ["Raylene Harewood"],
     "quotes": [],
     "episodes": [
       {
@@ -12564,9 +11650,7 @@
       "$oid": "685ddda0e6e5c844c6b8efa0"
     },
     "name": "Clerk",
-    "actors": [
-      "Bianca Caroca"
-    ],
+    "actors": ["Bianca Caroca"],
     "quotes": [],
     "episodes": [
       {
@@ -12594,9 +11678,7 @@
       "$oid": "685ddda0e6e5c844c6b8efa1"
     },
     "name": "Spectre",
-    "actors": [
-      "Stephanie Lavigne"
-    ],
+    "actors": ["Stephanie Lavigne"],
     "quotes": [],
     "episodes": [
       {
@@ -12612,9 +11694,7 @@
       "$oid": "685ddda0e6e5c844c6b8efa2"
     },
     "name": "Young Woman",
-    "actors": [
-      "Khamisa Wilsher"
-    ],
+    "actors": ["Khamisa Wilsher"],
     "quotes": [],
     "episodes": [
       {
@@ -12630,9 +11710,7 @@
       "$oid": "685ddda0e6e5c844c6b8efa3"
     },
     "name": "Male Shaman",
-    "actors": [
-      "Ray G. Thunderchild"
-    ],
+    "actors": ["Ray G. Thunderchild"],
     "quotes": [],
     "episodes": [
       {
@@ -12648,9 +11726,7 @@
       "$oid": "685ddda4e6e5c844c6b8efa5"
     },
     "name": "Past Quentin",
-    "actors": [
-      "Jason Ralph"
-    ],
+    "actors": ["Jason Ralph"],
     "quotes": [],
     "episodes": [
       {
@@ -12666,9 +11742,7 @@
       "$oid": "685ddda4e6e5c844c6b8efa6"
     },
     "name": "The Binder",
-    "actors": [
-      "Matt Frewer"
-    ],
+    "actors": ["Matt Frewer"],
     "quotes": [],
     "episodes": [
       {
@@ -12696,9 +11770,7 @@
       "$oid": "685ddda4e6e5c844c6b8efa7"
     },
     "name": "Ismenie the Naiad",
-    "actors": [
-      "Meg Steedle"
-    ],
+    "actors": ["Meg Steedle"],
     "quotes": [],
     "episodes": [
       {
@@ -12714,9 +11786,7 @@
       "$oid": "685ddda4e6e5c844c6b8efa8"
     },
     "name": "AD",
-    "actors": [
-      "Elle Young"
-    ],
+    "actors": ["Elle Young"],
     "quotes": [],
     "episodes": [
       {
@@ -12732,9 +11802,7 @@
       "$oid": "685ddda4e6e5c844c6b8efa9"
     },
     "name": "2nd AC",
-    "actors": [
-      "Seigfred Perolino"
-    ],
+    "actors": ["Seigfred Perolino"],
     "quotes": [],
     "episodes": [
       {
@@ -12750,9 +11818,7 @@
       "$oid": "685ddda8e6e5c844c6b8efab"
     },
     "name": "Nameless' Sister",
-    "actors": [
-      "Stella Maeve"
-    ],
+    "actors": ["Stella Maeve"],
     "quotes": [],
     "episodes": [
       {
@@ -12774,9 +11840,7 @@
       "$oid": "685ddda8e6e5c844c6b8efac"
     },
     "name": "Harcourt Caan",
-    "actors": [
-      "Sam Daly"
-    ],
+    "actors": ["Sam Daly"],
     "quotes": [],
     "episodes": [
       {
@@ -12798,9 +11862,7 @@
       "$oid": "685ddda8e6e5c844c6b8efad"
     },
     "name": "Supervisor",
-    "actors": [
-      "Craig Haas"
-    ],
+    "actors": ["Craig Haas"],
     "quotes": [],
     "episodes": [
       {
@@ -12816,10 +11878,7 @@
       "$oid": "685ddda8e6e5c844c6b8efae"
     },
     "name": "Guard",
-    "actors": [
-      "Michael Kiapway",
-      "Jerry Yang"
-    ],
+    "actors": ["Michael Kiapway", "Jerry Yang"],
     "quotes": [],
     "episodes": [
       {
@@ -12841,9 +11900,7 @@
       "$oid": "685dddade6e5c844c6b8efb0"
     },
     "name": "Golf",
-    "actors": [
-      "Adam Bartley"
-    ],
+    "actors": ["Adam Bartley"],
     "quotes": [],
     "episodes": [
       {
@@ -12859,9 +11916,7 @@
       "$oid": "685dddade6e5c844c6b8efb1"
     },
     "name": "Fillorian Farmer",
-    "actors": [
-      "Lee Shan Gibson"
-    ],
+    "actors": ["Lee Shan Gibson"],
     "quotes": [],
     "episodes": [
       {
@@ -12877,9 +11932,7 @@
       "$oid": "685dddb2e6e5c844c6b8efb3"
     },
     "name": "Sir Effingham",
-    "actors": [
-      "Sean Maguire"
-    ],
+    "actors": ["Sean Maguire"],
     "quotes": [],
     "episodes": [
       {
@@ -12907,9 +11960,7 @@
       "$oid": "685dddb2e6e5c844c6b8efb4"
     },
     "name": "Merritt",
-    "actors": [
-      "Riann Steele"
-    ],
+    "actors": ["Riann Steele"],
     "quotes": [],
     "episodes": [
       {
@@ -12931,9 +11982,7 @@
       "$oid": "685dddb2e6e5c844c6b8efb5"
     },
     "name": "Clock Dwarf",
-    "actors": [
-      "Jack Kehler"
-    ],
+    "actors": ["Jack Kehler"],
     "quotes": [],
     "episodes": [
       {
@@ -12949,9 +11998,7 @@
       "$oid": "685dddb2e6e5c844c6b8efb6"
     },
     "name": "Play Actor - Dark King",
-    "actors": [
-      "Simon King"
-    ],
+    "actors": ["Simon King"],
     "quotes": [],
     "episodes": [
       {
@@ -12967,9 +12014,7 @@
       "$oid": "685dddb2e6e5c844c6b8efb7"
     },
     "name": "Play Actor - Alice",
-    "actors": [
-      "Eliza Norbury"
-    ],
+    "actors": ["Eliza Norbury"],
     "quotes": [],
     "episodes": [
       {
@@ -12985,9 +12030,7 @@
       "$oid": "685dddb2e6e5c844c6b8efb8"
     },
     "name": "Play Actor - Margo",
-    "actors": [
-      "Breann Grainger"
-    ],
+    "actors": ["Breann Grainger"],
     "quotes": [],
     "episodes": [
       {
@@ -13003,10 +12046,7 @@
       "$oid": "685dddb2e6e5c844c6b8efb9"
     },
     "name": "Taker",
-    "actors": [
-      "Breann Grainger",
-      "Dorian Kingi"
-    ],
+    "actors": ["Breann Grainger", "Dorian Kingi"],
     "quotes": [],
     "episodes": [
       {
@@ -13028,9 +12068,7 @@
       "$oid": "685dddb2e6e5c844c6b8efba"
     },
     "name": "Play Actor - Quentin",
-    "actors": [
-      "Fraser Simpson"
-    ],
+    "actors": ["Fraser Simpson"],
     "quotes": [],
     "episodes": [
       {
@@ -13046,9 +12084,7 @@
       "$oid": "685dddb2e6e5c844c6b8efbb"
     },
     "name": "Josh",
-    "actors": [
-      "Fraser Simpson"
-    ],
+    "actors": ["Fraser Simpson"],
     "quotes": [],
     "episodes": [
       {
@@ -13064,9 +12100,7 @@
       "$oid": "685dddb2e6e5c844c6b8efbc"
     },
     "name": "Play Actor - Eliot",
-    "actors": [
-      "Jerry Yang"
-    ],
+    "actors": ["Jerry Yang"],
     "quotes": [],
     "episodes": [
       {
@@ -13082,9 +12116,7 @@
       "$oid": "685dddb2e6e5c844c6b8efbd"
     },
     "name": "Taker #2",
-    "actors": [
-      "Jerry Yang"
-    ],
+    "actors": ["Jerry Yang"],
     "quotes": [],
     "episodes": [
       {
@@ -13100,9 +12132,7 @@
       "$oid": "685dddb2e6e5c844c6b8efbe"
     },
     "name": "Pree",
-    "actors": [
-      "April Cameron"
-    ],
+    "actors": ["April Cameron"],
     "quotes": [],
     "episodes": [
       {
@@ -13118,9 +12148,7 @@
       "$oid": "685dddb2e6e5c844c6b8efbf"
     },
     "name": "Play Actor - Ember",
-    "actors": [
-      "Rowan Schlosberg"
-    ],
+    "actors": ["Rowan Schlosberg"],
     "quotes": [],
     "episodes": [
       {
@@ -13136,9 +12164,7 @@
       "$oid": "685dddb2e6e5c844c6b8efc0"
     },
     "name": "Dmitri",
-    "actors": [
-      "Charlie Kerr"
-    ],
+    "actors": ["Charlie Kerr"],
     "quotes": [],
     "episodes": [
       {
@@ -13154,9 +12180,7 @@
       "$oid": "685dddb2e6e5c844c6b8efc1"
     },
     "name": "Halal Vendor",
-    "actors": [
-      "Shayan Bayat"
-    ],
+    "actors": ["Shayan Bayat"],
     "quotes": [],
     "episodes": [
       {
@@ -13178,9 +12202,7 @@
       "$oid": "685dddb2e6e5c844c6b8efc2"
     },
     "name": "Lee",
-    "actors": [
-      "Sebastian Kroon"
-    ],
+    "actors": ["Sebastian Kroon"],
     "quotes": [],
     "episodes": [
       {
@@ -13196,9 +12218,7 @@
       "$oid": "685dddb2e6e5c844c6b8efc3"
     },
     "name": "Stunt Royal Guad",
-    "actors": [
-      "Fraser Aitcheson"
-    ],
+    "actors": ["Fraser Aitcheson"],
     "quotes": [],
     "episodes": [
       {
@@ -13214,9 +12234,7 @@
       "$oid": "685dddb2e6e5c844c6b8efc4"
     },
     "name": "Psychic",
-    "actors": [
-      "Nicholas Dohy"
-    ],
+    "actors": ["Nicholas Dohy"],
     "quotes": [],
     "episodes": [
       {
@@ -13232,9 +12250,7 @@
       "$oid": "685dddb2e6e5c844c6b8efc5"
     },
     "name": "Student Traverler #2",
-    "actors": [
-      "Martin Lo Rimorin"
-    ],
+    "actors": ["Martin Lo Rimorin"],
     "quotes": [],
     "episodes": [
       {
@@ -13250,9 +12266,7 @@
       "$oid": "685dddb6e6e5c844c6b8efc7"
     },
     "name": "Young Quentin (Golem)",
-    "actors": [
-      "Luca Padovan"
-    ],
+    "actors": ["Luca Padovan"],
     "quotes": [],
     "episodes": [
       {
@@ -13268,9 +12282,7 @@
       "$oid": "685dddb6e6e5c844c6b8efc8"
     },
     "name": "Shinjiro",
-    "actors": [
-      "Jake Choi"
-    ],
+    "actors": ["Jake Choi"],
     "quotes": [],
     "episodes": [
       {
@@ -13286,9 +12298,7 @@
       "$oid": "685dddb6e6e5c844c6b8efc9"
     },
     "name": "Hangman",
-    "actors": [
-      "Marcus Hondro"
-    ],
+    "actors": ["Marcus Hondro"],
     "quotes": [],
     "episodes": [
       {
@@ -13304,9 +12314,7 @@
       "$oid": "685dddbae6e5c844c6b8efcb"
     },
     "name": "The Dark King",
-    "actors": [
-      "Sean Maguire"
-    ],
+    "actors": ["Sean Maguire"],
     "quotes": [],
     "episodes": [
       {
@@ -13358,9 +12366,7 @@
       "$oid": "685dddbae6e5c844c6b8efcc"
     },
     "name": "Daniella Marcus",
-    "actors": [
-      "Sola Bamis"
-    ],
+    "actors": ["Sola Bamis"],
     "quotes": [],
     "episodes": [
       {
@@ -13376,9 +12382,7 @@
       "$oid": "685dddbae6e5c844c6b8efcd"
     },
     "name": "Zoe Marcus",
-    "actors": [
-      "Yetide Badaki"
-    ],
+    "actors": ["Yetide Badaki"],
     "quotes": [],
     "episodes": [
       {
@@ -13394,9 +12398,7 @@
       "$oid": "685dddbae6e5c844c6b8efce"
     },
     "name": "Bick Pickwick",
-    "actors": [
-      "Luke Camilleri"
-    ],
+    "actors": ["Luke Camilleri"],
     "quotes": [],
     "episodes": [
       {
@@ -13418,9 +12420,7 @@
       "$oid": "685dddbae6e5c844c6b8efcf"
     },
     "name": "Yan the Adventurer",
-    "actors": [
-      "Mark Gibbon"
-    ],
+    "actors": ["Mark Gibbon"],
     "quotes": [],
     "episodes": [
       {
@@ -13436,9 +12436,7 @@
       "$oid": "685dddc0e6e5c844c6b8efd1"
     },
     "name": "Visigoth Overlord Terrence",
-    "actors": [
-      "David Anders"
-    ],
+    "actors": ["David Anders"],
     "quotes": [],
     "episodes": [
       {
@@ -13454,9 +12452,7 @@
       "$oid": "685dddc0e6e5c844c6b8efd2"
     },
     "name": "Captain of the Centurions",
-    "actors": [
-      "Eric Breker"
-    ],
+    "actors": ["Eric Breker"],
     "quotes": [],
     "episodes": [
       {
@@ -13472,9 +12468,7 @@
       "$oid": "685dddc0e6e5c844c6b8efd3"
     },
     "name": "Emperor of the Etheric Realm",
-    "actors": [
-      "Jonathan Goldstein"
-    ],
+    "actors": ["Jonathan Goldstein"],
     "quotes": [],
     "episodes": [
       {
@@ -13490,9 +12484,7 @@
       "$oid": "685dddc0e6e5c844c6b8efd4"
     },
     "name": "Clarion",
-    "actors": [
-      "Juliette Goglia"
-    ],
+    "actors": ["Juliette Goglia"],
     "quotes": [],
     "episodes": [
       {
@@ -13508,9 +12500,7 @@
       "$oid": "685dddc0e6e5c844c6b8efd5"
     },
     "name": "New Centurion 1",
-    "actors": [
-      "Emmanuel Addo"
-    ],
+    "actors": ["Emmanuel Addo"],
     "quotes": [],
     "episodes": [
       {
@@ -13526,9 +12516,7 @@
       "$oid": "685dddc0e6e5c844c6b8efd6"
     },
     "name": "Visigoth Witch",
-    "actors": [
-      "Nova Stevens"
-    ],
+    "actors": ["Nova Stevens"],
     "quotes": [],
     "episodes": [
       {
@@ -13544,9 +12532,7 @@
       "$oid": "685dddc0e6e5c844c6b8efd7"
     },
     "name": "Young Caucasian Girl",
-    "actors": [
-      "Maddy Hillis"
-    ],
+    "actors": ["Maddy Hillis"],
     "quotes": [],
     "episodes": [
       {
@@ -13562,9 +12548,7 @@
       "$oid": "685dddc0e6e5c844c6b8efd8"
     },
     "name": "Nervous Tailor #1",
-    "actors": [
-      "Yumi Ogawa"
-    ],
+    "actors": ["Yumi Ogawa"],
     "quotes": [],
     "episodes": [
       {
@@ -13580,9 +12564,7 @@
       "$oid": "685dddc0e6e5c844c6b8efd9"
     },
     "name": "Brown Bunny",
-    "actors": [
-      "Victoria Katongo"
-    ],
+    "actors": ["Victoria Katongo"],
     "quotes": [],
     "episodes": [
       {
@@ -13598,9 +12580,7 @@
       "$oid": "685dddc0e6e5c844c6b8efda"
     },
     "name": "Pixie",
-    "actors": [
-      "Corina Bizim"
-    ],
+    "actors": ["Corina Bizim"],
     "quotes": [],
     "episodes": [
       {
@@ -13616,9 +12596,7 @@
       "$oid": "685dddc0e6e5c844c6b8efdb"
     },
     "name": "Sivart",
-    "actors": [
-      "Ian Collins"
-    ],
+    "actors": ["Ian Collins"],
     "quotes": [],
     "episodes": [
       {
@@ -13634,10 +12612,7 @@
       "$oid": "685dddc0e6e5c844c6b8efdc"
     },
     "name": "Fairy",
-    "actors": [
-      "Nicco Del Rio",
-      "Natalie Grace"
-    ],
+    "actors": ["Nicco Del Rio", "Natalie Grace"],
     "quotes": [],
     "episodes": [
       {
@@ -13659,9 +12634,7 @@
       "$oid": "685dddc0e6e5c844c6b8efdd"
     },
     "name": "Mermaid",
-    "actors": [
-      "Lily Scott"
-    ],
+    "actors": ["Lily Scott"],
     "quotes": [],
     "episodes": [
       {
@@ -13677,9 +12650,7 @@
       "$oid": "685dddc3e6e5c844c6b8efdf"
     },
     "name": "Acting Dean Lipson",
-    "actors": [
-      "Keegan Connor Tracy"
-    ],
+    "actors": ["Keegan Connor Tracy"],
     "quotes": [],
     "episodes": [
       {
@@ -13695,9 +12666,7 @@
       "$oid": "685dddc3e6e5c844c6b8efe0"
     },
     "name": "Oren",
-    "actors": [
-      "Jeffrey Vincent Parise"
-    ],
+    "actors": ["Jeffrey Vincent Parise"],
     "quotes": [],
     "episodes": [
       {
@@ -13713,9 +12682,7 @@
       "$oid": "685dddc3e6e5c844c6b8efe1"
     },
     "name": "Oren's Head of Security",
-    "actors": [
-      "Lochlyn Munro"
-    ],
+    "actors": ["Lochlyn Munro"],
     "quotes": [],
     "episodes": [
       {
@@ -13731,9 +12698,7 @@
       "$oid": "685dddc3e6e5c844c6b8efe2"
     },
     "name": "Natasha",
-    "actors": [
-      "Kayla Wallace"
-    ],
+    "actors": ["Kayla Wallace"],
     "quotes": [],
     "episodes": [
       {
@@ -13755,9 +12720,7 @@
       "$oid": "685dddc3e6e5c844c6b8efe3"
     },
     "name": "Reeva",
-    "actors": [
-      "Erica Piccininni"
-    ],
+    "actors": ["Erica Piccininni"],
     "quotes": [],
     "episodes": [
       {
@@ -13773,9 +12736,7 @@
       "$oid": "685dddc3e6e5c844c6b8efe4"
     },
     "name": "Not Frederick",
-    "actors": [
-      "Jeffrey C.R. Wallace"
-    ],
+    "actors": ["Jeffrey C.R. Wallace"],
     "quotes": [],
     "episodes": [
       {
@@ -13797,9 +12758,7 @@
       "$oid": "685dddc8e6e5c844c6b8efe6"
     },
     "name": "Whales",
-    "actors": [
-      "Ben Morrison"
-    ],
+    "actors": ["Ben Morrison"],
     "quotes": [],
     "episodes": [
       {
@@ -13815,9 +12774,7 @@
       "$oid": "685dddc8e6e5c844c6b8efe7"
     },
     "name": "News Anchor",
-    "actors": [
-      "Shekhar Paleja"
-    ],
+    "actors": ["Shekhar Paleja"],
     "quotes": [],
     "episodes": [
       {
@@ -13833,9 +12790,7 @@
       "$oid": "685dddc8e6e5c844c6b8efe8"
     },
     "name": "Dude",
-    "actors": [
-      "Rob McEachern"
-    ],
+    "actors": ["Rob McEachern"],
     "quotes": [],
     "episodes": [
       {
@@ -13851,9 +12806,7 @@
       "$oid": "685dddc8e6e5c844c6b8efe9"
     },
     "name": "Dazed Waitress",
-    "actors": [
-      "India Shaw-Smith"
-    ],
+    "actors": ["India Shaw-Smith"],
     "quotes": [],
     "episodes": [
       {
@@ -13869,9 +12822,7 @@
       "$oid": "685dddc8e6e5c844c6b8efea"
     },
     "name": "On-the-Street Reporter",
-    "actors": [
-      "Emma Johnson"
-    ],
+    "actors": ["Emma Johnson"],
     "quotes": [],
     "episodes": [
       {
@@ -13887,9 +12838,7 @@
       "$oid": "685dddcbe6e5c844c6b8efec"
     },
     "name": "Fogg 17",
-    "actors": [
-      "Rick Worthy"
-    ],
+    "actors": ["Rick Worthy"],
     "quotes": [],
     "episodes": [
       {
@@ -13905,9 +12854,7 @@
       "$oid": "685dddcbe6e5c844c6b8efed"
     },
     "name": "Hamish Bax",
-    "actors": [
-      "Aaron Jennings"
-    ],
+    "actors": ["Aaron Jennings"],
     "quotes": [],
     "episodes": [
       {
@@ -13929,9 +12876,7 @@
       "$oid": "685dddcbe6e5c844c6b8efee"
     },
     "name": "Rowan",
-    "actors": [
-      "Em Haine"
-    ],
+    "actors": ["Em Haine"],
     "quotes": [],
     "episodes": [
       {
@@ -13947,9 +12892,7 @@
       "$oid": "685dddcbe6e5c844c6b8efef"
     },
     "name": "Professor Corbin",
-    "actors": [
-      "Laara Sadiq"
-    ],
+    "actors": ["Laara Sadiq"],
     "quotes": [],
     "episodes": [
       {
@@ -13965,9 +12908,7 @@
       "$oid": "685dddcbe6e5c844c6b8eff0"
     },
     "name": "Astronomy Student",
-    "actors": [
-      "Michael Mitton"
-    ],
+    "actors": ["Michael Mitton"],
     "quotes": [],
     "episodes": [
       {
@@ -13983,9 +12924,7 @@
       "$oid": "685dddcbe6e5c844c6b8eff1"
     },
     "name": "Wharton",
-    "actors": [
-      "Kenneth Seto Tynan"
-    ],
+    "actors": ["Kenneth Seto Tynan"],
     "quotes": [],
     "episodes": [
       {
@@ -14001,9 +12940,7 @@
       "$oid": "685dddcbe6e5c844c6b8eff2"
     },
     "name": "Centurion",
-    "actors": [
-      "Alex Pepin"
-    ],
+    "actors": ["Alex Pepin"],
     "quotes": [],
     "episodes": [
       {
@@ -14022,12 +12959,26 @@
   },
   {
     "_id": {
+      "$oid": "685ddcd8e6e5c844c6b8ee0a"
+    },
+    "name": "Physical Kid #2",
+    "actors": ["Riley Jade Berglund"],
+    "quotes": [],
+    "episodes": [
+      {
+        "title": "Acting Dean",
+        "id": {
+          "$oid": "685dddcae6e5c844c6b8efeb"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
       "$oid": "685dddcfe6e5c844c6b8eff4"
     },
     "name": "Raylan Cortez",
-    "actors": [
-      "Michael Graziadei"
-    ],
+    "actors": ["Michael Graziadei"],
     "quotes": [],
     "episodes": [
       {
@@ -14043,9 +12994,7 @@
       "$oid": "685dddcfe6e5c844c6b8eff5"
     },
     "name": "Fillory Kid #1",
-    "actors": [
-      "Summer Fontana"
-    ],
+    "actors": ["Summer Fontana"],
     "quotes": [],
     "episodes": [
       {
@@ -14067,9 +13016,7 @@
       "$oid": "685dddcfe6e5c844c6b8eff6"
     },
     "name": "Fillory Kid #2",
-    "actors": [
-      "Gabriel Jacob-Cross"
-    ],
+    "actors": ["Gabriel Jacob-Cross"],
     "quotes": [],
     "episodes": [
       {
@@ -14085,9 +13032,7 @@
       "$oid": "685dddcfe6e5c844c6b8eff7"
     },
     "name": "Fillory Kid #3",
-    "actors": [
-      "Emma Oliver"
-    ],
+    "actors": ["Emma Oliver"],
     "quotes": [],
     "episodes": [
       {
@@ -14103,9 +13048,7 @@
       "$oid": "685dddcfe6e5c844c6b8eff8"
     },
     "name": "Fillory Kid #4",
-    "actors": [
-      "Kayleigh Sullivan"
-    ],
+    "actors": ["Kayleigh Sullivan"],
     "quotes": [],
     "episodes": [
       {
@@ -14121,9 +13064,7 @@
       "$oid": "685dddcfe6e5c844c6b8eff9"
     },
     "name": "Student #1",
-    "actors": [
-      "Kimi Alexander"
-    ],
+    "actors": ["Kimi Alexander"],
     "quotes": [],
     "episodes": [
       {
@@ -14139,9 +13080,7 @@
       "$oid": "685dddcfe6e5c844c6b8effa"
     },
     "name": "Student #2",
-    "actors": [
-      "Alexander Lowe"
-    ],
+    "actors": ["Alexander Lowe"],
     "quotes": [],
     "episodes": [
       {
@@ -14157,9 +13096,7 @@
       "$oid": "685dddcfe6e5c844c6b8effb"
     },
     "name": "Peasant Woman",
-    "actors": [
-      "Amanda Burke"
-    ],
+    "actors": ["Amanda Burke"],
     "quotes": [],
     "episodes": [
       {
@@ -14175,9 +13112,7 @@
       "$oid": "685dddd2e6e5c844c6b8effd"
     },
     "name": "Plum Chatwin",
-    "actors": [
-      "Riann Steele"
-    ],
+    "actors": ["Riann Steele"],
     "quotes": [],
     "episodes": [
       {
@@ -14205,9 +13140,7 @@
       "$oid": "685dddd2e6e5c844c6b8effe"
     },
     "name": "Naturalist Student",
-    "actors": [
-      "Tanner Bornowsky"
-    ],
+    "actors": ["Tanner Bornowsky"],
     "quotes": [],
     "episodes": [
       {
@@ -14223,9 +13156,7 @@
       "$oid": "685dddd2e6e5c844c6b8efff"
     },
     "name": "Lilian",
-    "actors": [
-      "Ava Vanderstarren"
-    ],
+    "actors": ["Ava Vanderstarren"],
     "quotes": [],
     "episodes": [
       {
@@ -14241,9 +13172,7 @@
       "$oid": "685dddd2e6e5c844c6b8f000"
     },
     "name": "Professor Frank",
-    "actors": [
-      "Andy Thompson"
-    ],
+    "actors": ["Andy Thompson"],
     "quotes": [],
     "episodes": [
       {
@@ -14259,9 +13188,7 @@
       "$oid": "685dddd6e6e5c844c6b8f002"
     },
     "name": "Original Penny (Penny 40)",
-    "actors": [
-      "Arjun Gupta"
-    ],
+    "actors": ["Arjun Gupta"],
     "quotes": [],
     "episodes": [
       {
@@ -14277,9 +13204,7 @@
       "$oid": "685dddd6e6e5c844c6b8f003"
     },
     "name": "Eliphas",
-    "actors": [
-      "Robert Baker"
-    ],
+    "actors": ["Robert Baker"],
     "quotes": [],
     "episodes": [
       {
@@ -14295,9 +13220,7 @@
       "$oid": "685dddd6e6e5c844c6b8f004"
     },
     "name": "Banya",
-    "actors": [
-      "Hector Johnson"
-    ],
+    "actors": ["Hector Johnson"],
     "quotes": [],
     "episodes": [
       {
@@ -14313,9 +13236,7 @@
       "$oid": "685dddd6e6e5c844c6b8f005"
     },
     "name": "Clarence",
-    "actors": [
-      "Terence Kelly"
-    ],
+    "actors": ["Terence Kelly"],
     "quotes": [],
     "episodes": [
       {
@@ -14331,9 +13252,7 @@
       "$oid": "685dddd6e6e5c844c6b8f006"
     },
     "name": "Guard Philipo",
-    "actors": [
-      "Prince Justin Atkinson"
-    ],
+    "actors": ["Prince Justin Atkinson"],
     "quotes": [],
     "episodes": [
       {
@@ -14349,9 +13268,7 @@
       "$oid": "685ddddae6e5c844c6b8f008"
     },
     "name": "Anna",
-    "actors": [
-      "Nishi Munshi"
-    ],
+    "actors": ["Nishi Munshi"],
     "quotes": [],
     "episodes": [
       {
@@ -14373,9 +13290,7 @@
       "$oid": "685ddddee6e5c844c6b8f00a"
     },
     "name": "Henry Fogg 17",
-    "actors": [
-      "Rick Worthy"
-    ],
+    "actors": ["Rick Worthy"],
     "quotes": [],
     "episodes": [
       {
@@ -14391,9 +13306,7 @@
       "$oid": "685ddddee6e5c844c6b8f00b"
     },
     "name": "Marina 23",
-    "actors": [
-      "Kacey Rohl"
-    ],
+    "actors": ["Kacey Rohl"],
     "quotes": [],
     "episodes": [
       {
@@ -14409,9 +13322,7 @@
       "$oid": "685ddddee6e5c844c6b8f00c"
     },
     "name": "Paloma Ball",
-    "actors": [
-      "Carmela Zumbado"
-    ],
+    "actors": ["Carmela Zumbado"],
     "quotes": [],
     "episodes": [
       {
@@ -14427,27 +13338,7 @@
       "$oid": "685ddddee6e5c844c6b8f00d"
     },
     "name": "Neela Adiyodi",
-    "actors": [
-      "Meera Simhan"
-    ],
-    "quotes": [],
-    "episodes": [
-      {
-        "title": "The Balls",
-        "id": {
-          "$oid": "685ddddce6e5c844c6b8f009"
-        }
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "685ddddee6e5c844c6b8f00e"
-    },
-    "name": "George Ball",
-    "actors": [
-      "Geoffrey Arend"
-    ],
+    "actors": ["Meera Simhan"],
     "quotes": [],
     "episodes": [
       {
@@ -14463,9 +13354,7 @@
       "$oid": "685ddddee6e5c844c6b8f00f"
     },
     "name": "Female Guest #1",
-    "actors": [
-      "Myrasol Martinez"
-    ],
+    "actors": ["Myrasol Martinez"],
     "quotes": [],
     "episodes": [
       {
@@ -14481,9 +13370,7 @@
       "$oid": "685ddddee6e5c844c6b8f010"
     },
     "name": "Female Guest #2",
-    "actors": [
-      "Naomi Levi"
-    ],
+    "actors": ["Naomi Levi"],
     "quotes": [],
     "episodes": [
       {
@@ -14499,9 +13386,7 @@
       "$oid": "685ddddee6e5c844c6b8f011"
     },
     "name": "Thief",
-    "actors": [
-      "Theo Kim"
-    ],
+    "actors": ["Theo Kim"],
     "quotes": [],
     "episodes": [
       {
@@ -14517,10 +13402,7 @@
       "$oid": "685ddddee6e5c844c6b8f012"
     },
     "name": "Concierge",
-    "actors": [
-      "Kemi Mathers",
-      "Jeff Mohs"
-    ],
+    "actors": ["Kemi Mathers", "Jeff Mohs"],
     "quotes": [],
     "episodes": [
       {
@@ -14542,9 +13424,7 @@
       "$oid": "685ddddee6e5c844c6b8f013"
     },
     "name": "Bellhop #1",
-    "actors": [
-      "Patrick Roccas"
-    ],
+    "actors": ["Patrick Roccas"],
     "quotes": [],
     "episodes": [
       {
@@ -14560,9 +13440,7 @@
       "$oid": "685ddddee6e5c844c6b8f014"
     },
     "name": "Bellhop #2",
-    "actors": [
-      "Kheon Clarke"
-    ],
+    "actors": ["Kheon Clarke"],
     "quotes": [],
     "episodes": [
       {
@@ -14578,9 +13456,7 @@
       "$oid": "685ddddee6e5c844c6b8f015"
     },
     "name": "Bellhop #3",
-    "actors": [
-      "Dustin Lloyd"
-    ],
+    "actors": ["Dustin Lloyd"],
     "quotes": [],
     "episodes": [
       {
@@ -14596,9 +13472,7 @@
       "$oid": "685ddde2e6e5c844c6b8f017"
     },
     "name": "Moonbrained Hedge Witch",
-    "actors": [
-      "Lorraine Colond"
-    ],
+    "actors": ["Lorraine Colond"],
     "quotes": [],
     "episodes": [
       {
@@ -14614,9 +13488,7 @@
       "$oid": "685ddde2e6e5c844c6b8f018"
     },
     "name": "Lance",
-    "actors": [
-      "Mitch Ainley"
-    ],
+    "actors": ["Mitch Ainley"],
     "quotes": [],
     "episodes": [
       {

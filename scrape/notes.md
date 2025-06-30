@@ -1,0 +1,41 @@
+- Are Dint and Dint the boy the same guy? How about Knifemaker's son?
+- Are Quentin 23, Alice 23, Marina 23, Penny 23, and Josh 23 correctly credited? Make sure they aren't credited where their timeline 40 versions should be, and vice versa. And that if they're both credited, that they truly both appear. And also some of them have many names.
+- Also Fogg 17 (who might have different names!) and Todd 17.
+- Make sure Zelda is listed in every episode mentioned in VS Code's list.
+- Make sure Martin Chatwin/The Beast has been updated to that name and id in episodes.json.
+- Consolidate Rupert/The Dark King
+- Make sure Physical Kid #1/#2 are reflected in episodes.json.
+- Make sure Healer #1/#2 are reflected in episodes.json.
+- Same for Student #1/#2/#3/#4
+- Same for George Ball and George.
+- And Young Professor #1/#2.
+- And Demon Todd vs. Todd.
+- Make sure cosplay Fen gets credit and the Play versions of the characters.
+- And that no one who's Play version of themselves isn't confused for their "real-life" versions.
+- Fix the multiple Guard situation.
+- And Waitresses.
+- And Nurses.
+- And Hipsters.
+- And Narrators.
+- And consolidate Li if you need to.
+- And consolidate the Lipsons.
+- And the Carols.
+- And the Harriets.
+- And the Womans.
+- And the Helens.
+- And the Fairys.
+- And the Concierges.
+- And the Charltons. Though if it's Hyman-as-Charlton, that's indeed 2 actors. If not, put him in there!
+- Consolidate Plum and Merritt, maybe as Merritt/Plum.
+- Make sure Hyman-from-the-past is listed the same.
+- Make sure the fake Napster is credited.
+- Credit both Mirror Alices, or neither.
+- And maybe make the S4 amnesia versions of the cast their own characters, with both actors listed, if they're not already?
+- The Monster is credited as The Nameless, and should be given all 3 actors that play him.
+- Why does Enyalius have two actors? Is one of them the corabund(sp?)? Is one of them Aengus?
+- Remove Past Quentin if he's the one from The 4-1-1.
+- Add the actor for S5's past Quentin.
+- Change "Nameless' Sister" to "The Sister".
+- Split up the Taker actors if they play different Takers. And then there's the Takers in the play.
+- Figure out what's up with Student Traverler #2 and if there are other numbers for Traverler and/or Traveler.
+- Make sure Iris is credited in S3 and S4.
