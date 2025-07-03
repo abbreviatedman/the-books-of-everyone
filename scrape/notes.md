@@ -1,5 +1,6 @@
 - Are Dint and Dint the boy the same guy? How about Knifemaker's Son?
-- Are Quentin 23, Marina 23, and Penny 23, correctly credited? Make sure they aren't credited where their timeline 40 versions should be, and vice versa. And that if they're both credited, that they truly both appear. And also some of them have many names.
+- Is Penny 23 correctly credited? Make sure they aren't credited where their timeline 40 versions should be, and vice versa. And that if they're both credited, that they truly both appear. And also some of them have many names.
+- And Ghost Eliot 23 and Ghost Margo 23.
 - Also Fogg 17 (who might have different names!) and Todd 17.
 - Make sure Martin Chatwin/The Beast has been updated to that name and id in episodes.json.
 - Consolidate Rupert/The Dark King
