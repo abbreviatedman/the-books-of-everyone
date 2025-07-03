@@ -1,7 +1,6 @@
 - Are Dint and Dint the boy the same guy? How about Knifemaker's Son?
-- Are Quentin 23, Alice 23, Marina 23, Penny 23, and Josh 23 correctly credited? Make sure they aren't credited where their timeline 40 versions should be, and vice versa. And that if they're both credited, that they truly both appear. And also some of them have many names.
+- Are Quentin 23, Marina 23, and Penny 23, correctly credited? Make sure they aren't credited where their timeline 40 versions should be, and vice versa. And that if they're both credited, that they truly both appear. And also some of them have many names.
 - Also Fogg 17 (who might have different names!) and Todd 17.
-- Make sure Zelda is listed in every episode mentioned in VS Code's list.
 - Make sure Martin Chatwin/The Beast has been updated to that name and id in episodes.json.
 - Consolidate Rupert/The Dark King
 - Make sure Physical Kid #1/#2 are reflected in episodes.json.
@@ -24,6 +23,11 @@
 - And the Womans.
 - And the Helens.
 - And the Fairys.
+- And the bunnies.
+- And the Hedges.
+- And the Librarians.
+- And the Female Guests.
+- And the Guests?
 - And the Concierges.
 - And the Charltons. Though if it's Hyman-as-Charlton, that's indeed 2 actors. If not, put him in there!
 - Consolidate Plum and Merritt, maybe as Merritt/Plum.
