@@ -1,7 +1,6 @@
 ### Priorities
 
 - Add both Shard Alices instead of Mirror Alice.
-- Figure out which Foggs are which. 17 and 40, I think exclusively.
 - Make sure Martin Chatwin/The Beast has been updated to that name and id in episodes.json.
 - Consolidate Rupert/The Dark King
 - Make sure cosplay Fen gets credit and the Play versions of the characters.

@@ -2574,12 +2574,6 @@
         }
       },
       {
-        "title": "Twenty-Three",
-        "id": {
-          "$oid": "685ddd6de6e5c844c6b8ef21"
-        }
-      },
-      {
         "title": "The Fillorian Candidate",
         "id": {
           "$oid": "685ddd71e6e5c844c6b8ef25"
@@ -2670,33 +2664,9 @@
         }
       },
       {
-        "title": "Acting Dean",
-        "id": {
-          "$oid": "685dddcae6e5c844c6b8efeb"
-        }
-      },
-      {
-        "title": "Garden Variety Homicide",
-        "id": {
-          "$oid": "685dddcde6e5c844c6b8eff3"
-        }
-      },
-      {
         "title": "Cello Squirrel Daffodil",
         "id": {
           "$oid": "685dddd1e6e5c844c6b8effc"
-        }
-      },
-      {
-        "title": "Purgatory",
-        "id": {
-          "$oid": "685dddd4e6e5c844c6b8f001"
-        }
-      },
-      {
-        "title": "Be the Hyman",
-        "id": {
-          "$oid": "685dddd8e6e5c844c6b8f007"
         }
       },
       {
@@ -12901,6 +12871,24 @@
         "id": {
           "$oid": "685dddcae6e5c844c6b8efeb"
         }
+      },
+      {
+        "title": "Garden Variety Homicide",
+        "id": {
+          "$oid": "685dddcde6e5c844c6b8eff3"
+        }
+      },
+      {
+        "title": "Be the Hyman",
+        "id": {
+          "$oid": "685dddd8e6e5c844c6b8f007"
+        }
+      },
+      {
+        "title": "The Balls",
+        "id": {
+          "$oid": "685ddddce6e5c844c6b8f009"
+        }
       }
     ]
   },
@@ -13304,6 +13292,22 @@
   },
   {
     "_id": {
+      "$oid": "685ddddee6e5c844c6b8f00a"
+    },
+    "name": "Memory Fogg",
+    "actors": ["Rick Worthy"],
+    "quotes": [],
+    "episodes": [
+      {
+        "title": "Purgatory",
+        "id": {
+          "$oid": "685dddd4e6e5c844c6b8f001"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
       "$oid": "685dddd6e6e5c844c6b8f006"
     },
     "name": "Guard Philipo",
@@ -13332,22 +13336,6 @@
           "$oid": "685dddd8e6e5c844c6b8f007"
         }
       },
-      {
-        "title": "The Balls",
-        "id": {
-          "$oid": "685ddddce6e5c844c6b8f009"
-        }
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "685ddddee6e5c844c6b8f00a"
-    },
-    "name": "Henry Fogg 17",
-    "actors": ["Rick Worthy"],
-    "quotes": [],
-    "episodes": [
       {
         "title": "The Balls",
         "id": {
