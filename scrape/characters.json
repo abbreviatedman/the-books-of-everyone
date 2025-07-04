@@ -12012,28 +12012,6 @@
   },
   {
     "_id": {
-      "$oid": "685dddb2e6e5c844c6b8efb4"
-    },
-    "name": "Merritt",
-    "actors": ["Riann Steele"],
-    "quotes": [],
-    "episodes": [
-      {
-        "title": "Do Something Crazy",
-        "id": {
-          "$oid": "685dddb0e6e5c844c6b8efb2"
-        }
-      },
-      {
-        "title": "Magicians Anonymous",
-        "id": {
-          "$oid": "685dddbde6e5c844c6b8efd0"
-        }
-      }
-    ]
-  },
-  {
-    "_id": {
       "$oid": "685dddb2e6e5c844c6b8efb5"
     },
     "name": "Clock Dwarf",
@@ -13200,10 +13178,22 @@
     "_id": {
       "$oid": "685dddd2e6e5c844c6b8effd"
     },
-    "name": "Plum Chatwin",
+    "name": "Plum Merritt Chatwin",
     "actors": ["Riann Steele"],
     "quotes": [],
     "episodes": [
+      {
+        "title": "Do Something Crazy",
+        "id": {
+          "$oid": "685dddb0e6e5c844c6b8efb2"
+        }
+      },
+      {
+        "title": "Magicians Anonymous",
+        "id": {
+          "$oid": "685dddbde6e5c844c6b8efd0"
+        }
+      },
       {
         "title": "Cello Squirrel Daffodil",
         "id": {
