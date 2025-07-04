@@ -6480,31 +6480,13 @@
         "id": {
           "$oid": "685ddd8de6e5c844c6b8ef63"
         },
-        "name": "14 Year Old Taylor"
+        "name": "Taylor"
       },
       {
         "id": {
           "$oid": "685ddd8de6e5c844c6b8ef64"
         },
         "name": "Carpenter"
-      },
-      {
-        "id": {
-          "$oid": "685ddd8de6e5c844c6b8ef65"
-        },
-        "name": "12 Year Old Taylor"
-      },
-      {
-        "id": {
-          "$oid": "685ddd8de6e5c844c6b8ef66"
-        },
-        "name": "12 Year Old Eliot"
-      },
-      {
-        "id": {
-          "$oid": "685ddd8de6e5c844c6b8ef67"
-        },
-        "name": "14 Year Old Eliot"
       },
       {
         "id": {

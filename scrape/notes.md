@@ -1,9 +1,5 @@
 ### Priorities
 
-Please make the following changes to `characters.json` and `episodes.json`:
-
-- And the Young Eliots in Happy Place should become mere actors for Eliot.
-- And Eliot's best friend should be one character.
 - Add the descriptions and fix any title inconsistencies based on the Vudu data.
 - Add both Shard Alices instead of Mirror Alice.
 - Make sure Martin Chatwin/The Beast has been updated to that name and id in episodes.json.

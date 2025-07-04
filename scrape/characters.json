@@ -1120,7 +1120,7 @@
       "$oid": "685ddcd8e6e5c844c6b8edff"
     },
     "name": "Eliot Waugh",
-    "actors": ["Hale Appleman"],
+    "actors": ["Hale Appleman", "Elliot Chandler", "Emrik Lopez"],
     "quotes": [],
     "episodes": [
       {
@@ -10786,8 +10786,8 @@
     "_id": {
       "$oid": "685ddd8de6e5c844c6b8ef63"
     },
-    "name": "14 Year Old Taylor",
-    "actors": ["Zac Siewert"],
+    "name": "Taylor",
+    "actors": ["Jaedon Siewert", "Zac Siewert"],
     "quotes": [],
     "episodes": [
       {
@@ -10816,54 +10816,6 @@
         "title": "The Side Effect",
         "id": {
           "$oid": "685ddd92e6e5c844c6b8ef79"
-        }
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "685ddd8de6e5c844c6b8ef65"
-    },
-    "name": "12 Year Old Taylor",
-    "actors": ["Jaedon Siewert"],
-    "quotes": [],
-    "episodes": [
-      {
-        "title": "Escape from the Happy Place",
-        "id": {
-          "$oid": "685ddd8be6e5c844c6b8ef5f"
-        }
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "685ddd8de6e5c844c6b8ef66"
-    },
-    "name": "12 Year Old Eliot",
-    "actors": ["Elliot Chandler"],
-    "quotes": [],
-    "episodes": [
-      {
-        "title": "Escape from the Happy Place",
-        "id": {
-          "$oid": "685ddd8be6e5c844c6b8ef5f"
-        }
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "685ddd8de6e5c844c6b8ef67"
-    },
-    "name": "14 Year Old Eliot",
-    "actors": ["Emrik Lopez"],
-    "quotes": [],
-    "episodes": [
-      {
-        "title": "Escape from the Happy Place",
-        "id": {
-          "$oid": "685ddd8be6e5c844c6b8ef5f"
         }
       }
     ]
