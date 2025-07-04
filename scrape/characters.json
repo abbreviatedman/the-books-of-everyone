@@ -176,6 +176,12 @@
         }
       },
       {
+        "title": "The Losses of Magic",
+        "id": {
+          "$oid": "685ddd4ce6e5c844c6b8eeeb"
+        }
+      },
+      {
         "title": "Be the Penny",
         "id": {
           "$oid": "685ddd50e6e5c844c6b8eef2"
@@ -1483,7 +1489,7 @@
     "_id": {
       "$oid": "685ddcd8e6e5c844c6b8ee00"
     },
-    "name": "William 'Penny' Adiyodi",
+    "name": "Penny Adiyodi",
     "actors": ["Arjun Gupta"],
     "quotes": [],
     "episodes": [
@@ -1704,6 +1710,12 @@
         }
       },
       {
+        "title": "A Timeline and Place",
+        "id": {
+          "$oid": "685ddd8ee6e5c844c6b8ef6b"
+        }
+      },
+      {
         "title": "The Side Effect",
         "id": {
           "$oid": "685ddd92e6e5c844c6b8ef79"
@@ -1713,6 +1725,18 @@
         "title": "All That Hard, Glossy Armor",
         "id": {
           "$oid": "685ddd9ee6e5c844c6b8ef98"
+        }
+      },
+      {
+        "title": "No Better to Be Safe Than Sorry",
+        "id": {
+          "$oid": "685dddabe6e5c844c6b8efaf"
+        }
+      },
+      {
+        "title": "Purgatory",
+        "id": {
+          "$oid": "685dddd4e6e5c844c6b8f001"
         }
       }
     ]
@@ -5464,7 +5488,7 @@
       "$oid": "685ddd0ce6e5c844c6b8ee6c"
     },
     "name": "Knifemaker's Son",
-    "actors": ["Ryan Robbins"],
+    "actors": ["Ryan Robbins", "Arien Boey"],
     "quotes": [],
     "episodes": [
       {
@@ -5787,8 +5811,8 @@
     "_id": {
       "$oid": "685ddd0ce6e5c844c6b8ee70"
     },
-    "name": "Dint",
-    "actors": ["Primo Allon", "Arien Boey"],
+    "name": "Knifemaker",
+    "actors": ["Primo Allon"],
     "quotes": [],
     "episodes": [
       {
@@ -7497,7 +7521,7 @@
     },
     "name": "Alice 23",
     "actors": ["Olivia Taylor Dudley"],
-    "quotes": "",
+    "quotes": [],
     "episodes": [
       {
         "title": "The Girl Who Told Time",
@@ -8334,16 +8358,10 @@
     "_id": {
       "$oid": "685ddd4ee6e5c844c6b8eeec"
     },
-    "name": "Quentin",
+    "name": "Quentin Coldwater",
     "actors": ["Jason Ralph"],
     "quotes": [],
     "episodes": [
-      {
-        "title": "The Losses of Magic",
-        "id": {
-          "$oid": "685ddd4ce6e5c844c6b8eeeb"
-        }
-      }
     ]
   },
   {
@@ -9226,7 +9244,7 @@
     "_id": {
       "$oid": "685ddd6fe6e5c844c6b8ef22"
     },
-    "name": "William 'Penny 23' Adiyodi",
+    "name": "Penny 23",
     "actors": ["Arjun Gupta"],
     "quotes": [],
     "episodes": [
@@ -10798,28 +10816,6 @@
   },
   {
     "_id": {
-      "$oid": "685ddd90e6e5c844c6b8ef6c"
-    },
-    "name": "William 'Original Penny' Adiyodi",
-    "actors": ["Arjun Gupta"],
-    "quotes": [],
-    "episodes": [
-      {
-        "title": "A Timeline and Place",
-        "id": {
-          "$oid": "685ddd8ee6e5c844c6b8ef6b"
-        }
-      },
-      {
-        "title": "No Better to Be Safe Than Sorry",
-        "id": {
-          "$oid": "685dddabe6e5c844c6b8efaf"
-        }
-      }
-    ]
-  },
-  {
-    "_id": {
       "$oid": "685ddd90e6e5c844c6b8ef6d"
     },
     "name": "Lady Pike",
@@ -11550,22 +11546,6 @@
         "title": "The Serpent",
         "id": {
           "$oid": "685ddd9ae6e5c844c6b8ef8e"
-        }
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "685ddda0e6e5c844c6b8ef99"
-    },
-    "name": "Penny 23",
-    "actors": ["Arjun Gupta"],
-    "quotes": [],
-    "episodes": [
-      {
-        "title": "All That Hard, Glossy Armor",
-        "id": {
-          "$oid": "685ddd9ee6e5c844c6b8ef98"
         }
       }
     ]
@@ -13206,22 +13186,6 @@
         "title": "Cello Squirrel Daffodil",
         "id": {
           "$oid": "685dddd1e6e5c844c6b8effc"
-        }
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "685dddd6e6e5c844c6b8f002"
-    },
-    "name": "Original Penny (Penny 40)",
-    "actors": ["Arjun Gupta"],
-    "quotes": [],
-    "episodes": [
-      {
-        "title": "Purgatory",
-        "id": {
-          "$oid": "685dddd4e6e5c844c6b8f001"
         }
       }
     ]
