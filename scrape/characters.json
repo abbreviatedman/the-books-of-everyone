@@ -4194,12 +4194,6 @@
         }
       },
       {
-        "title": "Escape from the Happy Place",
-        "id": {
-          "$oid": "685ddd8be6e5c844c6b8ef5f"
-        }
-      },
-      {
         "title": "The Secret Sea",
         "id": {
           "$oid": "685ddda7e6e5c844c6b8efaa"
@@ -10616,6 +10610,38 @@
   },
   {
     "_id": {
+      "$oid": "685e96cce6e5c8655527de7a"
+    },
+    "name": "Memory Todd",
+    "actors": ["Adam DiMarco"],
+    "quotes": [],
+    "episodes": [
+      {
+        "title": "Escape from the Happy Place",
+        "id": {
+          "$oid": "685ddd8be6e5c844c6b8ef5f"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "685e96cce6e5c8655527de79"
+    },
+    "name": "Memory Margo",
+    "actors": ["Summer Bishil"],
+    "quotes": [],
+    "episodes": [
+      {
+        "title": "Escape from the Happy Place",
+        "id": {
+          "$oid": "685ddd8be6e5c844c6b8ef5f"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
       "$oid": "685ddd8de6e5c844c6b8ef60"
     },
     "name": "Charlton",
@@ -10657,12 +10683,6 @@
         "id": {
           "$oid": "685ddde0e6e5c844c6b8f016"
         }
-      },
-      {
-        "title": "Fillory and Further",
-        "id": {
-          "$oid": "685ddde0e6e5c844c6b8f016"
-        }
       }
     ]
   },
@@ -10684,10 +10704,74 @@
   },
   {
     "_id": {
+      "$oid": "685e96cce6e5c8655527de78"
+    },
+    "name": "Memory Fen",
+    "actors": ["Brittany Curran"],
+    "quotes": [],
+    "episodes": [
+      {
+        "title": "Escape from the Happy Place",
+        "id": {
+          "$oid": "685ddd8be6e5c844c6b8ef5f"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "685e96cce6e5c8655527de77"
+    },
+    "name": "Memory Welters Captain Margo",
+    "actors": ["Summer Bishil"],
+    "quotes": [],
+    "episodes": [
+      {
+        "title": "Escape from the Happy Place",
+        "id": {
+          "$oid": "685ddd8be6e5c844c6b8ef5f"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "685e96cce6e5c8655527de76"
+    },
+    "name": "Memory Pugnacious Quentin",
+    "actors": ["Jason Ralph"],
+    "quotes": [],
+    "episodes": [
+      {
+        "title": "Escape from the Happy Place",
+        "id": {
+          "$oid": "685ddd8be6e5c844c6b8ef5f"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
       "$oid": "685ddd8de6e5c844c6b8ef62"
     },
     "name": "Dog Owner",
     "actors": ["Carmen Dollard"],
+    "quotes": [],
+    "episodes": [
+      {
+        "title": "Escape from the Happy Place",
+        "id": {
+          "$oid": "685ddd8be6e5c844c6b8ef5f"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "685e96cce6e5c8655527de75"
+    },
+    "name": "Memory Quentin",
+    "actors": ["Jason Ralph"],
     "quotes": [],
     "episodes": [
       {
