@@ -1,6 +1,5 @@
 ### Priorities
 
-- Fix the truncated descriptions (possibly needs another scraping)
 - Add both Shard Alices instead of Mirror Alice.
 - Also Fogg 17 (who might have different names!).
 - Make sure Martin Chatwin/The Beast has been updated to that name and id in episodes.json.
