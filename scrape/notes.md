@@ -1,5 +1,7 @@
 ### Priorities
 
+- Do all the Memory characters in Escape from the Happy Place
+- And the Young Eliots in Happy Place should become mere actors for Eliot.
 - Add both Shard Alices instead of Mirror Alice.
 - Make sure Martin Chatwin/The Beast has been updated to that name and id in episodes.json.
 - Consolidate Rupert/The Dark King
