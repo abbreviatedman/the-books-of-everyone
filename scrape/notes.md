@@ -14,7 +14,6 @@
 - Remove Past Quentin if he's the one from The 4-1-1.
 - Add the actor for S5's past Quentin.
 - Change "Nameless' Sister" to "The Sister".
-- Make sure Iris is credited in S3 and S4.
 
 ### Later
 
