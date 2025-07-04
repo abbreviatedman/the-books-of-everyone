@@ -9047,7 +9047,7 @@
       "$oid": "685ddd65e6e5c844c6b8ef15"
     },
     "name": "Demon Todd",
-    "actors": ["Chris Britton"],
+    "actors": ["Adam DiMarco", "Chris Britton"],
     "quotes": [],
     "episodes": [
       {
@@ -12922,6 +12922,22 @@
         "title": "Garden Variety Homicide",
         "id": {
           "$oid": "685dddcde6e5c844c6b8eff3"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "685ddd46e6e5c844c6b8eed3"
+    },
+    "name": "Todd 17",
+    "actors": ["Adam DiMarco"],
+    "quotes": [],
+    "episodes": [
+      {
+        "title": "Acting Dean",
+        "id": {
+          "$oid": "685dddcae6e5c844c6b8efeb"
         }
       }
     ]
