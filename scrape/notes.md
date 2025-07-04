@@ -7,7 +7,7 @@
 - Make sure cosplay Fen gets credit and the Play versions of the characters.
 - And that no one who's Play version of themselves isn't confused for their "real-life" versions.
 - And consolidate the Lipsons.
-- Consolidate Plum and Merritt, maybe as Merritt/Plum.
+- Consolidate Plum and Merritt, maybe as Plum Merritt Chatwin.
 - And maybe make the S4 amnesia versions of the cast their own characters, with both actors listed, if they're not already?
 - The Monster is credited as The Nameless, and should be given all 3 actors that play him.
 - Why does Enyalius have two actors? Is one of them the corabund(sp?)? Is one of them Aengus?
