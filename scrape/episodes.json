@@ -181,7 +181,7 @@
       }
     ],
     "title": "Unauthorized Magic",
-    "description": "A smart, geeky and socially awkward young man is amazed to realize that the Magic he's so passionate about is actually real, when he's unexpectedly invited to attend a college of magic in New York.",
+    "description": "Quentin Coldwater, a brilliant but depressed college student from Brooklyn is offered an invitation to Brakebills Academy, an exclusive (and secret) graduate school for Magicians.",
     "runtime": 52,
     "airDate": {
       "$date": "2015-12-16T00:00:00Z"
@@ -832,7 +832,7 @@
       }
     ],
     "title": "Impractical Applications",
-    "description": "The First Years are thrust into the old Brakebills tradition of The Trials, a midterm-slash-hazing ritual in which failing means flunking out for good. Meanwhile, in Brooklyn, Julia meets a fellow blacklisted Hedge Witch.",
+    "description": "The First Years are thrust into the old Brakebills tradition of THE TRIALS, a midterm-slash-hazing ritual in which failing means flunking out for good. Meanwhile, in Brooklyn, Julia meets a fellow blacklisted Hedge Witch.",
     "runtime": 42,
     "airDate": {
       "$date": "2016-02-22T00:00:00Z"
@@ -949,7 +949,7 @@
       }
     ],
     "title": "The Mayakovsky Circumstance",
-    "description": "The students are taught by an overbearing teacher while back at Brakebills Eliott and Margo prepare for a debaucherous vacation.",
+    "description": "The Brakebills students endure the rigors of Brakebills South and the harsh methods of Professor Mayakovsky. Eliot and Margo's friendship is threatened when Eliot finds a new love interest.",
     "runtime": 41,
     "airDate": {
       "$date": "2016-02-29T00:00:00Z"
@@ -1312,7 +1312,7 @@
       }
     ],
     "title": "Homecoming",
-    "description": "As Quentin and Alice try to save him, Penny learns that the Neitherlands is not as friendly as he thought. Julia attempts to join the Free Traders, an eclectic group of Magicians.",
+    "description": "Penny travels to the world of The Neitherlands where he soon finds it's not as friendly as he thought. Quentin and Alice must work together, no matter how uncomfortable, to save him.",
     "runtime": 43,
     "airDate": {
       "$date": "2016-03-21T00:00:00Z"
@@ -1435,7 +1435,7 @@
       }
     ],
     "title": "Remedial Battle Magic",
-    "description": "Prior to a showdown in Fillory, Quentin and crew get a crash course in Battle magic. During preparations, frustrations flare leading to some getting closer and others being pulled apart. Julia and Kady, while on a mission with the Free Traders, finds their limits put to the test.",
+    "description": "Quentin and the others learn battle magic as they prepare for a showdown in Fillory. But this challenge leads to building frustrations...pushing some apart and others together.",
     "runtime": 43,
     "airDate": {
       "$date": "2016-03-28T00:00:00Z"
@@ -1570,7 +1570,7 @@
       }
     ],
     "title": "Thirty-Nine Graves",
-    "description": "The students wake up with foggy memories and regret after a night of drinking; Penny reminds everyone that their lives depend on getting to The Neitherlands.",
+    "description": "After a night of drinking, the students wake up to foggy memories and a healthy dose of regret. But Penny is quick to remind them all that there's no time for talking out feelings - their very lives depend on getting to The Neitherlands as soon as possible",
     "runtime": 43,
     "airDate": {
       "$date": "2016-04-04T00:00:00Z"
@@ -1746,8 +1746,8 @@
         "name": "Fillorian Mother"
       }
     ],
-    "title": "Have You Brought Me Little Cakes",
-    "description": "Quentin and Julia are using time magic to get to Fillory, where they try to catch up with the students who are 70 years ahead of them searching for the Beast.",
+    "title": "Have You Brought Me Little Cakes?",
+    "description": "Using time magic, Quentin and Julia have arrived in Fillory and now must try to catch up with the rest who are more than 70 years ahead of them, searching for The Beast.",
     "runtime": 48,
     "airDate": {
       "$date": "2016-04-11T00:00:00Z"
@@ -2362,7 +2362,7 @@
       }
     ],
     "title": "Cheat Day",
-    "description": "Life without magic proves difficult for Quentin. Julia deals with upsetting news. Eliot and Margo are faced with a new threat in Fillory. Penny returns to old stomping grounds.",
+    "description": "Quentin adjusts to his new life. Penny seeks help from an unexpected source. Eliot and Margo contend with the dangers of ruling. Julia and Kady discover another consequence of Reynard's attack.",
     "runtime": 43,
     "airDate": {
       "$date": "2017-02-22T00:00:00Z"
@@ -2521,7 +2521,7 @@
       }
     ],
     "title": "The Cock Barrens",
-    "description": "Quentin teams up with Alice's dad. Margo uses her powers of diplomacy while Penny tries to save a kidnapped Fillory. Banishing Renard comes with some surprises.",
+    "description": "Quentin strives to help a friend who is suffering. Eliot and Margo's negotiations take a shocking turn. Julia and Kady discover a possible key to stopping Reynard.",
     "runtime": 43,
     "airDate": {
       "$date": "2017-03-01T00:00:00Z"
@@ -2668,7 +2668,7 @@
       }
     ],
     "title": "Plan B",
-    "description": "Julia and Kady enlist Quentin, Margo, Eliot and Penny for a magical heist.",
+    "description": "Quentin continues his quest to try and free Alice's soul. Meanwhile, as Julia and Kady search for a way to exorcise Reynard's demon spawn from Julia, they come up with a daring and outlandish plan to fund the procedure.",
     "runtime": 41,
     "airDate": {
       "$date": "2017-03-08T00:00:00Z"
@@ -2821,7 +2821,7 @@
       }
     ],
     "title": "Word as Bond",
-    "description": "Julia, Kady, Penny and Quentin set out to find another spawn of Reynard as Kady struggles to reveal to Julia the consequences of her recent procedure. Quentin reluctantly enlists the help of Alice's Niffin to save the Brakebills gang by creating a word as bond spell with her...but quickly regrets it once realizing its true motives. With a war waging between Fillory and Loria and an unconscious High King Eliot, Julia takes matters into her own hands which puts Fillory, and Margo, in a difficult situation.",
+    "description": "Julia, Kady, Penny and Quentin set out to find another spawn of Reynard as Kady struggles to reveal to Julia the consequences of her recent procedure.",
     "runtime": 43,
     "airDate": {
       "$date": "2017-03-15T00:00:00Z"
@@ -2992,7 +2992,7 @@
       }
     ],
     "title": "Lesser Evils",
-    "description": "Dean Fogg and Professor Lipson attempt to rid Quentin of Alice's Niffin but he refuses to let Alice go. Meanwhile, with magic fading in Fillory, Eliot agrees to a risky duel with King Idri of Loria, in lieu of a war, in the hopes that it will gain the respect of the Fillorians in the process. Julia, Penny and Kady locate Reynard's son in an effort to lure Reynard to them. In the process, Julia uses Quentin in a way that shocks everyone involved, including herself.",
+    "description": "Dean Fogg and Professor Lipson attempt to rid Quentin of Alice's Niffin but he refuses to let Alice go.",
     "runtime": 43,
     "airDate": {
       "$date": "2017-03-22T00:00:00Z"
@@ -3133,7 +3133,7 @@
       }
     ],
     "title": "The Girl Who Told Time",
-    "description": "The Royal Court of Fillory prepares for Eliot's nuptials as he endeavors to win over the Fillorians with the extravagant event. Penny begins his contractual obligations to the Neitherlands Library as Kady searches for any information about god killing. Quentin experiences a mind-bending vision while on a drug-laced trip that sends him and Julia on a mysterious quest.",
+    "description": "The Royal Court of Fillory prepares for Eliot's nuptials as he endeavors to win over the Fillorians with the extravagant event. Penny begins his contractual obligations to the Neitherlands Library as Kady searches for any information about god killing. Quentin experiences a mind-bending vision while on a drug- laced trip that sends him and Julia on a mysterious quest",
     "runtime": 42,
     "airDate": {
       "$date": "2017-03-29T00:00:00Z"
@@ -3334,7 +3334,7 @@
       }
     ],
     "title": "The Rattening",
-    "description": "Quentin and Julia travel to the Underworld. Margo must deal with the fallout of her past decisions. Senator Gaines learns of his gift. Penny is determined to enter the Poison Room.",
+    "description": "Quentin accompanies Julia to the underworld on a journey to help her recover her shade.",
     "runtime": 43,
     "airDate": {
       "$date": "2017-04-05T00:00:00Z"
@@ -3487,7 +3487,7 @@
       }
     ],
     "title": "Ramifications",
-    "description": "Alice and her shade are reassembled. Julia and Kady are determined to draw out Reynard. Elliot and Quentin are determined to return back to Fillory. Penny searches for a book.",
+    "description": "After Julia makes a surprising sacrifice for Quentin, he uses this opportunity to Alice's benefit....or so he thought.",
     "runtime": 45,
     "airDate": {
       "$date": "2017-04-12T00:00:00Z"
@@ -3847,7 +3847,7 @@
       }
     ],
     "title": "The Tales of the Seven Keys",
-    "description": "After the magic shutdown after the events on last season, the characters must go on a quest in order to restore magic.",
+    "description": "Quentin and Julia attempt to bring magic back. Eliot and Margo chafe under the fairy occupation.",
     "runtime": 46,
     "airDate": {
       "$date": "2018-01-10T00:00:00Z"
@@ -4189,7 +4189,7 @@
       }
     ],
     "title": "The Losses of Magic",
-    "description": "Quentin, Alice and her parents must deal with a Lamprey. Kady and Julia summon a demon to save Penny. A band of pirates capture Eliot's boat.",
+    "description": "Alice and Quentin visit her parents as Kady and Julia explore new methods to heal Penny.",
     "runtime": 43,
     "airDate": {
       "$date": "2018-01-24T00:00:00Z"
@@ -4348,7 +4348,7 @@
       }
     ],
     "title": "Be the Penny",
-    "description": "Penny is stuck in the astral plane, and helplessly observes as Eliot and his family are being hunted by cannibals in the Neitherlands and his friends at Brakebills dealing with his passing.",
+    "description": "As Eliot is hunted, Quentin and Julia discover a powerful secret tied to the history of Brakebills.",
     "runtime": 43,
     "airDate": {
       "$date": "2018-01-31T00:00:00Z"
@@ -5269,7 +5269,7 @@
       }
     ],
     "title": "Twenty-Three",
-    "description": "The group strategizes as Josh and Julia travel to a familiar place and are given a chance to help.",
+    "description": "The group strategizes as Josh and Julia travel to a familiar place and are given a chance to help",
     "runtime": 42,
     "airDate": {
       "$date": "2018-03-21T00:00:00Z"
@@ -5824,7 +5824,7 @@
       }
     ],
     "title": "A Flock of Lost Birds",
-    "description": "Magic is back in the world, but the library controls it all. Our magicians' memories have been wiped, and they think they are all ordinary people. Eliot, though, is not quite himself, and then an old friend is back with a task for Margo.",
+    "description": "Brian takes a friend out for ice cream. Sam is one week away from retirement.",
     "runtime": 45,
     "airDate": {
       "$date": "2019-01-23T00:00:00Z"
@@ -6055,7 +6055,7 @@
       }
     ],
     "title": "Lost, Found, Fucked",
-    "description": "Margo feels royally ticked off in Fillory. Quentin endures pain and sacrifice in Greece. Dean Fogg goes on a cathartic tour of the Brakebills campus.",
+    "description": "Dean Fogg gets a new suit.",
     "runtime": 43,
     "airDate": {
       "$date": "2019-01-30T00:00:00Z"
@@ -6232,7 +6232,7 @@
       }
     ],
     "title": "The Bad News Bear",
-    "description": "A stuffed animal full of bad mojo spells trouble for Quentin, Margo places Josh in a problematic spot with a pal, and Alice devises an escape plan.",
+    "description": "Kady gets a puppy. Quentin meets a snake.",
     "runtime": 44,
     "airDate": {
       "$date": "2019-02-06T00:00:00Z"
@@ -6331,7 +6331,7 @@
       }
     ],
     "title": "Marry... Kill",
-    "description": "When Josh's lycanthropic urges enter a dangerous new phase, Margo seeks a solution. Quentin finds solace from an unsettling source. Julia gets anointed.",
+    "description": "Josh gives Margo a muffin. Julia drinks Schnapps.",
     "runtime": 44,
     "airDate": {
       "$date": "2019-02-13T00:00:00Z"
@@ -6508,7 +6508,7 @@
       }
     ],
     "title": "Escape from the Happy Place",
-    "description": "To locate a secret door, Eliot takes a long, emotional walk down memory lane. Quentin and Alice must work together to get blood from a stone.",
+    "description": "Alice and Quentin confront a dog. There are some flashbacks.",
     "runtime": 44,
     "airDate": {
       "$date": "2019-02-20T00:00:00Z"
@@ -6673,7 +6673,7 @@
       }
     ],
     "title": "A Timeline and Place",
-    "description": "Alice reaches out to a magically inclined do-gooder, Penny and Marina run into timeline trouble, and Margo takes a stab at diplomacy in Fillory.",
+    "description": "Quentin and Julia play Pictionary. Margo drinks some weird milk.",
     "runtime": 44,
     "airDate": {
       "$date": "2019-02-27T00:00:00Z"
@@ -6880,7 +6880,7 @@
       }
     ],
     "title": "The Side Effect",
-    "description": "Kady sets off on a quest when her rent comes due, Zelda proposes a way for the Library to track down Alice, and Fen finds her dreams are all too real.",
+    "description": "Kady goes to the flea market. What's Zelda been up to? This one's about Fen, you guys.",
     "runtime": 44,
     "airDate": {
       "$date": "2019-03-06T00:00:00Z"
@@ -7021,7 +7021,7 @@
       }
     ],
     "title": "Home Improvement",
-    "description": "Alice goes to see her mom after cutting a reluctant deal with Zelda, and Quentin receives startling news while hunting down an item for a dragon.",
+    "description": "Penny licks an egg. Alice is jealous of a flower.",
     "runtime": 44,
     "airDate": {
       "$date": "2019-03-13T00:00:00Z"
@@ -7204,7 +7204,7 @@
       }
     ],
     "title": "The Serpent",
-    "description": "As Kady contends with a crisis in the hedge witch community, Alice confronts her inner self, and Margo makes a command decision about Eliot.",
+    "description": "Quentin eats a quesadilla. Kady and Zelda share a smoke.",
     "runtime": 44,
     "airDate": {
       "$date": "2019-03-20T00:00:00Z"
@@ -7369,7 +7369,7 @@
       }
     ],
     "title": "All That Hard, Glossy Armor",
-    "description": "Margo licks a lizard and hallucinates in the desert, gets weapons that remove spirits from human bodies. Gang fails to stop the Monster from getting the last stone organ.",
+    "description": "Margo hits her step count.",
     "runtime": 44,
     "airDate": {
       "$date": "2019-03-27T00:00:00Z"
@@ -7516,7 +7516,7 @@
       }
     ],
     "title": "The 4-1-1",
-    "description": "The gang talks to a book; Tick threatens to drink some water.",
+    "description": "The gang talks to a book. Tick threatens to drink some water.",
     "runtime": 44,
     "airDate": {
       "$date": "2019-04-03T00:00:00Z"
@@ -7675,7 +7675,7 @@
       }
     ],
     "title": "The Secret Sea",
-    "description": "Quentin becomes the key to uncovering a stockpile of magic, Kady learns a distressing secret in the Poison Room, and something fishy is up with Josh.",
+    "description": "Quentin yells at a plant. Margo stares at a fish.",
     "runtime": 43,
     "airDate": {
       "$date": "2019-04-10T00:00:00Z"
@@ -7822,7 +7822,7 @@
       }
     ],
     "title": "No Better to Be Safe Than Sorry",
-    "description": "The group's fight to save their friends becomes a battle for magic itself-- and leads to an unthinkable loss that will change them forever.",
+    "description": "Quentin and Josh get cake. Quentin reflects on his actions.",
     "runtime": 44,
     "airDate": {
       "$date": "2019-04-17T00:00:00Z"
@@ -8557,7 +8557,7 @@
       }
     ],
     "title": "Apocalypse? Now?!",
-    "description": "Kady punches a dude; Margo misses cocaine.",
+    "description": "Kady punches a dude. Margo misses cocaine. Yawn.",
     "runtime": 43,
     "airDate": {
       "$date": "2020-02-12T00:00:00Z"
@@ -8685,8 +8685,8 @@
         "name": "On-the-Street Reporter"
       }
     ],
-    "title": "Oops!...I Did It Again",
-    "description": "Margo and Eliot have a bad day.",
+    "title": "Oops!... I Did It Again",
+    "description": "Margo and Eliot have a bad day. Eliot has a bad day.",
     "runtime": 44,
     "airDate": {
       "$date": "2020-02-12T00:00:00Z"
@@ -9238,7 +9238,7 @@
       }
     ],
     "title": "Purgatory",
-    "description": "Margo learns to project; Josh goes to the spa.",
+    "description": "Margo learns to project. Josh goes to the spa.",
     "runtime": 44,
     "airDate": {
       "$date": "2020-03-11T00:00:00Z"
@@ -9715,7 +9715,7 @@
       }
     ],
     "title": "Fillory and Further",
-    "description": "Christmas arrives early.",
+    "description": "Christmas comes early.",
     "runtime": 47,
     "airDate": {
       "$date": "2020-04-01T00:00:00Z"
