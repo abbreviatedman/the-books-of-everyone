@@ -8,7 +8,6 @@
 - And consolidate the Lipsons.
 - Consolidate Plum and Merritt, maybe as Plum Merritt Chatwin.
 - And maybe make the S4 amnesia versions of the cast their own characters, with both actors listed, if they're not already?
-- The Monster is credited as The Nameless, and should be given all 3 actors that play him.
 - Why does Enyalius have two actors? Is one of them the corabund(sp?)? Is one of them Aengus?
 - Remove Past Quentin if he's the one from The 4-1-1.
 - Add the actor for S5's past Quentin.

@@ -9602,16 +9602,10 @@
     "_id": {
       "$oid": "685ddd78e6e5c844c6b8ef2b"
     },
-    "name": "Nameless",
-    "actors": ["Hale Appleman", "Spencer Daniels"],
+    "name": "The Monster",
+    "actors": ["Spencer Daniels", "Alexandra Metz", "Hale Appleman"],
     "quotes": [],
     "episodes": [
-      {
-        "title": "Will You Play with Me?",
-        "id": {
-          "$oid": "685ddd76e6e5c844c6b8ef28"
-        }
-      },
       {
         "title": "Will You Play with Me?",
         "id": {
