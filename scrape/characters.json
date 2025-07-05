@@ -9573,40 +9573,6 @@
         }
       },
       {
-        "title": "A Flock of Lost Birds",
-        "id": {
-          "$oid": "685ddd7be6e5c844c6b8ef34"
-        }
-      },
-      {
-        "title": "Lost, Found, Fucked",
-        "id": {
-          "$oid": "685ddd7fe6e5c844c6b8ef45"
-        }
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "685ddd78e6e5c844c6b8ef2a"
-    },
-    "name": "Kim",
-    "actors": ["Stella Maeve"],
-    "quotes": [],
-    "episodes": [
-      {
-        "title": "Will You Play with Me?",
-        "id": {
-          "$oid": "685ddd76e6e5c844c6b8ef28"
-        }
-      },
-      {
-        "title": "A Flock of Lost Birds",
-        "id": {
-          "$oid": "685ddd7be6e5c844c6b8ef34"
-        }
-      },
-      {
         "title": "Lost, Found, Fucked",
         "id": {
           "$oid": "685ddd7fe6e5c844c6b8ef45"
@@ -9723,18 +9689,6 @@
         }
       },
       {
-        "title": "A Flock of Lost Birds",
-        "id": {
-          "$oid": "685ddd7be6e5c844c6b8ef34"
-        }
-      },
-      {
-        "title": "Lost, Found, Fucked",
-        "id": {
-          "$oid": "685ddd7fe6e5c844c6b8ef45"
-        }
-      },
-      {
         "title": "Lost, Found, Fucked",
         "id": {
           "$oid": "685ddd7fe6e5c844c6b8ef45"
@@ -9746,7 +9700,7 @@
     "_id": {
       "$oid": "685ddd78e6e5c844c6b8ef2d"
     },
-    "name": "Janet",
+    "name": "Janet Pluchinsky",
     "actors": ["Summer Bishil", "Agam Darshi"],
     "quotes": [],
     "episodes": [
@@ -9763,18 +9717,6 @@
         }
       },
       {
-        "title": "A Flock of Lost Birds",
-        "id": {
-          "$oid": "685ddd7be6e5c844c6b8ef34"
-        }
-      },
-      {
-        "title": "Lost, Found, Fucked",
-        "id": {
-          "$oid": "685ddd7fe6e5c844c6b8ef45"
-        }
-      },
-      {
         "title": "Lost, Found, Fucked",
         "id": {
           "$oid": "685ddd7fe6e5c844c6b8ef45"
@@ -9786,8 +9728,8 @@
     "_id": {
       "$oid": "685ddd78e6e5c844c6b8ef2e"
     },
-    "name": "Sam",
-    "actors": ["Jade Tailor"],
+    "name": "Sam Cunningham",
+    "actors": ["Jade Tailor", "Leanne Lapp"],
     "quotes": [],
     "episodes": [
       {
@@ -9812,10 +9754,10 @@
   },
   {
     "_id": {
-      "$oid": "685ddd78e6e5c844c6b8ef2f"
+      "$oid": "685ddd7de6e5c844c6b8ef3a"
     },
-    "name": "Isaac",
-    "actors": ["Trevor Einhorn"],
+    "name": "Isaac Karamov",
+    "actors": ["Trevor Einhorn", "Neil Grayston"],
     "quotes": [],
     "episodes": [
       {
@@ -9947,9 +9889,15 @@
       "$oid": "685ddd7de6e5c844c6b8ef38"
     },
     "name": "Kimber D'Antoni",
-    "actors": ["Emily Althaus"],
+    "actors": ["Stella Maeve", "Emily Althaus"],
     "quotes": [],
     "episodes": [
+      {
+        "title": "Will You Play with Me?",
+        "id": {
+          "$oid": "685ddd76e6e5c844c6b8ef28"
+        }
+      },
       {
         "title": "A Flock of Lost Birds",
         "id": {
@@ -9969,29 +9917,7 @@
       "$oid": "685ddd7de6e5c844c6b8ef39"
     },
     "name": "Sam Cunningham",
-    "actors": ["Leanne Lapp"],
-    "quotes": [],
-    "episodes": [
-      {
-        "title": "A Flock of Lost Birds",
-        "id": {
-          "$oid": "685ddd7be6e5c844c6b8ef34"
-        }
-      },
-      {
-        "title": "Lost, Found, Fucked",
-        "id": {
-          "$oid": "685ddd7fe6e5c844c6b8ef45"
-        }
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "685ddd7de6e5c844c6b8ef3a"
-    },
-    "name": "Isaac Karamov",
-    "actors": ["Neil Grayston"],
+    "actors": [""],
     "quotes": [],
     "episodes": [
       {
