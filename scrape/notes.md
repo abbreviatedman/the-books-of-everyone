@@ -1,6 +1,5 @@
 ### Priorities
 
-- Add both Shard Alices instead of Mirror Alice.
 - Make sure Martin Chatwin/The Beast has been updated to that name and id in episodes.json.
 - Consolidate Rupert/The Dark King
 - Make sure cosplay Fen gets credit and the Play versions of the characters.
