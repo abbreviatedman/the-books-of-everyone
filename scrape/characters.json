@@ -4,7 +4,7 @@
       "$oid": "685ddcd8e6e5c844c6b8edfc"
     },
     "name": "Quentin Coldwater",
-    "actors": ["Jason Ralph"],
+    "actors": ["Jason Ralph", "Luca Padovan"],
     "quotes": [],
     "episodes": [
       {
@@ -317,6 +317,12 @@
         "title": "No Better to Be Safe Than Sorry",
         "id": {
           "$oid": "685dddabe6e5c844c6b8efaf"
+        }
+      },
+      {
+        "title": "The Wrath of the Time Bees",
+        "id": {
+          "$oid": "685dddb4e6e5c844c6b8efc6"
         }
       }
     ]
@@ -8336,16 +8342,6 @@
   },
   {
     "_id": {
-      "$oid": "685ddd4ee6e5c844c6b8eeec"
-    },
-    "name": "Quentin Coldwater",
-    "actors": ["Jason Ralph"],
-    "quotes": [],
-    "episodes": [
-    ]
-  },
-  {
-    "_id": {
       "$oid": "685ddd4ee6e5c844c6b8eeed"
     },
     "name": "Pirate King",
@@ -11708,22 +11704,6 @@
         "title": "All That Hard, Glossy Armor",
         "id": {
           "$oid": "685ddd9ee6e5c844c6b8ef98"
-        }
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "685ddda4e6e5c844c6b8efa5"
-    },
-    "name": "Past Quentin",
-    "actors": ["Jason Ralph"],
-    "quotes": [],
-    "episodes": [
-      {
-        "title": "The 4-1-1",
-        "id": {
-          "$oid": "685ddda2e6e5c844c6b8efa4"
         }
       }
     ]

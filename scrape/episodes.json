@@ -4059,7 +4059,7 @@
         "id": {
           "$oid": "685ddd4ee6e5c844c6b8eeec"
         },
-        "name": "Quentin"
+        "name": "Quentin Coldwater"
       },
       {
         "name": "Julia Wicker",
@@ -7287,12 +7287,6 @@
         }
       },
       {
-        "id": {
-          "$oid": "685ddda4e6e5c844c6b8efa5"
-        },
-        "name": "Past Quentin"
-      },
-      {
         "name": "Julia Wicker",
         "id": {
           "$oid": "685ddcd8e6e5c844c6b8edfd"
@@ -8002,9 +7996,9 @@
       },
       {
         "id": {
-          "$oid": "685dddb6e6e5c844c6b8efc7"
+          "$oid": "685ddcd8e6e5c844c6b8edfc"
         },
-        "name": "Young Quentin (Golem)"
+        "name": "Quentin Coldwater"
       },
       {
         "id": {

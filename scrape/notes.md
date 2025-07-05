@@ -1,9 +1,4 @@
-### Priorities
-
-- Remove Past Quentin if he's the one from The 4-1-1.
-- Add the actor for S5's past Quentin.
-
-### Later
+## Todos
 
 - Make sure Physical Kid #1/#2 are reflected in episodes.json.
 - Make sure Healer #1/#2 are reflected in episodes.json.
