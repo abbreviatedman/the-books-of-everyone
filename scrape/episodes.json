@@ -7935,43 +7935,25 @@
         "id": {
           "$oid": "685dddb2e6e5c844c6b8efb7"
         },
-        "name": "Play Actor - Alice"
-      },
-      {
-        "name": "Fen",
-        "id": {
-          "$oid": "685ddd0ce6e5c844c6b8ee6f"
-        }
+        "name": "Play Actor - Alice/Fen"
       },
       {
         "id": {
           "$oid": "685dddb2e6e5c844c6b8efb8"
         },
-        "name": "Play Actor - Margo"
-      },
-      {
-        "id": {
-          "$oid": "685dddb2e6e5c844c6b8efb9"
-        },
-        "name": "Taker"
+        "name": "Play Actor - Margo/Taker"
       },
       {
         "id": {
           "$oid": "685dddb2e6e5c844c6b8efba"
         },
-        "name": "Play Actor - Quentin"
-      },
-      {
-        "id": {
-          "$oid": "685dddb2e6e5c844c6b8efbb"
-        },
-        "name": "Josh"
+        "name": "Play Actor - Quentin/Josh"
       },
       {
         "id": {
           "$oid": "685dddb2e6e5c844c6b8efbc"
         },
-        "name": "Play Actor - Eliot"
+        "name": "Play Actor - Eliot/Taker #2/Guard"
       },
       {
         "id": {
@@ -7992,16 +7974,10 @@
         "name": "Pree"
       },
       {
-        "name": "Narrator",
-        "id": {
-          "$oid": "685ddd39e6e5c844c6b8eeca"
-        }
-      },
-      {
         "id": {
           "$oid": "685dddb2e6e5c844c6b8efbf"
         },
-        "name": "Play Actor - Ember"
+        "name": "Narrator/Play Actor - Ember"
       },
       {
         "id": {
