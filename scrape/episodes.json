@@ -93,13 +93,13 @@
         "id": {
           "$oid": "685ddcd8e6e5c844c6b8ee0b"
         },
-        "name": "Martin Chatwin"
+        "name": "Martin Chatwin/The Beast"
       },
       {
         "id": {
           "$oid": "685ddcd8e6e5c844c6b8ee0c"
         },
-        "name": "Rupert Chatwin"
+        "name": "Rupert Chatwin/The Dark King"
       },
       {
         "id": {
@@ -1140,7 +1140,7 @@
         "name": "Hugh"
       },
       {
-        "name": "Martin Chatwin",
+        "name": "Martin Chatwin/The Beast",
         "id": {
           "$oid": "685ddcd8e6e5c844c6b8ee0b"
         }
@@ -1638,7 +1638,7 @@
         "name": "Reynard the Fox"
       },
       {
-        "name": "Martin Chatwin",
+        "name": "Martin Chatwin/The Beast",
         "id": {
           "$oid": "685ddcd8e6e5c844c6b8ee0b"
         }
@@ -1674,7 +1674,7 @@
         }
       },
       {
-        "name": "Martin Chatwin",
+        "name": "Martin Chatwin/The Beast",
         "id": {
           "$oid": "685ddcd8e6e5c844c6b8ee0b"
         }
@@ -1797,7 +1797,7 @@
         }
       },
       {
-        "name": "Martin Chatwin",
+        "name": "Martin Chatwin/The Beast",
         "id": {
           "$oid": "685ddcd8e6e5c844c6b8ee0b"
         }
@@ -1944,7 +1944,7 @@
         }
       },
       {
-        "name": "Martin Chatwin",
+        "name": "Martin Chatwin/The Beast",
         "id": {
           "$oid": "685ddcd8e6e5c844c6b8ee0b"
         }
@@ -2067,7 +2067,7 @@
         }
       },
       {
-        "name": "Martin Chatwin",
+        "name": "Martin Chatwin/The Beast",
         "id": {
           "$oid": "685ddcd8e6e5c844c6b8ee0b"
         }
@@ -4329,7 +4329,7 @@
         "name": "Eliot's Father"
       },
       {
-        "name": "Rupert Chatwin",
+        "name": "Rupert Chatwin/The Dark King",
         "id": {
           "$oid": "685ddcd8e6e5c844c6b8ee0c"
         }
@@ -4485,13 +4485,7 @@
         "id": {
           "$oid": "685ddd55e6e5c844c6b8ef03"
         },
-        "name": "Rupert - Age 5"
-      },
-      {
-        "id": {
-          "$oid": "685ddd55e6e5c844c6b8ef04"
-        },
-        "name": "Rupert - Age 20"
+        "name": "Rupert Coldwater-Waugh"
       },
       {
         "name": "Hipster",
@@ -8221,9 +8215,9 @@
       },
       {
         "id": {
-          "$oid": "685dddbae6e5c844c6b8efcb"
+          "$oid": "685ddcd8e6e5c844c6b8ee0c"
         },
-        "name": "The Dark King"
+        "name": "Rupert Chatwin/The Dark King"
       },
       {
         "name": "Professor Lipson",
@@ -8325,9 +8319,9 @@
         }
       },
       {
-        "name": "The Dark King",
+        "name": "Rupert Chatwin/The Dark King",
         "id": {
-          "$oid": "685dddbae6e5c844c6b8efcb"
+          "$oid": "685ddcd8e6e5c844c6b8ee0c"
         }
       },
       {
@@ -8748,9 +8742,9 @@
         }
       },
       {
-        "name": "The Dark King",
+        "name": "Rupert Chatwin/The Dark King",
         "id": {
-          "$oid": "685dddbae6e5c844c6b8efcb"
+          "$oid": "685ddcd8e6e5c844c6b8ee0c"
         }
       },
       {
@@ -8895,9 +8889,9 @@
         }
       },
       {
-        "name": "The Dark King",
+        "name": "Rupert Chatwin/The Dark King",
         "id": {
-          "$oid": "685dddbae6e5c844c6b8efcb"
+          "$oid": "685ddcd8e6e5c844c6b8ee0c"
         }
       },
       {
@@ -9030,9 +9024,9 @@
         }
       },
       {
-        "name": "The Dark King",
+        "name": "Rupert Chatwin/The Dark King",
         "id": {
-          "$oid": "685dddbae6e5c844c6b8efcb"
+          "$oid": "685ddcd8e6e5c844c6b8ee0c"
         }
       },
       {
@@ -9183,9 +9177,9 @@
         }
       },
       {
-        "name": "The Dark King",
+        "name": "Rupert Chatwin/The Dark King",
         "id": {
-          "$oid": "685dddbae6e5c844c6b8efcb"
+          "$oid": "685ddcd8e6e5c844c6b8ee0c"
         }
       },
       {
@@ -9612,13 +9606,7 @@
         }
       },
       {
-        "name": "The Dark King",
-        "id": {
-          "$oid": "685dddbae6e5c844c6b8efcb"
-        }
-      },
-      {
-        "name": "Rupert Chatwin",
+        "name": "Rupert Chatwin/The Dark King",
         "id": {
           "$oid": "685ddcd8e6e5c844c6b8ee0c"
         }
@@ -9678,13 +9666,7 @@
         }
       },
       {
-        "name": "The Beast",
-        "id": {
-          "$oid": "685ddcd8e6e5c844c6b8ee0d"
-        }
-      },
-      {
-        "name": "Martin Chatwin",
+        "name": "Martin Chatwin/The Beast",
         "id": {
           "$oid": "685ddcd8e6e5c844c6b8ee0b"
         }

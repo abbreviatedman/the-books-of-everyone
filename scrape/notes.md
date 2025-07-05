@@ -1,7 +1,5 @@
 ### Priorities
 
-- Make sure Martin Chatwin/The Beast has been updated to that name and id in episodes.json.
-- Consolidate Rupert/The Dark King
 - Make sure cosplay Fen gets credit and the Play versions of the characters.
 - And that no one who's Play version of themselves isn't confused for their "real-life" versions.
 - And consolidate the Lipsons.

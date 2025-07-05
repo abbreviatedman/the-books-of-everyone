@@ -2928,7 +2928,7 @@
       "$oid": "685ddcd8e6e5c844c6b8ee0b"
     },
     "name": "Martin Chatwin/The Beast",
-    "actors": ["Seth Meriwether", "Nicholas Croucher", "Charles Mesure"],
+    "actors": [ "Charles Mesure", "Seth Meriwether", "Nicholas Croucher"],
     "quotes": [],
     "episodes": [
       {
@@ -3003,7 +3003,7 @@
     "_id": {
       "$oid": "685ddcd8e6e5c844c6b8ee0c"
     },
-    "name": "Rupert Chatwin",
+    "name": "Rupert Chatwin/The Dark King",
     "actors": ["Brian Beckman", "Arthur MacKinnon", "Sean Maguire"],
     "quotes": [],
     "episodes": [
@@ -3017,6 +3017,42 @@
         "title": "Be the Penny",
         "id": {
           "$oid": "685ddd50e6e5c844c6b8eef2"
+        }
+      },
+      {
+        "title": "The Mountain of Ghosts",
+        "id": {
+          "$oid": "685dddb8e6e5c844c6b8efca"
+        }
+      },
+      {
+        "title": "Magicians Anonymous",
+        "id": {
+          "$oid": "685dddbde6e5c844c6b8efd0"
+        }
+      },
+      {
+        "title": "Acting Dean",
+        "id": {
+          "$oid": "685dddcae6e5c844c6b8efeb"
+        }
+      },
+      {
+        "title": "Garden Variety Homicide",
+        "id": {
+          "$oid": "685dddcde6e5c844c6b8eff3"
+        }
+      },
+      {
+        "title": "Cello Squirrel Daffodil",
+        "id": {
+          "$oid": "685dddd1e6e5c844c6b8effc"
+        }
+      },
+      {
+        "title": "Purgatory",
+        "id": {
+          "$oid": "685dddd4e6e5c844c6b8f001"
         }
       },
       {
@@ -8750,24 +8786,8 @@
     "_id": {
       "$oid": "685ddd55e6e5c844c6b8ef03"
     },
-    "name": "Rupert - Age 5",
-    "actors": ["Sebastian Billingsley-Rodriguez"],
-    "quotes": [],
-    "episodes": [
-      {
-        "title": "A Life in the Day",
-        "id": {
-          "$oid": "685ddd53e6e5c844c6b8eefa"
-        }
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "685ddd55e6e5c844c6b8ef04"
-    },
-    "name": "Rupert - Age 20",
-    "actors": ["Tim Donadt"],
+    "name": "Ted Coldwater-Waugh",
+    "actors": ["Sebastian Billingsley-Rodriguez", "Tim Donadt"],
     "quotes": [],
     "episodes": [
       {
@@ -12354,58 +12374,6 @@
         "title": "The Wrath of the Time Bees",
         "id": {
           "$oid": "685dddb4e6e5c844c6b8efc6"
-        }
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "685dddbae6e5c844c6b8efcb"
-    },
-    "name": "The Dark King",
-    "actors": ["Sean Maguire"],
-    "quotes": [],
-    "episodes": [
-      {
-        "title": "The Mountain of Ghosts",
-        "id": {
-          "$oid": "685dddb8e6e5c844c6b8efca"
-        }
-      },
-      {
-        "title": "Magicians Anonymous",
-        "id": {
-          "$oid": "685dddbde6e5c844c6b8efd0"
-        }
-      },
-      {
-        "title": "Acting Dean",
-        "id": {
-          "$oid": "685dddcae6e5c844c6b8efeb"
-        }
-      },
-      {
-        "title": "Garden Variety Homicide",
-        "id": {
-          "$oid": "685dddcde6e5c844c6b8eff3"
-        }
-      },
-      {
-        "title": "Cello Squirrel Daffodil",
-        "id": {
-          "$oid": "685dddd1e6e5c844c6b8effc"
-        }
-      },
-      {
-        "title": "Purgatory",
-        "id": {
-          "$oid": "685dddd4e6e5c844c6b8f001"
-        }
-      },
-      {
-        "title": "Fillory and Further",
-        "id": {
-          "$oid": "685ddde0e6e5c844c6b8f016"
         }
       }
     ]
