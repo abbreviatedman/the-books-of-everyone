@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/abbreviatedman/the-books-of-everyone#readme",
   "devDependencies": {
-    "jest": "^30.0.4"
+    "jest": "^30.0.4",
+    "supertest": "^7.1.1"
   }
 }
