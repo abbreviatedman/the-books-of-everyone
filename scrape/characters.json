@@ -10118,10 +10118,10 @@
   },
   {
     "_id": {
-      "$oid": "685ddd81e6e5c844c6b8ef47"
+      "$oid": "685e96cce6e5c8655527de73"
     },
-    "name": "Enyalius",
-    "actors": ["Daniel Cudmore", "Gethin Anthony"],
+    "name": "Corybant",
+    "actors": ["Daniel Cudmore"],
     "quotes": [],
     "episodes": [
       {
@@ -10129,7 +10129,17 @@
         "id": {
           "$oid": "685ddd7fe6e5c844c6b8ef45"
         }
-      },
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "685ddd81e6e5c844c6b8ef47"
+    },
+    "name": "Enyalius/Aengus",
+    "actors": ["Gethin Anthony"],
+    "quotes": [],
+    "episodes": [
       {
         "title": "The Serpent",
         "id": {
@@ -11536,22 +11546,6 @@
         "title": "The Serpent",
         "id": {
           "$oid": "685ddd9ae6e5c844c6b8ef8e"
-        }
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "685ddda0e6e5c844c6b8ef9a"
-    },
-    "name": "Aengus",
-    "actors": ["Gethin Anthony"],
-    "quotes": [],
-    "episodes": [
-      {
-        "title": "All That Hard, Glossy Armor",
-        "id": {
-          "$oid": "685ddd9ee6e5c844c6b8ef98"
         }
       }
     ]
