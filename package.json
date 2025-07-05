@@ -1,0 +1,22 @@
+{
+  "name": "the-books-of-everyone",
+  "version": "1.0.0",
+  "description": "An API for the TV show The Magicians.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abbreviatedman/the-books-of-everyone.git"
+  },
+  "author": "Colin Jaffe",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/abbreviatedman/the-books-of-everyone/issues"
+  },
+  "homepage": "https://github.com/abbreviatedman/the-books-of-everyone#readme",
+  "devDependencies": {
+    "jest": "^30.0.4"
+  }
+}
