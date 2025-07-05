@@ -687,7 +687,7 @@
         "id": {
           "$oid": "685ddceae6e5c844c6b8ee36"
         },
-        "name": "Professor Lipson"
+        "name": "Eleanor Lipson"
       },
       {
         "id": {
@@ -1035,7 +1035,7 @@
         }
       },
       {
-        "name": "Professor Lipson",
+        "name": "Eleanor Lipson",
         "id": {
           "$oid": "685ddceae6e5c844c6b8ee36"
         }
@@ -1263,7 +1263,7 @@
         "name": "Joe"
       },
       {
-        "name": "Professor Lipson",
+        "name": "Eleanor Lipson",
         "id": {
           "$oid": "685ddceae6e5c844c6b8ee36"
         }
@@ -2172,7 +2172,7 @@
         }
       },
       {
-        "name": "Professor Lipson",
+        "name": "Eleanor Lipson",
         "id": {
           "$oid": "685ddceae6e5c844c6b8ee36"
         }
@@ -2442,7 +2442,7 @@
         }
       },
       {
-        "name": "Professor Lipson",
+        "name": "Eleanor Lipson",
         "id": {
           "$oid": "685ddceae6e5c844c6b8ee36"
         }
@@ -2589,7 +2589,7 @@
         }
       },
       {
-        "name": "Professor Lipson",
+        "name": "Eleanor Lipson",
         "id": {
           "$oid": "685ddceae6e5c844c6b8ee36"
         }
@@ -2895,7 +2895,7 @@
         }
       },
       {
-        "name": "Professor Lipson",
+        "name": "Eleanor Lipson",
         "id": {
           "$oid": "685ddceae6e5c844c6b8ee36"
         }
@@ -3591,7 +3591,7 @@
         }
       },
       {
-        "name": "Professor Lipson",
+        "name": "Eleanor Lipson",
         "id": {
           "$oid": "685ddceae6e5c844c6b8ee36"
         }
@@ -3927,10 +3927,10 @@
         }
       },
       {
+        "name": "Eleanor Lipson",
         "id": {
-          "$oid": "685ddd4ae6e5c844c6b8eedd"
-        },
-        "name": "Eleanor Lipson"
+          "$oid": "685ddceae6e5c844c6b8ee36"
+        }
       },
       {
         "name": "Fairy Queen",
@@ -4694,7 +4694,7 @@
       {
         "name": "Eleanor Lipson",
         "id": {
-          "$oid": "685ddd4ae6e5c844c6b8eedd"
+          "$oid": "685ddceae6e5c844c6b8ee36"
         }
       },
       {
@@ -5508,7 +5508,7 @@
         }
       },
       {
-        "name": "Professor Lipson",
+        "name": "Eleanor Lipson",
         "id": {
           "$oid": "685ddceae6e5c844c6b8ee36"
         }
@@ -5688,7 +5688,7 @@
         "id": {
           "$oid": "685ddd7de6e5c844c6b8ef35"
         },
-        "name": "Professor Eleanor Lipson"
+        "name": "Eleanor Lipson"
       },
       {
         "id": {
@@ -7773,7 +7773,7 @@
         }
       },
       {
-        "name": "Professor Lipson",
+        "name": "Eleanor Lipson",
         "id": {
           "$oid": "685ddceae6e5c844c6b8ee36"
         }
@@ -8196,7 +8196,7 @@
         "name": "Rupert Chatwin/The Dark King"
       },
       {
-        "name": "Professor Lipson",
+        "name": "Eleanor Lipson",
         "id": {
           "$oid": "685ddceae6e5c844c6b8ee36"
         }
@@ -8301,7 +8301,7 @@
         }
       },
       {
-        "name": "Professor Lipson",
+        "name": "Eleanor Lipson",
         "id": {
           "$oid": "685ddceae6e5c844c6b8ee36"
         }
@@ -8473,9 +8473,9 @@
       },
       {
         "id": {
-          "$oid": "685dddc3e6e5c844c6b8efdf"
+          "$oid": "685ddceae6e5c844c6b8ee36"
         },
-        "name": "Acting Dean Lipson"
+        "name": "Eleanor Lipson"
       },
       {
         "name": "Marina 23",
@@ -9006,7 +9006,7 @@
         }
       },
       {
-        "name": "Professor Lipson",
+        "name": "Eleanor Lipson",
         "id": {
           "$oid": "685ddceae6e5c844c6b8ee36"
         }
@@ -9300,7 +9300,7 @@
         }
       },
       {
-        "name": "Professor Lipson",
+        "name": "Eleanor Lipson",
         "id": {
           "$oid": "685ddceae6e5c844c6b8ee36"
         }
@@ -9594,7 +9594,7 @@
         }
       },
       {
-        "name": "Professor Lipson",
+        "name": "Eleanor Lipson",
         "id": {
           "$oid": "685ddceae6e5c844c6b8ee36"
         }

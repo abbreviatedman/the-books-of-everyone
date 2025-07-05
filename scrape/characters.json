@@ -3963,7 +3963,7 @@
     "_id": {
       "$oid": "685ddceae6e5c844c6b8ee36"
     },
-    "name": "Professor Lipson",
+    "name": "Eleanor Lipson",
     "actors": ["Keegan Connor Tracy"],
     "quotes": [],
     "episodes": [
@@ -4016,9 +4016,27 @@
         }
       },
       {
+        "title": "Heroes and Morons",
+        "id": {
+          "$oid": "685ddd48e6e5c844c6b8eedc"
+        }
+      },
+      {
+        "title": "Poached Eggs",
+        "id": {
+          "$oid": "685ddd5ce6e5c844c6b8ef0b"
+        }
+      },
+      {
         "title": "Will You Play with Me?",
         "id": {
           "$oid": "685ddd76e6e5c844c6b8ef28"
+        }
+      },
+      {
+        "title": "A Flock of Lost Birds",
+        "id": {
+          "$oid": "685ddd7be6e5c844c6b8ef34"
         }
       },
       {
@@ -4037,6 +4055,12 @@
         "title": "Magicians Anonymous",
         "id": {
           "$oid": "685dddbde6e5c844c6b8efd0"
+        }
+      },
+      {
+        "title": "Apocalypse? Now?!",
+        "id": {
+          "$oid": "685dddc2e6e5c844c6b8efde"
         }
       },
       {
@@ -8074,28 +8098,6 @@
   },
   {
     "_id": {
-      "$oid": "685ddd4ae6e5c844c6b8eedd"
-    },
-    "name": "Eleanor Lipson",
-    "actors": ["Keegan Connor Tracy"],
-    "quotes": [],
-    "episodes": [
-      {
-        "title": "Heroes and Morons",
-        "id": {
-          "$oid": "685ddd48e6e5c844c6b8eedc"
-        }
-      },
-      {
-        "title": "Poached Eggs",
-        "id": {
-          "$oid": "685ddd5ce6e5c844c6b8ef0b"
-        }
-      }
-    ]
-  },
-  {
-    "_id": {
       "$oid": "685ddd4ae6e5c844c6b8eede"
     },
     "name": "Fray",
@@ -9902,22 +9904,6 @@
         "title": "Will You Play with Me?",
         "id": {
           "$oid": "685ddd76e6e5c844c6b8ef28"
-        }
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "685ddd7de6e5c844c6b8ef35"
-    },
-    "name": "Professor Eleanor Lipson",
-    "actors": ["Keegan Connor Tracy"],
-    "quotes": [],
-    "episodes": [
-      {
-        "title": "A Flock of Lost Birds",
-        "id": {
-          "$oid": "685ddd7be6e5c844c6b8ef34"
         }
       }
     ]
@@ -12608,22 +12594,6 @@
         "title": "Magicians Anonymous",
         "id": {
           "$oid": "685dddbde6e5c844c6b8efd0"
-        }
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "685dddc3e6e5c844c6b8efdf"
-    },
-    "name": "Acting Dean Lipson",
-    "actors": ["Keegan Connor Tracy"],
-    "quotes": [],
-    "episodes": [
-      {
-        "title": "Apocalypse? Now?!",
-        "id": {
-          "$oid": "685dddc2e6e5c844c6b8efde"
         }
       }
     ]
