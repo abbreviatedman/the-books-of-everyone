@@ -4,7 +4,8 @@
   "description": "An API for the TV show The Magicians.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test-watch": "jest --watch-all"
   },
   "repository": {
     "type": "git",
