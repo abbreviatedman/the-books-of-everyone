@@ -8931,7 +8931,7 @@
         "id": {
           "$oid": "685dddd2e6e5c844c6b8effd"
         },
-        "name": "Plum Chatwin"
+        "name": "Plum Merritt Chatwin"
       },
       {
         "name": "Hyman Cooper",
@@ -9069,7 +9069,7 @@
         }
       },
       {
-        "name": "Plum Chatwin",
+        "name": "Plum Merritt Chatwin",
         "id": {
           "$oid": "685dddd2e6e5c844c6b8effd"
         }
@@ -9534,7 +9534,7 @@
         }
       },
       {
-        "name": "Plum Chatwin",
+        "name": "Plum Merritt Chatwin",
         "id": {
           "$oid": "685dddd2e6e5c844c6b8effd"
         }
