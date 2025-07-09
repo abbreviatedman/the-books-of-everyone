@@ -8342,6 +8342,28 @@
   },
   {
     "_id": {
+      "$oid": "685e96cce6e5c8655527ddba"
+    },
+    "name": "The Lamprey",
+    "actors": ["Justin Turnbull", "Jason Ralph", "Tom Amandes"],
+    "quotes": [],
+    "episodes": [
+      {
+        "title": "Heroes and Morons",
+        "id": {
+          "$oid": "685ddd48e6e5c844c6b8eedc"
+        }
+      },
+      {
+        "title": "The Losses of Magic",
+        "id": {
+          "$oid": "685ddd4ce6e5c844c6b8eeeb"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
       "$oid": "685ddd4ee6e5c844c6b8eeed"
     },
     "name": "Pirate King",

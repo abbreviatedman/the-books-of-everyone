@@ -4039,6 +4039,12 @@
           "$oid": "685ddd4ae6e5c844c6b8eeea"
         },
         "name": "Group Member"
+      },
+      {
+        "id": {
+          "$oid": "685e96cce6e5c8655527ddba"
+        },
+        "name": "The Lamprey"
       }
     ],
     "title": "Heroes and Morons",
@@ -4060,6 +4066,12 @@
           "$oid": "685ddcd8e6e5c844c6b8edfc"
         },
         "name": "Quentin Coldwater"
+      },
+      {
+        "id": {
+          "$oid": "685e96cce6e5c8655527ddba"
+        },
+        "name": "The Lamprey"
       },
       {
         "name": "Julia Wicker",
