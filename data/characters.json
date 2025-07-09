@@ -12190,22 +12190,6 @@
   },
   {
     "_id": {
-      "$oid": "685dddb6e6e5c844c6b8efc7"
-    },
-    "name": "Young Quentin (Golem)",
-    "actors": ["Luca Padovan"],
-    "quotes": [],
-    "episodes": [
-      {
-        "title": "The Wrath of the Time Bees",
-        "id": {
-          "$oid": "685dddb4e6e5c844c6b8efc6"
-        }
-      }
-    ]
-  },
-  {
-    "_id": {
       "$oid": "685dddb6e6e5c844c6b8efc8"
     },
     "name": "Shinjiro",
