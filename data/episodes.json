@@ -3,7 +3,6 @@
     "_id": {
       "$oid": "685ddcd6e6e5c844c6b8edfb"
     },
-    "quotes": [],
     "characters": [
       {
         "id": {
@@ -192,7 +191,6 @@
     "_id": {
       "$oid": "685ddcdae6e5c844c6b8ee1a"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -315,7 +313,6 @@
     "_id": {
       "$oid": "685ddcdfe6e5c844c6b8ee22"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -456,7 +453,6 @@
     "_id": {
       "$oid": "685ddce3e6e5c844c6b8ee29"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -603,7 +599,6 @@
     "_id": {
       "$oid": "685ddce8e6e5c844c6b8ee33"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -744,7 +739,6 @@
     "_id": {
       "$oid": "685ddcece6e5c844c6b8ee3b"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -843,7 +837,6 @@
     "_id": {
       "$oid": "685ddcf1e6e5c844c6b8ee3e"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -960,7 +953,6 @@
     "_id": {
       "$oid": "685ddcf5e6e5c844c6b8ee49"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -1065,7 +1057,6 @@
     "_id": {
       "$oid": "685ddcf9e6e5c844c6b8ee4c"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -1182,7 +1173,6 @@
     "_id": {
       "$oid": "685ddcfee6e5c844c6b8ee55"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -1323,7 +1313,6 @@
     "_id": {
       "$oid": "685ddd02e6e5c844c6b8ee62"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -1446,7 +1435,6 @@
     "_id": {
       "$oid": "685ddd06e6e5c844c6b8ee66"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -1581,7 +1569,6 @@
     "_id": {
       "$oid": "685ddd0ae6e5c844c6b8ee6a"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -1758,7 +1745,6 @@
     "_id": {
       "$oid": "685ddd0fe6e5c844c6b8ee75"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -1893,7 +1879,6 @@
     "_id": {
       "$oid": "685ddd13e6e5c844c6b8ee82"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -2028,7 +2013,6 @@
     "_id": {
       "$oid": "685ddd17e6e5c844c6b8ee88"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -2115,7 +2099,6 @@
     "_id": {
       "$oid": "685ddd1be6e5c844c6b8ee8a"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -2244,7 +2227,6 @@
     "_id": {
       "$oid": "685ddd20e6e5c844c6b8ee92"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -2373,7 +2355,6 @@
     "_id": {
       "$oid": "685ddd25e6e5c844c6b8ee98"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -2532,7 +2513,6 @@
     "_id": {
       "$oid": "685ddd28e6e5c844c6b8eea1"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -2679,7 +2659,6 @@
     "_id": {
       "$oid": "685ddd2ce6e5c844c6b8eeab"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -2832,7 +2811,6 @@
     "_id": {
       "$oid": "685ddd30e6e5c844c6b8eeb3"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -3003,7 +2981,6 @@
     "_id": {
       "$oid": "685ddd34e6e5c844c6b8eeba"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -3144,7 +3121,6 @@
     "_id": {
       "$oid": "685ddd38e6e5c844c6b8eec1"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -3345,7 +3321,6 @@
     "_id": {
       "$oid": "685ddd3be6e5c844c6b8eecc"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -3498,7 +3473,6 @@
     "_id": {
       "$oid": "685ddd40e6e5c844c6b8eece"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -3681,7 +3655,6 @@
     "_id": {
       "$oid": "685ddd44e6e5c844c6b8eed2"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -3858,7 +3831,6 @@
     "_id": {
       "$oid": "685ddd48e6e5c844c6b8eedc"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -4059,7 +4031,6 @@
     "_id": {
       "$oid": "685ddd4ce6e5c844c6b8eeeb"
     },
-    "quotes": [],
     "characters": [
       {
         "id": {
@@ -4212,7 +4183,6 @@
     "_id": {
       "$oid": "685ddd50e6e5c844c6b8eef2"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -4371,7 +4341,6 @@
     "_id": {
       "$oid": "685ddd53e6e5c844c6b8eefa"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -4524,7 +4493,6 @@
     "_id": {
       "$oid": "685ddd57e6e5c844c6b8ef06"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -4641,7 +4609,6 @@
     "_id": {
       "$oid": "685ddd5ce6e5c844c6b8ef0b"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -4782,7 +4749,6 @@
     "_id": {
       "$oid": "685ddd5fe6e5c844c6b8ef0e"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -4929,7 +4895,6 @@
     "_id": {
       "$oid": "685ddd63e6e5c844c6b8ef14"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -5028,7 +4993,6 @@
     "_id": {
       "$oid": "685ddd67e6e5c844c6b8ef17"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -5187,7 +5151,6 @@
     "_id": {
       "$oid": "685ddd6de6e5c844c6b8ef21"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -5286,7 +5249,6 @@
     "_id": {
       "$oid": "685ddd71e6e5c844c6b8ef25"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -5409,7 +5371,6 @@
     "_id": {
       "$oid": "685ddd76e6e5c844c6b8ef28"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -5604,7 +5565,6 @@
     "_id": {
       "$oid": "685ddd7be6e5c844c6b8ef34"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Alice Quinn",
@@ -5769,7 +5729,6 @@
     "_id": {
       "$oid": "685ddd7fe6e5c844c6b8ef45"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -5970,7 +5929,6 @@
     "_id": {
       "$oid": "685ddd83e6e5c844c6b8ef4c"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -6147,7 +6105,6 @@
     "_id": {
       "$oid": "685ddd87e6e5c844c6b8ef5a"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -6246,7 +6203,6 @@
     "_id": {
       "$oid": "685ddd8be6e5c844c6b8ef5f"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -6423,7 +6379,6 @@
     "_id": {
       "$oid": "685ddd8ee6e5c844c6b8ef6b"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -6588,7 +6543,6 @@
     "_id": {
       "$oid": "685ddd92e6e5c844c6b8ef79"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -6795,7 +6749,6 @@
     "_id": {
       "$oid": "685ddd96e6e5c844c6b8ef89"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -6936,7 +6889,6 @@
     "_id": {
       "$oid": "685ddd9ae6e5c844c6b8ef8e"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -7125,7 +7077,6 @@
     "_id": {
       "$oid": "685ddd9ee6e5c844c6b8ef98"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -7290,7 +7241,6 @@
     "_id": {
       "$oid": "685ddda2e6e5c844c6b8efa4"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -7431,7 +7381,6 @@
     "_id": {
       "$oid": "685ddda7e6e5c844c6b8efaa"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -7590,7 +7539,6 @@
     "_id": {
       "$oid": "685dddabe6e5c844c6b8efaf"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Quentin Coldwater",
@@ -7737,7 +7685,6 @@
     "_id": {
       "$oid": "685dddb0e6e5c844c6b8efb2"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Julia Wicker",
@@ -7932,7 +7879,6 @@
     "_id": {
       "$oid": "685dddb4e6e5c844c6b8efc6"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Julia Wicker",
@@ -8049,7 +7995,6 @@
     "_id": {
       "$oid": "685dddb8e6e5c844c6b8efca"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Julia Wicker",
@@ -8148,7 +8093,6 @@
     "_id": {
       "$oid": "685dddbde6e5c844c6b8efd0"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Julia Wicker",
@@ -8319,7 +8263,6 @@
     "_id": {
       "$oid": "685dddc2e6e5c844c6b8efde"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Julia Wicker",
@@ -8448,7 +8391,6 @@
     "_id": {
       "$oid": "685dddc5e6e5c844c6b8efe5"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Julia Wicker",
@@ -8577,7 +8519,6 @@
     "_id": {
       "$oid": "685dddcae6e5c844c6b8efeb"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Julia Wicker",
@@ -8718,7 +8659,6 @@
     "_id": {
       "$oid": "685dddcde6e5c844c6b8eff3"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Julia Wicker",
@@ -8853,7 +8793,6 @@
     "_id": {
       "$oid": "685dddd1e6e5c844c6b8effc"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Julia Wicker",
@@ -8994,7 +8933,6 @@
     "_id": {
       "$oid": "685dddd4e6e5c844c6b8f001"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Julia Wicker",
@@ -9129,7 +9067,6 @@
     "_id": {
       "$oid": "685dddd8e6e5c844c6b8f007"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Julia Wicker",
@@ -9252,7 +9189,6 @@
     "_id": {
       "$oid": "685ddddce6e5c844c6b8f009"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Julia Wicker",
@@ -9429,7 +9365,6 @@
     "_id": {
       "$oid": "685ddde0e6e5c844c6b8f016"
     },
-    "quotes": [],
     "characters": [
       {
         "name": "Julia Wicker",
