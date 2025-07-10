@@ -9654,27 +9654,6 @@
   },
   {
     "_id": {
-      "$oid": "685ddd7de6e5c844c6b8ef39"
-    },
-    "name": "Sam Cunningham",
-    "actors": [""],
-    "episodes": [
-      {
-        "title": "A Flock of Lost Birds",
-        "id": {
-          "$oid": "685ddd7be6e5c844c6b8ef34"
-        }
-      },
-      {
-        "title": "Lost, Found, Fucked",
-        "id": {
-          "$oid": "685ddd7fe6e5c844c6b8ef45"
-        }
-      }
-    ]
-  },
-  {
-    "_id": {
       "$oid": "685ddd7de6e5c844c6b8ef3b"
     },
     "name": "Detective Richter",
@@ -12494,7 +12473,7 @@
     "_id": {
       "$oid": "685dddcfe6e5c844c6b8eff9"
     },
-    "name": "Student #1",
+    "name": "Student #5",
     "actors": ["Kimi Alexander"],
     "episodes": [
       {
@@ -12509,7 +12488,7 @@
     "_id": {
       "$oid": "685dddcfe6e5c844c6b8effa"
     },
-    "name": "Student #2",
+    "name": "Student #6",
     "actors": ["Alexander Lowe"],
     "episodes": [
       {
