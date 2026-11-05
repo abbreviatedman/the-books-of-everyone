@@ -12,7 +12,7 @@
     "url": "git+https://github.com/abbreviatedman/the-books-of-everyone.git"
   },
   "author": "Colin Jaffe",
-  "license": "GPL-3.0-or-later",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/abbreviatedman/the-books-of-everyone/issues"
   },
