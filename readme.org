@@ -14,4 +14,321 @@ The endpoints are:
 
 ** Current Status
 
-The API is currently in the initial development stage. The database has been set up with initial data, and basic queries to TMDB are functional. Further work is needed to implement full RESTful endpoints and integrate them with the local database.
+The API is currently in the initial development stage. The data for characters and episodes were scraped (see next section) and saved as JSON.
+
+** TODO
+
+- Compile quote data.
+- Implement tests for episodes, characters, and quotes endpoints.
+- Implement full RESTful endpoints for episodes, characters, and quotes.
+- Correct further minor errors in episode and character data.
+- Add front end interface for the API.
+
+** Data Pipeline and Scraper Documentation
+
+*** Overview
+
+The episodes and character data for Books of Everyone API is built initially from a scraping process that collects information from IMDb. Then the data was hand-corrected.
+
+A Python scraper collected the episode and cast information from IMDb, transformed the data into the project's internal format, and output JSON files consumed by the API.
+
+The primary generated artifacts are:
+
+- `episodes.json`
+- `characters.json`
+
+*Note that this is how the data was /initially/ collected and has been further refined manually.* Running the scraper will overwrite any manual corrections, and it's up to the user to ensure that any manual edits are preserved if needed, possibly from this repository's data, or re-applied after scraping.
+
+*** Source
+
+The scraper collects information from IMDb for the television series associated with IMDb title ID:
+
+```text
+tt4254242
+```
+
+Data is retrieved from:
+
+- IMDb season episode listings
+- Individual IMDb episode pages
+- Episode cast information exposed through IMDb pages
+
+---
+
+** Coverage
+
+Current scraper coverage includes:
+
+```text
+Season 1
+Season 2
+Season 3
+Season 4
+Season 5
+```
+
+The scraper traverses every season and processes each listed episode.
+
+---
+
+** Included Data
+
+*** Episode Data
+
+The dataset is intended to capture episode-level information including:
+
+- season number
+- episode number
+- episode title
+- episode identifiers
+- associated cast information
+- other metadata extracted from the episode page
+
+---
+
+*** Character Data
+
+The dataset maintains a normalized collection of characters appearing throughout the series.
+
+Character records are generated from episode cast data and consolidated across episodes whenever possible.
+
+---
+
+** Excluded Data
+
+The scraper is not intended to collect:
+
+- user reviews
+- ratings
+- trivia
+- production notes
+- external commentary
+- non-canonical fan content
+
+Only information necessary to support the API endpoints is considered in scope.
+
+** Output Files
+
+*** episodes.json
+
+Generated dataset containing episode records.
+
+Purpose:
+
+- powers `/episodes`
+- powers episode lookup endpoints
+- powers episode-character relationships
+- powers episode-quote relationships
+
+**** Example Contents
+
+#+begin_src json
+{
+    "characters": [
+        {
+            "name": "Quentin Coldwater",
+            "id": {
+                "$oid": "685ddcd8e6e5c844c6b8edfc"
+            }
+        },
+
+        ...
+    ]
+
+    "title": "Unauthorized Magic",
+    "description": "Quentin Coldwater, a brilliant but depressed college student from Brooklyn, is offered an invitation to Brakebills Academy, an exclusive (and secret) graduate school for Magicians.",
+    "runtime": 52,
+    "airDate": {
+        "$date": "2015-12-16T00:00:00Z"
+    },
+
+    "code": "s01e01"
+}
+#+end_src
+
+*** characters.json
+
+Generated dataset containing character records.
+
+Purpose:
+
+- powers `/characters`
+- powers character lookup endpoints
+- supports cross-episode character references
+
+*** Example Contents
+
+```json
+{
+    "_id": {
+        "$oid": "685ddcd8e6e5c844c6b8edfc"
+    },
+
+    "name": "Quentin Coldwater",
+    "actors": ["Jason Ralph", "Luca Padovan"],
+    "episodes": [
+        {
+            "title": "Unauthorized Magic",
+            "id": {
+                "$oid": "685ddcd6e6e5c844c6b8edfb"
+            }
+        },
+
+        ...
+    ]
+}
+```
+
+** Local Scraper Development Setup
+
+*** Requirements
+
+Python 3.10+ is recommended.
+
+**** Python Dependencies
+
+- requests
+- beautifulsoup4
+
+Install dependencies:
+
+#+begin_src bash
+pip install requests beautifulsoup4
+#+end_src
+
+Or create a `requirements.txt` containing:
+
+#+begin_src text
+beautifulsoup4
+requests
+#+end_src
+
+and run:
+
+#+begin_src bash
+pip install -r requirements.txt
+#+end_src
+
+*** Running the Scraper
+
+From the `data` directory:
+
+#+begin_src bash
+python scrape.py
+#+end_src
+
+The scraper will:
+
+1. Visit each season listing on IMDb.
+2. Discover individual episode URLs.
+3. Process every episode.
+4. Aggregate character information.
+5. Build an episode dataset.
+6. Write the updated JSON output files.
+
+Generated files:
+
+- characters.json
+- episodes.json
+
+**** Post Scraping Manual Changes
+
+IMDb cast listings do not always provide consistently named character records.
+
+Examples:
+
+#+begin-src text
+Guard
+Guard #1
+Guard #2
+#+end_src
+
+#+begin-src text
+Student
+Student #1
+Student #2
+Student #3
+#+end_src
+
+#+begin-src text
+Narrator
+Narrator #1
+Narrator #2
+#+end_src
+
+The scraper provides the raw data needed to build the dataset, but some records may require normalization or manual review.
+
+**** Known Data Quality Issues
+
+The project currently tracks a number of post-processing and data-cleanup tasks.
+
+Examples include:
+
+- duplicate background character names
+- inconsistent numbering schemes
+- recurring unnamed character variants
+- cast entries that may need consolidation
+- cast entries that may need splitting
+
+Examples currently under review include:
+
+- Physical Kid #1 / #2
+- Healer #1 / #2
+- Student #1 / #2 / #3 / #4
+- Young Professor #1 / #2
+- Guard variants
+- Waitress variants
+- Nurse variants
+- Narrator variants
+- Concierge variants
+- Librarian variants
+- Guest variants
+
+These issues are tracked in `notes.md`.
+
+*** Limitations
+
+**** IMDb Dependency
+
+This scraper depends on IMDb's current HTML structure.
+
+The scraper may require maintenance if IMDb changes:
+
+- page layouts
+- CSS structure
+- cast list presentation
+- URL patterns
+- episode navigation
+
+*** Rate Limiting
+
+The scraper deliberately pauses between requests:
+
+#+begin_src python
+sleep(1)
+#+end_src
+
+This reduces request frequency and lowers the risk of overwhelming the source website.
+
+*** Contributor Guidelines
+
+When modifying the scraper:
+
+1. Preserve compatibility with existing JSON schemas.
+2. Document any newly added output fields.
+3. Keep scraping and normalization logic separate when practical.
+4. Update this document whenever the pipeline changes.
+5. Record unresolved cleanup decisions in `notes.md`.
+
+*** Future Improvements
+
+Potential enhancements include:
+
+- Add a formal `requirements.txt`
+- Add automated validation tests
+- Add schema definitions for JSON output
+- Add duplicate-character detection
+- Add normalization rules as code
+- Add CI/CD checks for regenerated datasets
+- Add scraper health monitoring
+- Add source-data version tracking
