@@ -4,13 +4,15 @@ This API provides access to data related to the TV show "The Magicians," includi
 
 The endpoints are:
 
+#+beginn_src text
 - /episodes - Get a list of episodes
-- X/episodes/:id - Get details of a specific episode
+- /episodes/:id - Get details of a specific episode
 - /characters - Get a list of characters
 - /characters/:id - Get details of a specific character
 - /quotes - Get a list of quotes
 - /quotes/:id - Get details of a specific quote
 - /quotes/random - Get a random quote
+#+end_src
 
 ** Current Status
 
