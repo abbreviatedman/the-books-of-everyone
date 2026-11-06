@@ -5,7 +5,7 @@ This API provides access to data related to the TV show "The Magicians," includi
 The endpoints are:
 
 - /episodes - Get a list of episodes
-- /episodes/:id - Get details of a specific episode
+- X/episodes/:id - Get details of a specific episode
 - /characters - Get a list of characters
 - /characters/:id - Get details of a specific character
 - /quotes - Get a list of quotes
@@ -146,7 +146,7 @@ Purpose:
 
 *** Example Contents
 
-
+#+begin_src json
 {
     "_id": {
         "$oid": "685ddcd8e6e5c844c6b8edfc"
