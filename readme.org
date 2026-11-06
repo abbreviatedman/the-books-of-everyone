@@ -53,17 +53,7 @@ Data is retrieved from:
 
 ** Coverage
 
-Current scraper coverage includes:
-    
-#+begin_src text
-Season 1
-Season 2
-Season 3
-Season 4
-Season 5
-#+end_src
-
-The scraper traverses every season and processes each listed episode.
+Current scraper coverage includes Season 1-5. The scraper traverses every season and processes each listed episode.
 
 ** Included Data
 
